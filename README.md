@@ -1,4 +1,4 @@
 kiki
 ====
 
-mobile meetup for parents
+ A mobile meetup for parents
