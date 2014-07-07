@@ -1,1 +1,12 @@
-<h1>Hello, Rails!</h1>
+<h1>Nearby events</h1>
+
+<% time = Time.new %>
+<% today = time.wday%>
+
+
+<% (0..6).each do |i| %>
+<p>
+	<% day = today + i %>
+	<%= Date::DAYNAMES[day % 7] %>
+</p>
+<% end %>
