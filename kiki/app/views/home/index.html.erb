@@ -1,3 +1,23 @@
+<h1>This week's events sorted by time</h1>
+
+<div data-role="collapsible" data-collapsed="false">
+    <h4>Monday</h4>
+	<ul data-role="listview">
+		<% @week_events.each do |event| %>
+    		<li><a href="#"> <%= event.name %> &nbsp; &nbsp; <%= event.time %> </a></li>
+		<% end %>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <h1>Today is</h1>
 <%= @current_datetime.strftime('%a %b %d %Y')%>
