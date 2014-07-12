@@ -1,12 +1,28 @@
-<h1>Nearby events</h1>
 
-<% time = Time.new %>
-<% today = time.wday%>
+<h1>Today is</h1>
+<%= @current_datetime.strftime('%a %b %d %Y')%>
 
+<p></p>
+<p></p>
+<p></p>
+
+<h1>This week's events grouped by day</h1>
 
 <% (0..6).each do |i| %>
 <p>
-	<% day = today + i %>
+	<% day = @current_weekday + i %>
 	<%= Date::DAYNAMES[day % 7] %>
 </p>
 <% end %>
+
+<p></p>
+<p></p>
+<p></p>
+
+<h1>This week's events sorted by time</h1>
+
+<ul>
+<% @week_events.each do |event| %>
+    <li> <%= event.name %> &nbsp; &nbsp; <%= event.time %> </li>
+<% end %>
+</ul>
