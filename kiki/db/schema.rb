@@ -14,7 +14,7 @@
 ActiveRecord::Schema.define(version: 20140706085330) do
 
   create_table "attendances", force: true do |t|
-    t.string   "response"
+    t.boolean  "response"
     t.integer  "user_id"
     t.integer  "event_id"
     t.datetime "created_at"

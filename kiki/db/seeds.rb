@@ -59,3 +59,37 @@ x = 7
 t = DateTime.new(x.day.from_now.year, x.day.from_now.month, x.day.from_now.day,11,30,0)
 Event.create(name: 'Water babies', time: t, place: 'Palo Alto', description: 'Go swiming with the kids.')
 
+
+
+#Create sample users data
+User.create(name: 'Jessica', email: 'jessica@email.com', password_hash: 'pass', password_salt: 'pass')
+User.create(name: 'Gabor', email: 'gabor@email.com', password_hash: 'pass', password_salt: 'pass')
+User.create(name: 'Mati', email: 'mati@email.com', password_hash: 'pass', password_salt: 'pass')
+User.create(name: 'Peter', email: 'peter@email.com', password_hash: 'pass', password_salt: 'pass')
+User.create(name: 'Mary', email: 'mary@email.com', password_hash: 'pass', password_salt: 'pass')
+
+#Create sample attendances data
+Attendance.create(response: TRUE, user_id: 1, event_id: 2)
+Attendance.create(response: TRUE, user_id: 1, event_id: 3)
+Attendance.create(response: TRUE, user_id: 1, event_id: 4)
+
+Attendance.create(response: TRUE, user_id: 2, event_id: 1)
+Attendance.create(response: FALSE, user_id: 2, event_id: 2)
+Attendance.create(response: TRUE, user_id: 2, event_id: 3)
+
+Attendance.create(response: TRUE, user_id: 3, event_id: 3)
+Attendance.create(response: TRUE, user_id: 3, event_id: 5)
+Attendance.create(response: TRUE, user_id: 3, event_id: 7)
+
+Attendance.create(response: TRUE, user_id: 4, event_id: 8)
+Attendance.create(response: TRUE, user_id: 4, event_id: 9)
+Attendance.create(response: FALSE, user_id: 4, event_id: 10)
+
+Attendance.create(response: TRUE, user_id: 5, event_id: 10)
+Attendance.create(response: TRUE, user_id: 5, event_id: 11)
+Attendance.create(response: TRUE, user_id: 5, event_id: 12)
+
+#Create sample comments data
+Comment.create(text: 'I will be there with the Kiki.', user_id: 1, event_id:1)
+Comment.create(text: 'Me too', user_id: 2, event_id:1)
+Comment.create(text: 'Sorry can\'t go to this one.' , user_id: 2, event_id:2)

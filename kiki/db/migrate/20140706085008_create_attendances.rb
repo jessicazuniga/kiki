@@ -1,7 +1,7 @@
 class CreateAttendances < ActiveRecord::Migration
   def change
     create_table :attendances do |t|
-      t.string :response
+      t.boolean :response
       t.references :user, index: true
       t.references :event, index: true
 
