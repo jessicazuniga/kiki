@@ -1,29 +1,55 @@
-<h1>Today is</h1>
-<%= @current_datetime.strftime('%a %b %d %Y')%>
-<p></p>
-<p></p>
-<p></p>
+
+<div data-role="page" id="eventlist">
+
+	<div data-role="header">
+		<h1>Kiki app</h1>
+	</div>
+
+	<div data-role="main" class="ui-content">
+
+		<% event_time = @week_events.first.time%>
+		
+		<div data-role="collapsible" data-collapsed="false">
+		<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
+		<ul data-role="listview">
+		
+			<% @week_events.each do |event| %>
+		
+				<% new_event_time = event.time%>
+				<% if event_time.to_date != new_event_time.to_date %>
+					<% event_time = new_event_time %>
+					</ul>
+					</div>
+					<div data-role="collapsible" data-collapsed="true">
+					<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
+					<ul data-role="listview">					
+				<% end %>
+		    	<li><a href="#eventpage" data-transition="slide"> <%= event.name %> &nbsp; &nbsp; <%= event_time %> &nbsp; &nbsp; <%= Date::DAYNAMES[event_time.wday] %></a></li>
+			<% end %>
+		</ul>
+		</div>
+
+	</div>  <!-- main -->
+
+</div>  <!-- eventlist -->
+
+<div data-role="page" id="eventpage">
+
+	<div data-role="header">
+		<a href="/" data-transition="slide" data-direction="reverse" class="ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left">Back</a>
+		<h1>Kiki app</h1>
+		<a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left">Add</a>
+	</div>
+
+	<div data-role="main" class="ui-content">
+
+		<%= @week_events.first.name %>
+		
+	</div>  <!-- main -->
+
+</div>  <!-- eventpage -->
 
 
-<h1>This week's events sorted by time</h1>
 
-<% event_time = @week_events.first.time%>
-<div data-role="collapsible" data-collapsed="false">
-<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
-<ul data-role="listview">
 
-	<% @week_events.each do |event| %>
 
-		<% new_event_time = event.time%>
-		<% if event_time.to_date != new_event_time.to_date %>
-			<% event_time = new_event_time %>
-			</ul>
-			</div>
-			<div data-role="collapsible" data-collapsed="true">
-			<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
-			<ul data-role="listview">					
-		<% end %>
-    	<li><a href="#"> <%= event.name %> &nbsp; &nbsp; <%= event_time %> &nbsp; &nbsp; <%= Date::DAYNAMES[event_time.wday] %></a></li>
-	<% end %>
-</ul>
-</div>
