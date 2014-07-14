@@ -29,9 +29,9 @@
 		</ul>
 		</div>
 
-	</div>  <!-- main -->
+	</div>  
 
-</div>  <!-- eventlist -->
+</div>  
 
 <div data-role="page" id="eventpage">
 
@@ -45,11 +45,14 @@
 
 		<%= @week_events.first.name %>
 		
-	</div>  <!-- main -->
+	</div>  
 
-</div>  <!-- eventpage -->
-
-
+</div>  
 
 
+<!-- link_to "Profile", profile_path(@profile)
+# => <a href="/profiles/1">Profile</a>
+
+<%= link_to_if(@current_user.nil?, "Login", { controller: "sessions", action: "new" }) %>
+ -->
 
