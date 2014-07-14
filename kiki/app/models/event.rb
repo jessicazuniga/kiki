@@ -10,8 +10,7 @@ def self.getNextEvents(time, num_days)
 	start_time_string = start_time.to_s(:db)
 	end_time_string = end_time.to_s(:db)
 
-	# Event.find_by_sql("""select * from events where time <= '#{end_time_string}' order by time;""")
-	Event.find_by_sql("""select * from events where time >= '#{start_time_string}' and time <= '#{end_time_string}' order by time;""")
+	Event.where("time >= '#{start_time_string}' and time <= '#{end_time_string}'").order(:time)
 end
 
 end

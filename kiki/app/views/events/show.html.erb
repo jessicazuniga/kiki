@@ -10,9 +10,30 @@
 
 	<div data-role="main" class="ui-content">
 
-		Event:
-		<%= @event.name %>
-		
+		<h1> Event Information: </h1>
+		Event: <%= @event.name %>
+		<br></br>
+		Place: <%= @event.place %>
+		<br></br>
+		Time: <%= @event.time %>
+		<br></br>
+		Description: <%= @event.description %>
+
+		<br></br>
+		<br></br>
+		<h1> Participants: </h1>
+		<% @participants.each do |participant| %>
+		<ul>
+			<li><%= User.find(participant.user_id).name %>, <%= User.find(participant.user_id).email %></li>
+		</ul>
+		<% end %>
+
+		<h1> Comments: </h1>
+		<% @comments.each do |comment| %>
+		<ul>
+			<li><%= User.find(comment.user_id).name %>: <%= comment.text %> <%= comment.created_at %></li>
+		</ul>
+		<% end %>
 	</div>  
 
 </div>  

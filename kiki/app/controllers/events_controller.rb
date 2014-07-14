@@ -7,7 +7,10 @@ class EventsController < ApplicationController
   end
 
   def show
-  	@event = Event.find(params[:id])
+  	event_id = params[:id]
+  	@event = Event.find(event_id)
+  	@participants = Attendance.getEventParticipants(event_id)
+  	@comments = Comment.getEventComments(event_id)
   end
 
 end
