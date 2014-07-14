@@ -24,7 +24,10 @@
 					<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
 					<ul data-role="listview">					
 				<% end %>
-		    	<li><a href="#eventpage" data-transition="slide"> <%= event.name %> &nbsp; &nbsp; <%= event_time %> &nbsp; &nbsp; <%= Date::DAYNAMES[event_time.wday] %></a></li>
+		    	<li>
+		    		<%= link_to event.name, event_path(event), :'data-transition' => 'slide' %>
+		    		<!--a href="events/<%= event.id %>" data-transition="slide"> <%= event.name %> &nbsp; &nbsp; <%= event_time %> &nbsp; &nbsp; <%= Date::DAYNAMES[event_time.wday] %></a-->
+		    	</li>
 			<% end %>
 		</ul>
 		</div>
@@ -33,26 +36,11 @@
 
 </div>  
 
-<div data-role="page" id="eventpage">
-
-	<div data-role="header">
-		<a href="/" data-transition="slide" data-direction="reverse" class="ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left">Back</a>
-		<h1>Kiki app</h1>
-		<a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left">Add</a>
-	</div>
-
-	<div data-role="main" class="ui-content">
-
-		<%= @week_events.first.name %>
-		
-	</div>  
-
-</div>  
 
 
 <!-- link_to "Profile", profile_path(@profile)
 # => <a href="/profiles/1">Profile</a>
 
-<%= link_to_if(@current_user.nil?, "Login", { controller: "sessions", action: "new" }) %>
+# %= link_to_if(@current_user.nil?, "Login", { controller: "sessions", action: "new" }) %>
  -->
 
