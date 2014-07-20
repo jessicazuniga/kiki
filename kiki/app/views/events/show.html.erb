@@ -10,30 +10,40 @@
 
 	<div data-role="main" class="ui-content">
 
-		<h1> Event Information: </h1>
-		Event: <%= @event.name %>
-		<br></br>
-		Place: <%= @event.place %>
-		<br></br>
-		Time: <%= @event.time %>
-		<br></br>
-		Description: <%= @event.description %>
+		<h3 class="ui-bar ui-bar-b ui-corner-all"><%= @event.name %></h3>
+		<div class="ui-body">
+			<p><%= @event.time %></p>
+			<p><%= @event.place %></p>
+		</div>
+		<div class="ui-body ui-body-a ui-corner-all">
+			<p><%= @event.description %></p>
+		</div>
 
-		<br></br>
-		<br></br>
-		<h1> Participants: </h1>
-		<% @participants.each do |participant| %>
-		<ul>
-			<li><%= User.find(participant.user_id).name %>, <%= User.find(participant.user_id).email %></li>
-		</ul>
-		<% end %>
+		<a href="#" class="ui-btn ui-btn-b">I'm attending</a>
 
-		<h1> Comments: </h1>
-		<% @comments.each do |comment| %>
-		<ul>
-			<li><%= User.find(comment.user_id).name %>: <%= comment.text %> <%= comment.created_at %></li>
-		</ul>
-		<% end %>
-	</div>  
+		<div data-role="tabs" id="tabs">
+			<div data-role="navbar">
+			  <ul>
+			    <li><a href="#participants" data-ajax="false">Participants</a></li>
+			    <li><a href="#comments" data-ajax="false">Comments</a></li>
+			  </ul>
+			</div>
+			<div id="participants" class="ui-body-d ui-content">
+				<ul data-role="listview">
+					<% @participants.each do |participant| %>
+						<li><%= User.find(participant.user_id).name %>, <%= User.find(participant.user_id).email %></li>
+					<% end %>
+				</ul>
+			</div>
+			<div id="comments" class="ui-body-d ui-content">
+				<ul data-role="listview">
+					<% @comments.each do |comment| %>
+						<li><%= User.find(comment.user_id).name %>: <%= comment.text %> <%= comment.created_at %></li>
+					<% end %>
+				</ul>
+			</div>
+		</div>
+
+	</div>
 
 </div>  

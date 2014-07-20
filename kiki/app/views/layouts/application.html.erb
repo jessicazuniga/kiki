@@ -7,13 +7,45 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="format-detection" content="telephone=no">
 
+
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+
+  <script type='text/javascript'>//<![CDATA[ 
+  window.onload=function(){
+  $.widget( "ui.tabs", $.ui.tabs, {
+  
+      _createWidget: function( options, element ) {
+          var page, delayedCreate,
+              that = this;
+  
+          if ( $.mobile.page ) {
+              page = $( element )
+                  .parents( ":jqmData(role='page'),:mobile-page" )
+                  .first();
+  
+              if ( page.length > 0 && !page.hasClass( "ui-page-active" ) ) {
+                  delayedCreate = this._super;
+                  page.one( "pagebeforeshow", function() {
+                      delayedCreate.call( that, options, element );
+                  });
+              }
+          } else {
+              return this._super();
+          }
+      }
+  });
+  }//]]>  
+
+</script>
+
+
 </head>
 <body>
 
 <%= yield %>
 
 </body>
+
 </html>
