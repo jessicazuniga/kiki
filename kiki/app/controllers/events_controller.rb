@@ -23,4 +23,32 @@ class EventsController < ApplicationController
 
   end
 
+
+  def new
+
+    @event = Event.new
+
+	respond_to do |format|
+        format.html { render :layout => !request.xhr? }
+    end
+
+  end
+   
+  def create
+
+    @event = Event.new(event_params)
+   
+    if @event.save
+      redirect_to @event
+    else
+      render 'new', :layout => !request.xhr?
+    end
+
+  end
+   
+  private
+    def event_params
+      params.require(:event).permit(:name, :time_only, :date_only, :place)
+    end
+
 end
