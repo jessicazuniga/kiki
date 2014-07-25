@@ -4,6 +4,7 @@ Rails.application.routes.draw do
 
 root 'events#index'
 resources :events
+post 'events/attend_event' => 'events#attend_event'
 
 #get 'event' => 'event#index'
 

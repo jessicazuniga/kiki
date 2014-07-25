@@ -19,7 +19,8 @@
 			<p><%= @event.description %></p>
 		</div>
 
-		<a href="#" class="ui-btn ui-btn-b">I'm attending</a>
+		<div id="something"></div>
+		<%= link_to 'Attend event' , {:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id}, method: :post, :remote => true %>
 
 		<div data-role="tabs" id="tabs">
 			<div data-role="navbar">
