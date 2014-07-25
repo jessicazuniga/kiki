@@ -1,11 +1,13 @@
 <div data-role="page" id="eventpage">
 
 	<div data-role="header">
-		<%= link_to 'Back', events_path,
+		<%= link_to 'Home', events_path + '/',  # TODO: change / to force page reload instead
 			:'data-transition' => 'slide', :'data-direction' => 'reverse',
-			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left' %>
+			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-carat-l ui-btn-icon-left' %>
 		<h1>Kiki app</h1>
-		<a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left">Add</a>
+   		<%= link_to 'Add', new_event_path,
+   			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
+   			:'data-transition' => 'slide' %>
 	</div>
 
 	<div data-role="main" class="ui-content">
