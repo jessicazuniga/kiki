@@ -4,7 +4,7 @@
 		<%= link_to 'Back', events_path,
 			:'data-transition' => 'slide', :'data-direction' => 'reverse',
 			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left' %>
-		<h1>Kiki app</h1>
+		<h1>Magical mobile app</h1>
 		<a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left">Add</a>
 	</div>
 
@@ -19,14 +19,14 @@
 
 			<div data-role="controlgroup" data-type="horizontal">
 				<% if (!@attending.nil? and @attending) %>
-					<a class="ui-btn ui-corner-all ui-icon-check ui-btn-icon-left ui-btn-b">Yes</a>
+					<a class="ui-btn ui-corner-all ui-icon-check ui-btn-icon-left ui-btn-active">Yes</a>
 				<% else %>
 					<%= link_to "Yes",
 						{:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id, :rsvp => true},
 						method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-icon-check ui-btn-icon-left" %>
 				<% end %>
 				<% if (!@attending.nil? and !@attending) %>
-					<a class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-left ui-btn-b">No</a>
+					<a class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-left ui-btn-active">No</a>
 				<% else %>
 					<%= link_to "No",
 						{:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id, :rsvp => false},
@@ -45,7 +45,7 @@
 		<div data-role="tabs" id="tabs">
 			<div data-role="navbar">
 			  <ul>
-			    <li><a href="#participants" data-ajax="false">Participants</a></li>
+			    <li><a href="#participants" data-ajax="false">See who's going</a></li>
 			    <li><a href="#comments" data-ajax="false">Comments</a></li>
 			  </ul>
 			</div>
