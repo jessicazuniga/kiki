@@ -1,13 +1,11 @@
 <div data-role="page" id="eventpage">
 
 	<div data-role="header">
-		<%= link_to 'Home', events_path + '/',  # TODO: change / to force page reload instead
+		<%= link_to 'Back', events_path,
 			:'data-transition' => 'slide', :'data-direction' => 'reverse',
-			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-carat-l ui-btn-icon-left' %>
+			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left' %>
 		<h1>Kiki app</h1>
-   		<%= link_to 'Add', new_event_path,
-   			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
-   			:'data-transition' => 'slide' %>
+		<a href="#" class="ui-btn ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left">Add</a>
 	</div>
 
 	<div data-role="main" class="ui-content">
@@ -21,8 +19,7 @@
 			<p><%= @event.description %></p>
 		</div>
 
-		<div id="something"></div>
-		<%= link_to 'Attend event' , {:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id}, method: :post, :remote => true %>
+		<%= link_to 'Attend event' , {:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id}, method: :post, :remote => false %>
 
 		<div data-role="tabs" id="tabs">
 			<div data-role="navbar">

@@ -26,24 +26,19 @@ class EventsController < ApplicationController
     user_id = params[:user_id]
     event_id = params[:event_id]
     Attendance.switchResponse(user_id, event_id)
-    @participants = Attendance.getEventParticipants(event_id)
-
+  
     @user_id = user_id
     @event_id = event_id
     @response = Attendance.where(user_id: user_id, event_id: event_id).first.response
 
-    respond_to do |format|
-      format.html { redirect_to events_path }
-      format.json { head :no_content }
-      format.js { render :layout => false }
-    end
+    redirect_to event_path(event_id) 
   end
 
   def new
 
     @event = Event.new
 
-	respond_to do |format|
+	  respond_to do |format|
         format.html { render :layout => !request.xhr? }
     end
 
