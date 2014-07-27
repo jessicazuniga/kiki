@@ -1,3 +1,15 @@
 // Place all the styles related to the events controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+@media all {
+	.ui-controlgroup {
+			text-align: center;
+	}
+	.ui-controlgroup-controls {
+		width: 100%;
+		.ui-btn {
+			width: calc(50% - 3.5em - 2px);
+		}
+	}
+}

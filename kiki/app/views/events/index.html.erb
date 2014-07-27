@@ -10,7 +10,8 @@
 
 	<div data-role="main" class="ui-content">
 
-		<% event_time = @week_events.first.time%>
+		<% event_time = @week_events.first.time %>
+		<% day_count = 1 %>
 		
 		<div data-role="collapsible" data-collapsed="false">
 		<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
@@ -21,9 +22,10 @@
 				<% new_event_time = event.time%>
 				<% if event_time.to_date != new_event_time.to_date %>
 					<% event_time = new_event_time %>
+					<% day_count += 1 %>
 					</ul>
 					</div>
-					<div data-role="collapsible" data-collapsed="true">
+					<div data-role="collapsible" data-collapsed="<%= (day_count <= 3) ? "false" : "true" %>">
 					<h4><%= Date::DAYNAMES[event_time.wday] %></h4>
 					<ul data-role="listview">					
 				<% end %>

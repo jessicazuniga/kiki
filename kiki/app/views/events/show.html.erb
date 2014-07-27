@@ -12,14 +12,35 @@
 
 		<h3 class="ui-bar ui-bar-b ui-corner-all"><%= @event.name %></h3>
 		<div class="ui-body">
-			<p><%= @event.time %></p>
-			<p><%= @event.place %></p>
-		</div>
-		<div class="ui-body ui-body-a ui-corner-all">
-			<p><%= @event.description %></p>
+			<p><%= @event.time %><br/>
+			<%= @event.place %></p>
+
+			<span>Are you going?</span>
+
+			<div data-role="controlgroup" data-type="horizontal">
+				<% if (!@attending.nil? and @attending) %>
+					<a class="ui-btn ui-corner-all ui-icon-check ui-btn-icon-left ui-btn-b">Yes</a>
+				<% else %>
+					<%= link_to "Yes",
+						{:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id, :rsvp => true},
+						method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-icon-check ui-btn-icon-left" %>
+				<% end %>
+				<% if (!@attending.nil? and !@attending) %>
+					<a class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-left ui-btn-b">No</a>
+				<% else %>
+					<%= link_to "No",
+						{:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id, :rsvp => false},
+						method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-icon-delete ui-btn-icon-left" %>
+				<% end %>
+			</div>
+	
+			<div class="ui-body ui-body-a ui-corner-all">
+				<p><%= @event.description %></p>
+			</div>
+
 		</div>
 
-		<%= link_to 'Attend event' , {:controller => "events", :action => "attend_event", :user_id => 1, :event_id => @event.id}, method: :post, :remote => false %>
+		<p></p>
 
 		<div data-role="tabs" id="tabs">
 			<div data-role="navbar">

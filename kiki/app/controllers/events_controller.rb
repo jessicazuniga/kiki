@@ -16,6 +16,7 @@ class EventsController < ApplicationController
   	@event = Event.find(event_id)
   	@participants = Attendance.getEventParticipants(event_id)
   	@comments = Comment.getEventComments(event_id)
+  	@attending = Attendance.attending?(1, event_id)
 
 	respond_to do |format|
         format.html { render :layout => !request.xhr? }
@@ -23,15 +24,18 @@ class EventsController < ApplicationController
   end
 
   def attend_event
-    user_id = params[:user_id]
-    event_id = params[:event_id]
-    Attendance.switchResponse(user_id, event_id)
-  
-    @user_id = user_id
-    @event_id = event_id
-    @response = Attendance.where(user_id: user_id, event_id: event_id).first.response
 
-    redirect_to event_path(event_id) 
+  	Attendance.setResponse(params[:user_id], params[:event_id], params[:rsvp])
+
+#   user_id = params[:user_id]
+#    event_id = params[:event_id]
+#    Attendance.switchResponse(user_id, event_id)
+  
+#    @user_id = user_id
+#    @event_id = event_id
+#    @response = Attendance.where(user_id: user_id, event_id: event_id).first.response
+
+    #redirect_to event_path(event_id) 
   end
 
   def new
