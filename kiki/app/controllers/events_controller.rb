@@ -1,9 +1,9 @@
 class EventsController < ApplicationController
 
   def index
-  	@current_datetime = Time.new
-	  @current_weekday = @current_datetime.wday
-  	@week_events = Event.getNextEvents(@current_datetime, 70)
+  	@now = Time.now
+	#@current_weekday = @current_datetime.wday
+  	@week_events = Event.getNextEvents(@now, 7)
 
 	respond_to do |format|
         format.html { render :layout => !request.xhr? }

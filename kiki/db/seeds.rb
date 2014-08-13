@@ -62,11 +62,11 @@ Event.create(name: 'Water babies', time: t, place: 'Palo Alto', description: 'Go
 
 
 #Create sample users data
-User.create(name: 'Jessica', email: 'jessica@email.com', password_hash: 'pass', password_salt: 'pass')
-User.create(name: 'Gabor', email: 'gabor@email.com', password_hash: 'pass', password_salt: 'pass')
-User.create(name: 'Mati', email: 'mati@email.com', password_hash: 'pass', password_salt: 'pass')
-User.create(name: 'Peter', email: 'peter@email.com', password_hash: 'pass', password_salt: 'pass')
-User.create(name: 'Mary', email: 'mary@email.com', password_hash: 'pass', password_salt: 'pass')
+User.create!(name: 'Jessica', email: 'jessica@email.com', password: 'password', password_confirmation: 'password')
+User.create(name: 'Gabor', email: 'gabor@email.com', password: 'password', password_confirmation: 'password')
+User.create(name: 'Mati', email: 'mati@email.com', password: 'password', password_confirmation: 'password')
+User.create(name: 'Peter', email: 'peter@email.com', password: 'password', password_confirmation: 'password')
+User.create(name: 'Mary', email: 'mary@email.com', password: 'password', password_confirmation: 'password')
 
 #Create sample attendances data
 Attendance.create(response: TRUE, user_id: 1, event_id: 2)

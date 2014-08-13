@@ -35,10 +35,7 @@ class Event < ActiveRecord::Base
 		start_time = time.beginning_of_day
 		end_time = (time + num_days.days).end_of_day
 	
-		start_time_string = start_time.to_s(:db)
-		end_time_string = end_time.to_s(:db)
-	
-		Event.where("time >= '#{start_time_string}' and time <= '#{end_time_string}'").order(:time)
+		Event.where("time >= '#{start_time.to_s(:db)}' and time <= '#{end_time.to_s(:db)}'").order(:time)
 	end
 
 end
