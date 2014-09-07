@@ -5,8 +5,8 @@ class EventsController < ApplicationController
 	#@current_weekday = @current_datetime.wday
   	@week_events = Event.getNextEvents(@now, 7)
 
-	respond_to do |format|
-        format.html { render :layout => !request.xhr? }
+	  respond_to do |format|
+      format.html { render :layout => !request.xhr? }
     end
 
   end
@@ -18,8 +18,13 @@ class EventsController < ApplicationController
   	@comments = Comment.getEventComments(event_id)
   	@attending = Attendance.attending?(1, event_id)
 
-	respond_to do |format|
-        format.html { render :layout => !request.xhr? }
+    @comment = Comment.new
+    @comment.event_id = event_id
+    @comment.user_id = 1
+
+
+  	respond_to do |format|
+      format.html { render :layout => !request.xhr? }
     end
   end
 
@@ -38,14 +43,26 @@ class EventsController < ApplicationController
     #redirect_to event_path(event_id) 
   end
 
+
+  def add_comment
+
+    @comment = Comment.new(comment_params)
+
+    if @comment.save
+      @event = Event.find(params[:comment][:event_id])
+      redirect_to @event
+    else
+      render 'new', :layout => !request.xhr?
+    end
+
+  end
+
+
   def new
-
     @event = Event.new
-
 	  respond_to do |format|
         format.html { render :layout => !request.xhr? }
     end
-
   end
    
   def create
@@ -62,7 +79,12 @@ class EventsController < ApplicationController
    
   private
     def event_params
-      params.require(:event).permit(:name, :time_only, :date_only, :place)
+      params.require(:event).permit(:name, :time_only, :date_only, :place, :description)
+    end
+
+  private
+    def comment_params
+      params.require(:comment).permit(:text, :user_id, :event_id)
     end
 
 end

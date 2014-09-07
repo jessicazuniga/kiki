@@ -58,9 +58,22 @@
 			</div>
 			<div id="comments" class="ui-body-d ui-content">
 				<ul data-role="listview">
+
+					<li> 
+						<%= form_for @comment, url: {action: :add_comment} do |c| %>
+							<%= c.hidden_field :event_id %>
+							<%= c.hidden_field :user_id %>
+							<%= c.label :text, 'New comment:' %>
+							<%= c.text_field :text %>
+							<%= c.submit 'Add comment' %>
+						<% end %>
+
+					</li>
+
 					<% @comments.each do |comment| %>
 						<li><%= User.find(comment.user_id).name %>: <%= comment.text %> <%= comment.created_at %></li>
 					<% end %>
+
 				</ul>
 			</div>
 		</div>
