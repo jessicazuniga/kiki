@@ -1,5 +1,7 @@
 class EventsController < ApplicationController
 
+  #before_action :authenticate_user!, :except => [:index, :show]
+
   def index
   	@now = Time.now
 	#@current_weekday = @current_datetime.wday
@@ -16,7 +18,7 @@ class EventsController < ApplicationController
   	@event = Event.find(event_id)
   	@participants = Attendance.getEventParticipants(event_id)
   	@comments = Comment.getEventComments(event_id)
-  	@attending = Attendance.attending?(1, event_id)
+    @attending = user_signed_in? ? Attendance.attending?(current_user.id, event_id) : nil
 
     @comment = Comment.new
     @comment.event_id = event_id
