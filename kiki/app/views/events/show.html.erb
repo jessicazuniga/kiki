@@ -1,4 +1,4 @@
-<div data-role="page" id="eventpage">
+<div data-role="page" data-theme="a" id="eventpage">
 
 	<div data-role="header">
 		<%= link_to 'Back', events_path + '/',
@@ -13,7 +13,7 @@
 
 	<div data-role="main" class="ui-content">
 
-		<h3 class="ui-bar ui-bar-b ui-corner-all"><%= @event.name %></h3>
+		<h3 class="ui-bar ui-bar-a ui-corner-all"><%= @event.name %></h3>
 		<div class="ui-body">
 			<p><%= @event.time %><br/>
 			<%= @event.place %></p>

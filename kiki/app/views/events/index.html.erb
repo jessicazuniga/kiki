@@ -1,5 +1,5 @@
 
-<div data-role="page" id="eventlist">
+<div data-role="page" data-theme="a" id="eventlist">
 
 	<div data-role="header">
 		<h1>Magical mobile app</h1>
@@ -18,10 +18,6 @@
 	</div>
 
 	<div data-role="main" class="ui-content">
-
-		<% if user_signed_in? %>
-			<h5>Hello, <%= current_user.name %></h5>
-		<% end %>
 
 		<% event_time = @now.to_date #@week_events.first.time %>
 		<% day_count = 1 %>
