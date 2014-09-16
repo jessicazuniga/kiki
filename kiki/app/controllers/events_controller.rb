@@ -18,7 +18,7 @@ class EventsController < ApplicationController
   	event_id = params[:id]
   	@event = Event.find(event_id)
   	@participants = Attendance.getEventParticipants(event_id)
-    @comments = Comment.where(event_id: event_id).order(created_at: :desc)
+    @comments = Comment.getEventComments(event_id)
     @attending = user_signed_in? ? Attendance.attending?(current_user.id, event_id) : nil
 
     @comment = Comment.new
