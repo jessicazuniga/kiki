@@ -18,13 +18,14 @@ class EventsController < ApplicationController
   	event_id = params[:id]
   	@event = Event.find(event_id)
   	@participants = Attendance.getEventParticipants(event_id)
-  	@comments = Comment.getEventComments(event_id)
+    @comments = Comment.where(event_id: event_id).order(created_at: :desc)
     @attending = user_signed_in? ? Attendance.attending?(current_user.id, event_id) : nil
 
     @comment = Comment.new
     @comment.event_id = event_id
     @comment.user_id = 1
 
+    @select_comments = params.has_key?(:comments)
 
   	respond_to do |format|
       format.html { render :layout => !request.xhr? }
@@ -52,8 +53,8 @@ class EventsController < ApplicationController
     @comment = Comment.new(comment_params)
 
     if @comment.save
-      @event = Event.find(params[:comment][:event_id])
-      redirect_to @event
+      #@event = Event.find(params[:comment][:event_id])
+      redirect_to :action => 'show', :id => params[:comment][:event_id], :comments => true
     else
       render 'new', :layout => !request.xhr?
     end

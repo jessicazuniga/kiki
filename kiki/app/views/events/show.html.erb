@@ -54,8 +54,8 @@
 		<div data-role="tabs" id="tabs">
 			<div data-role="navbar">
 			  <ul>
-			    <li><a href="#participants" data-ajax="false">Who's going</a></li>
-			    <li><a href="#comments" data-ajax="false">Comments</a></li>
+			    <li id="participants-li"><a href="#participants" data-ajax="false" id="participants-tab" class="ui-btn-active">Who's going</a></li>
+			    <li id="comments-li"><a href="#comments" data-ajax="false" id="comments-tab">Comments</a></li>
 			  </ul>
 			</div>
 			<div id="participants" class="ui-body-d ui-content">
@@ -66,9 +66,7 @@
 				</ul>
 			</div>
 			<div id="comments" class="ui-body-d ui-content">
-				<ul data-role="listview">
 
-					<li> 
 						<%= form_for @comment, url: {action: :add_comment}, :html => {:'data-ajax' => 'false'} do |c| %>
 							<%= c.hidden_field :event_id %>
 							<%= c.hidden_field :user_id %>
@@ -77,16 +75,28 @@
 							<%= c.submit 'Add comment' %>
 						<% end %>
 
-					</li>
-
 					<% @comments.each do |comment| %>
-						<li><%= User.find(comment.user_id).name %>: <%= comment.text %> <%= comment.created_at %></li>
+					<div class="ui-body ui-body-a">
+						<p>
+							<strong><%= User.find(comment.user_id).name %></strong><br/>
+							<%= comment.created_at.strftime("%b %d") %>, <%= comment.created_at.strftime("%I:%M %p") %>
+						</p>
+						<p><%= comment.text %></p>
+					</div>
 					<% end %>
 
-				</ul>
 			</div>
 		</div>
 
 	</div>
 
-</div>  
+</div>
+
+<% if @select_comments %>
+	<script>
+		$('#participants-li').removeClass('ui-tabs-active').removeClass('ui-state-active');
+		$('#comments-li').addClass('ui-tabs-active').addClass('ui-state-active');
+		$('#participants-tab').removeClass('ui-btn-active');
+		$('#comments-tab').addClass('ui-btn-active');
+	</script>
+<% end %>
