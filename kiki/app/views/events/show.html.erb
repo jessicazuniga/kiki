@@ -5,7 +5,7 @@
 			:'data-transition' => 'slide', :'data-direction' => 'reverse',
 			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left' %>
 		<h1><%= app_title %></h1>
-   		<%= link_to 'Add', new_event_path, :'data-ajax' => 'false',
+   		<%= link_to 'New', new_event_path,
    			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
    			:'data-transition' => 'slide' %>
 
@@ -13,11 +13,13 @@
 
 	<div data-role="main" class="ui-content">
 
-		<h3 class="ui-bar ui-bar-a ui-corner-all"><%= @event.name %></h3>
-		<div class="ui-body">
+		<div class="ui-body ui-body-b ui-corner-all">
+			<h3><%= @event.name %></h3>
 			<p><%= @event.time.strftime("%A -- %B %d") %><br/>
 			<%= @event.time.strftime("%I:%M %p") %><br/>
 			<%= @event.place %></p>
+		</div>
+		<div class="ui-body">
 			<span>Are you going?</span>
 
 			<% if user_signed_in? %>
@@ -39,15 +41,16 @@
 				</div>
 			<% else %>
 				<%= link_to 'Log in to RSVP', new_user_session_path,
-	   			:class => 'ui-btn ui-corner-all', :'data-role' => 'button',
+	   			:class => 'ui-btn ui-corner-all ui-btn-cta', :'data-role' => 'button',
 	   			:'data-transition' => 'slide' %>
 			<% end %>
-	
-			<div class="ui-body ui-body-a ui-corner-all">
-				<p><%= @event.description %></p>
-			</div>
 
 		</div>
+	
+		<div class="ui-body ui-body-a ui-corner-all">
+			<p><%= @event.description %></p>
+		</div>
+
 
 		<p></p>
 
@@ -66,14 +69,18 @@
 				</ul>
 			</div>
 			<div id="comments" class="ui-body-d ui-content">
+					
+					<% if user_signed_in? %>
 
 						<%= form_for @comment, url: {action: :add_comment}, :html => {:'data-ajax' => 'false'} do |c| %>
 							<%= c.hidden_field :event_id %>
 							<%= c.hidden_field :user_id %>
-							<%= c.label :text, 'New comment:' %>
-							<%= c.text_field :text %>
-							<%= c.submit 'Add comment' %>
+<!-- 							<%= c.label :text, 'New comment:' %> -->
+							<%= c.text_area :text %>
+							<%= c.submit 'Send comment' %>
 						<% end %>
+						
+					<% end %>
 
 					<% @comments.each do |comment| %>
 					<div class="ui-body ui-body-a">

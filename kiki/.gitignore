@@ -19,3 +19,5 @@
 .DS_Store
 
 /graveyard
+# Ignore application configuration
+/config/application.yml
