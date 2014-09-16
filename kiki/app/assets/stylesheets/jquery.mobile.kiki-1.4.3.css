@@ -1,4 +1,4 @@
-/*!
+/*!  ORANGE
 * jQuery Mobile 1.4.3
 * Git HEAD hash: b9c6473e3d90af26570e6f14e5a0307897ab385c <> Date: Tue Jul 1 2014 15:37:36 UTC
 * http://jquerymobile.com
@@ -145,7 +145,7 @@ label.ui-btn {
 .ui-btn-icon-top:after,
 .ui-btn-icon-bottom:after,
 .ui-btn-icon-notext:after {
-	background-color: #DFB443 /*{global-icon-color}*/;
+	background-color: #CC6633 /*{global-icon-color}*/;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-border-radius: 1em;
@@ -158,7 +158,7 @@ html .ui-alt-icon.ui-checkbox-off:after,
 html .ui-alt-icon.ui-radio-off:after,
 html .ui-alt-icon .ui-checkbox-off:after,
 html .ui-alt-icon .ui-radio-off:after {
-	background-color: #DFB443 /*{global-icon-color}*/;
+	background-color: #CC6633 /*{global-icon-color}*/;
 }
 /* No disc */
 .ui-nodisc-icon.ui-btn:after,
@@ -222,7 +222,7 @@ html .ui-alt-icon .ui-radio-off:after {
 html .ui-bar-a .ui-bar-inherit,
 html .ui-body-a .ui-bar-inherit,
 html body .ui-group-theme-a .ui-bar-inherit {
-	background-color: #ffd55f /*{a-bar-background-color}*/;
+	background-color: #FF8040 /*{a-bar-background-color}*/;
 	border-color: #dddddd /*{a-bar-border}*/;
 	color: #333333 /*{a-bar-color}*/;
 	text-shadow: 0 /*{a-bar-shadow-x}*/ 0px /*{a-bar-shadow-y}*/ 0 /*{a-bar-shadow-radius}*/ #fff /*{a-bar-shadow-color}*/;
@@ -346,7 +346,7 @@ html .ui-bar-a .ui-slider-track .ui-btn-active,
 html .ui-body-a .ui-slider-track .ui-btn-active,
 html body .ui-group-theme-a .ui-slider-track .ui-btn-active,
 html body div.ui-slider-track.ui-body-a .ui-btn-active {
-	background-color: #FAD880 /*{a-active-background-color}*/;
+	background-color: #FFC0A0 /*{a-active-background-color}*/;
 	border-color: #ddd /*{a-active-border}*/;
 	color: #333 /*{a-active-color}*/;
 	text-shadow: 0 /*{a-active-shadow-x}*/ 0px /*{a-active-shadow-y}*/ 0 /*{a-active-shadow-radius}*/ #fff /*{a-active-shadow-color}*/;
@@ -357,7 +357,7 @@ html .ui-bar-a .ui-radio-on:after,
 html .ui-body-a .ui-radio-on:after,
 html body .ui-group-theme-a .ui-radio-on:after,
 .ui-btn.ui-radio-on.ui-btn-a:after {
-	border-color: #FAD880 /*{a-active-background-color}*/;
+	border-color: #FFC0A0 /*{a-active-background-color}*/;
 }
 /* Focus */
 .ui-page-theme-a .ui-btn:focus,
@@ -372,9 +372,9 @@ html .ui-body-a .ui-focus,
 html body .ui-group-theme-a .ui-focus,
 html head + body .ui-btn-a.ui-focus,
 html head + body .ui-body-a.ui-focus {
-	-webkit-box-shadow: 0 0 12px #FAD880 /*{a-active-background-color}*/;
-	-moz-box-shadow: 0 0 12px #FAD880 /*{a-active-background-color}*/;
-	box-shadow: 0 0 12px #FAD880 /*{a-active-background-color}*/;
+	-webkit-box-shadow: 0 0 12px #FFC0A0 /*{a-active-background-color}*/;
+	-moz-box-shadow: 0 0 12px #FFC0A0 /*{a-active-background-color}*/;
+	box-shadow: 0 0 12px #FFC0A0 /*{a-active-background-color}*/;
 }
 /* B
 -----------------------------------------------------------------------------------------------------------*/
@@ -760,11 +760,11 @@ body {
 }
 
 .ui-page-theme-a .ui-header .ui-btn {
-	background-color: #f8c84a;
+	background-color: #FFA679;
 }
 
 .ui-page-theme-a .ui-header .ui-btn-active {
-	background-color: #FAD880
+	background-color: #FFC0A0;
 }
 
 
