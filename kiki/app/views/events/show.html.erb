@@ -15,9 +15,9 @@
 
 		<h3 class="ui-bar ui-bar-b ui-corner-all"><%= @event.name %></h3>
 		<div class="ui-body">
-			<p><%= @event.time %><br/>
+			<p><%= @event.time.strftime("%A -- %B %d") %><br/>
+			<%= @event.time.strftime("%I:%M %p") %><br/>
 			<%= @event.place %></p>
-
 			<span>Are you going?</span>
 
 			<% if user_signed_in? %>
