@@ -24,7 +24,7 @@
 			  	<p></p>
 			<% end %>
 
-			<%= e.label :name, 'Event:' %>
+			<%= e.label :name, 'Activity:' %>
 			<%= e.text_field :name %>
 			<%= e.label :date_only, 'Date:' %>
 			<%= e.date_field :date_only %>			
@@ -33,10 +33,10 @@
 			<%= e.label :place, 'Location:' %>
 			<%= e.text_field :place %>
 			<%= e.label :description, 'Description:' %>
-			<%= e.text_field :description %>
+			<%= e.text_area :description %>
 
 
-			<%= e.submit %>
+			<%= e.submit 'Add activity' %>
 
 		<% end %>
 

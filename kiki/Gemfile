@@ -50,3 +50,5 @@ gem 'devise'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Adding figaro to hande ENV variables
+gem 'figaro'

@@ -12,7 +12,7 @@
 	   			:class => 'ui-btn ui-btn-left ui-corner-all ui-shadow',
 	   			:'data-transition' => 'slide' %>
 <% end %>
-   		<%= link_to 'Add', new_event_path,
+   		<%= link_to 'New', new_event_path,
    			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
    			:'data-transition' => 'slide' %>
 	</div>
@@ -39,7 +39,8 @@
 					<ul data-role="listview">					
 				<% end %>
 		    	<li>
-		    		<%= link_to event.name, event_path(event), :'data-transition' => 'slide' %>
+		    		<%= link_to raw('<span class="event-time">') + event.time.strftime("%-I:%M") + event.time.strftime("%P").first + raw('</span>') +
+		    				raw("&nbsp;&nbsp;") + event.name, event_path(event), :'data-transition' => 'slide' %>
 		    	</li>
 			<% end %>
 		</ul>

@@ -1,12 +1,27 @@
-<h2>Forgot your password?</h2>
+<div data-role="page" data-theme="a" id="forgotpassword">
 
-<%= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post }) do |f| %>
-  <%= devise_error_messages! %>
+	<div data-role="header">
+		<%= link_to 'Back', '#', :'data-rel' => 'back',
+			:'data-transition' => 'slide', :'data-direction' => 'reverse',
+			:class => 'ui-btn ui-corner-all ui-shadow ui-icon-back ui-btn-icon-left' %>
+		<h1><%= app_title %></h1>
+	</div>
 
-  <div><%= f.label :email %><br />
-  <%= f.email_field :email, autofocus: true %></div>
+	<div data-role="main" class="ui-content">
 
-  <div><%= f.submit "Send me reset password instructions" %></div>
-<% end %>
+		<h4>Forgot your password?</h4>
+		
+		<%= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post }) do |f| %>
+		  <%= devise_error_messages! %>
+		
+		  <div><%= f.label :email %>
+		  <%= f.email_field :email, autofocus: true %></div>
+		
+		  <div><%= f.submit "Email me reset instructions" %></div>
+		<% end %>
+		
+		<%= render "devise/shared/links" %>
+		
+	</div>
 
-<%= render "devise/shared/links" %>
+</div>
