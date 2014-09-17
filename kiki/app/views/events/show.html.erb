@@ -15,9 +15,8 @@
 
 		<div class="ui-body ui-body-b ui-corner-all">
 			<h3><%= @event.name %></h3>
-			<p><%= @event.time.strftime("%A -- %B %d") %><br/>
-			<%= @event.time.strftime("%I:%M %p") %><br/>
-			<%= @event.place %></p>
+			<p><%= fa_icon('calendar') %> <%= @event.time.strftime("%A, %b %d – %-I:%M") + @event.time.strftime("%P").first %><br/>
+			   <%= fa_icon('map-marker') %> <%= @event.place %></p>
 		</div>
 		<div class="ui-body">
 			<span>Are you going?</span>

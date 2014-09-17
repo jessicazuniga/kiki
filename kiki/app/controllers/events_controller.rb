@@ -1,7 +1,7 @@
 
 class EventsController < ApplicationController
 
-  #before_action :authenticate_user!, :except => [:index, :show]
+  #before_action :authenticate_user!, :only => [:new]
 
   def index
   	@now = Time.now
@@ -63,10 +63,16 @@ class EventsController < ApplicationController
 
 
   def new
-    @event = Event.new
-	  respond_to do |format|
-        format.html { render :layout => !request.xhr? }
+
+    if user_signed_in?
+      @event = Event.new
+  	  respond_to do |format|
+          format.html { render :layout => !request.xhr? }
+      end
+    else
+      redirect_to new_user_session_path
     end
+
   end
    
   def create
@@ -74,7 +80,8 @@ class EventsController < ApplicationController
     @event = Event.new(event_params)
    
     if @event.save
-      redirect_to @event
+      Attendance.setResponse(current_user, @event.id, true)
+      redirect_to :action => 'show', :id => @event.id
     else
       render 'new', :layout => !request.xhr?
     end

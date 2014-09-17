@@ -10,15 +10,15 @@
 
 	<div data-role="main" class="ui-content">
 
-		<%= form_for @event do |e| %>
+		<%= form_for @event, :html => {:'data-ajax' => 'false'} do |e| %>
 
 			<% if @event.errors.any? %>
 			 	<div id="error_explanation" class="ui-body ui-body-b ui-corner-all">
 			    	<h3>Error</h3>
 			    	<p>
-		    		<% @event.errors.full_messages.each do |msg| %>
-		      			<%= msg %><br/>
-		    		<% end %>
+			    		<% @event.errors.full_messages.each do |msg| %>
+			      			<%= msg %><br/>
+			    		<% end %>
 		    		</p>
 			  	</div>
 			  	<p></p>
