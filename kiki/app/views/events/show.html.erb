@@ -39,7 +39,7 @@
 					<% end %>
 				</div>
 			<% else %>
-				<%= link_to 'Log in to RSVP', new_user_session_path,
+				<%= link_to 'Log in or register to RSVP', new_user_session_path,
 	   			:class => 'ui-btn ui-corner-all ui-btn-cta', :'data-role' => 'button',
 	   			:'data-transition' => 'slide' %>
 			<% end %>
@@ -56,7 +56,9 @@
 		<div data-role="tabs" id="tabs">
 			<div data-role="navbar">
 			  <ul>
-			    <li id="participants-li"><a href="#participants" data-ajax="false" id="participants-tab" class="ui-btn-active">Who's going</a></li>
+			    <li id="participants-li">
+			    	<a href="#participants" data-ajax="false" id="participants-tab" class="ui-btn-active">Who's going (<%= @participants.count %>)</a>
+			    </li>
 			    <li id="comments-li"><a href="#comments" data-ajax="false" id="comments-tab">Comments</a></li>
 			  </ul>
 			</div>
