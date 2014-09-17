@@ -16,7 +16,7 @@
 		<h3 class="ui-bar ui-bar-a ui-corner-all"><%= @event.name %></h3>
 		<div class="ui-body">
 			<p><%= @event.time.strftime("%A -- %B %d") %><br/>
-			<%= @event.time.strftime("%I:%M %p") %><br/>
+			<%= @event.time.strftime("%-I:%M %P") %><br/>
 			<%= @event.place %></p>
 			<span>Are you going?</span>
 
@@ -79,7 +79,7 @@
 					<div class="ui-body ui-body-a">
 						<p>
 							<strong><%= User.find(comment.user_id).name %></strong><br/>
-							<%= comment.created_at.strftime("%b %d") %>, <%= comment.created_at.strftime("%I:%M %p") %>
+							<%= comment.created_at.strftime("%b %d") %>, <%= comment.created_at.strftime("%-I:%M %P") %>
 						</p>
 						<p><%= comment.text %></p>
 					</div>
