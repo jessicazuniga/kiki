@@ -1,12 +1,11 @@
 
 class EventsController < ApplicationController
 
-  #before_action :authenticate_user!, :only => [:new]
+  #before_action :authenticate_user!, :except => [:index, :show]
 
   def index
   	@now = Time.now
-	#@current_weekday = @current_datetime.wday
-  	@week_events = Event.getNextEvents(@now, 7)
+  	@week_events = Event.getNextEventsAndAttendence(@now, 7, current_user)
 
 	  respond_to do |format|
       format.html { render :layout => !request.xhr? }
@@ -63,16 +62,10 @@ class EventsController < ApplicationController
 
 
   def new
-
-    if user_signed_in?
-      @event = Event.new
-  	  respond_to do |format|
-          format.html { render :layout => !request.xhr? }
-      end
-    else
-      redirect_to new_user_session_path
+    @event = Event.new
+	  respond_to do |format|
+        format.html { render :layout => !request.xhr? }
     end
-
   end
    
   def create
@@ -80,8 +73,7 @@ class EventsController < ApplicationController
     @event = Event.new(event_params)
    
     if @event.save
-      Attendance.setResponse(current_user, @event.id, true)
-      redirect_to :action => 'show', :id => @event.id
+      redirect_to @event
     else
       render 'new', :layout => !request.xhr?
     end

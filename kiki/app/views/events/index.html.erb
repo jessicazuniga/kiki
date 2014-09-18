@@ -25,21 +25,21 @@
 		<div data-role="collapsible" data-collapsed="false">
 		<h4><%= event_time.strftime("%A") %> &mdash; <%= event_time.strftime("%B %-d") %></h4>
 		<ul data-role="listview">
-		
+
 			<% @week_events.each do |event| %>
-		
+
 				<% new_event_time = event.time %>
 				<% if event_time.to_date != new_event_time.to_date %>
 					<% event_time = new_event_time %>
 					<% day_count += 1 %>
 					</ul>
 					</div>
-					<div data-role="collapsible" data-collapsed="<%= (day_count <= 3) ? "false" : "true" %>">
+					<div data-role="collapsible" data-collapsed="<%= (day_count <= 100) ? "false" : "true" %>">
 					<h4><%= event_time.strftime("%A") %> &mdash; <%= event_time.strftime("%B %-d") %></h4>
 					<ul data-role="listview">					
 				<% end %>
 		    	<li>
-		    		<%= link_to raw('<div class="event-time">') + event.time.strftime("%-I:%M") + event.time.strftime("%P").first + raw('</div>') + event.name,
+		    		<%= link_to raw('<div class="event-time">') + event.time.strftime("%-I:%M") + event.time.strftime("%P").first + raw('</div>') + event.name + raw('&nbsp;&nbsp;') + (event.has_attribute?(:response) && event.response ? fa_icon('star') : ''),
 		    			event_path(event), :'data-transition' => 'slide' %>
 		    	</li>
 			<% end %>
