@@ -52,3 +52,6 @@ gem 'devise'
 
 # Adding figaro to hande ENV variables
 gem 'figaro'
+
+# Font Awesome gem
+gem 'font-awesome-rails', '~> 4.2.0'

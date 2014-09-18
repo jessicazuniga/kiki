@@ -838,10 +838,20 @@ button[disabled],
 .ui-page-theme-a .event-time {
 	color: $a-text-dark;
 	font-weight: 500;
+	width: 3.5em;
+	float: left;
 }
 
 .ui-page-theme-a .ui-btn-cta {
 	background-color: #FF7D7F !important;
 }
+
+.ui-page-theme-a i {
+	color: $global-icon-color;
+	width: 1em;
+	text-align: center;
+}
+
+
 
 			
