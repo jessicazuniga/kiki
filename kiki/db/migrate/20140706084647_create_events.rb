@@ -5,6 +5,7 @@ class CreateEvents < ActiveRecord::Migration
       t.datetime :time
       t.string :place
       t.text :description
+      t.references :group, index: true
 
       t.timestamps
     end

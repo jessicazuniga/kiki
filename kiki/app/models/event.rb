@@ -1,4 +1,5 @@
 class Event < ActiveRecord::Base
+    belongs_to :group
     has_many :attendances
     has_many :comments
     has_many :related_events

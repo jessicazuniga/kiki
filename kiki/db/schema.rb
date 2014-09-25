@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140727072947) do
+ActiveRecord::Schema.define(version: 20140925050642) do
 
   create_table "attendances", force: true do |t|
     t.boolean  "response"
@@ -39,6 +39,16 @@ ActiveRecord::Schema.define(version: 20140727072947) do
     t.string   "name"
     t.datetime "time"
     t.string   "place"
+    t.text     "description"
+    t.integer  "group_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "events", ["group_id"], name: "index_events_on_group_id", using: :btree
+
+  create_table "groups", force: true do |t|
+    t.string   "name"
     t.text     "description"
     t.datetime "created_at"
     t.datetime "updated_at"
