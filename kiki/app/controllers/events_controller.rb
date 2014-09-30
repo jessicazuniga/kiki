@@ -5,9 +5,9 @@ class EventsController < ApplicationController
 
   def index
   	@now = Time.now
-    selected_group_id = 2
+    selected_group_id = 3
     @selected_group = Group.where(id: selected_group_id).first()
-  	@week_events = Event.getNextEventsAndAttendence(@now, 7, current_user, selected_group_id)
+  	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, selected_group_id)
 
 
 	  respond_to do |format|

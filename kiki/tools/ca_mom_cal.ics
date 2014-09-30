@@ -1,0 +1,5950 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CA moms
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20140930T180000Z
+DTEND:20140930T183000Z
+DTSTAMP:20140930T072729Z
+UID:cvj1r57dral22be013r5vvcce8@google.com
+CREATED:20140826T211421Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.\n\nMel
+ issa & Rosie - we'll plan to go and stay for a picnic lunch.\nWe will try t
+ o make it: Laura & Teddy
+LAST-MODIFIED:20140930T035726Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with pigs 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141004T143000Z
+DTEND:20141004T180000Z
+DTSTAMP:20140930T072729Z
+ORGANIZER;CN=CA moms:mailto:iqn1kd0bcii37jd489mcq2cbe4@group.calendar.googl
+ e.com
+UID:be99qg7arhgeiptd0po95d9eh0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=scott@
+ mixbook.com;X-NUM-GUESTS=0:mailto:scott@mixbook.com
+CREATED:20140928T235625Z
+DESCRIPTION:Save the date for our Pancake Breakfast and Open House Saturday
+  October 4th from 730am - 1100am!!! Come meet your firefighters and see the
+  Jaws of Life in action as well as our airboat\, Fire Engine Old Tom\, and 
+ see the inside of a working fire station!!! See you there!!!
+LAST-MODIFIED:20140929T152706Z
+LOCATION:Station 1 at 300 Middlefield Road Menlo Park\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Firefighters Annual Pancake Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140930T170000Z
+DTEND:20140930T180000Z
+DTSTAMP:20140930T072729Z
+UID:2h3edmli7023j1pr1lc7l3d780@google.com
+CREATED:20140929T004819Z
+DESCRIPTION:Registration is required but the event is free.  For 2-5 years 
+ old.  They will be making Lemon Ricotta Cheesecake this week.
+LAST-MODIFIED:20140929T143301Z
+LOCATION:Portola Valley Library\, 765 Portola Rd\, Portola Valley\, CA\, Un
+ ited States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Chefs Portola Valley Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130920T223000Z
+DTEND:20130920T230000Z
+DTSTAMP:20140930T072729Z
+UID:a4ovu3i95ci0jvimdac1dapjgc@google.com
+CREATED:20130823T011421Z
+DESCRIPTION:
+LAST-MODIFIED:20140929T072903Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Music and Movement Children's LIbrary
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141001T173000Z
+DTEND:20141001T200000Z
+DTSTAMP:20140930T072729Z
+UID:j0ma7qs084p0p37tjppioqub6c@google.com
+CREATED:20140929T023416Z
+DESCRIPTION:Since Avery enjoyed last Friday's beach trip\, we plan to spend
+  the morning at the beach. If you are interested in joining us\, street par
+ king on Naples or Roosevelt is free and it's a five minute walk to the wate
+ r (no cliffs). Restrooms are also available.\n\nNerene & Avery - we'll be t
+ here.\nJulia\, Ada&Ellie- we will join you \nMelissa & Rosie - we'll plan o
+ n going.
+LAST-MODIFIED:20140929T041339Z
+LOCATION:Cnr Naples Ave and Roosevelt Blvd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HMB beach trip to Roosevelt Beach
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141008T173000Z
+DTEND:20141008T210000Z
+DTSTAMP:20140930T072729Z
+UID:2B81D6BF-0538-48C1-8374-AD382D2C8506
+CREATED:20140916T160528Z
+DESCRIPTION:We will celebrate Ada's 2nd birthday in  the park.\nCome to pla
+ y\, eat and for cake!\n\nLaura & Teddy will be there!\nMelissa & Rosie will
+  be ready to party. :)\nNerene & Avery - we'll be there too.\nMartin & Ange
+  are coming!
+LAST-MODIFIED:20140929T013518Z
+LOCATION:Holbrook Palmer
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ada's 2nd birthday!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141003T190000Z
+DTEND:20141003T200000Z
+DTSTAMP:20140930T072729Z
+UID:cveedd7gg77533d96iectdrk0s@google.com
+CREATED:20140929T004953Z
+DESCRIPTION:Puppet Art Theatre will perform "Boy Who Cried Wolf" bring your
+  blanket or lawn chairs\, event is free.
+LAST-MODIFIED:20140929T004953Z
+LOCATION:Civic Center Plaza 500 Castro St Mountainview
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Plaza Palooza Mountainview Puppet Show
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141003T170000Z
+DTEND:20141003T190000Z
+DTSTAMP:20140930T072729Z
+UID:lbjhd1vhugois6k9bqcc8a05ak@google.com
+CREATED:20140929T004350Z
+DESCRIPTION:Please let me know if you plan on coming - will have some light
+  refreshments available\nAlso\, please try to park in the Visitor Lot
+LAST-MODIFIED:20140929T004350Z
+LOCATION:777 San Antonio Rd #25
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ange Hosting Playdate
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141001T171500Z
+DTEND:20141001T174500Z
+DTSTAMP:20140930T072729Z
+UID:ifk9jp3ogr9smd6k1m7lei6buk@google.com
+CREATED:20140929T004238Z
+DESCRIPTION:
+LAST-MODIFIED:20140929T004238Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T170000Z
+DTEND:20141026T210000Z
+DTSTAMP:20140930T072729Z
+UID:E42F48DC-9774-4514-A189-A6AAE998074E
+CREATED:20140927T232018Z
+DESCRIPTION:
+LAST-MODIFIED:20140927T232018Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blossom Birth Halloween carnival FYI 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141018T170000Z
+DTEND:20141018T210000Z
+DTSTAMP:20140930T072729Z
+UID:9D77A9C8-0EBB-4144-9F3F-BD90BC8811C8
+CREATED:20140926T193626Z
+DESCRIPTION:
+LAST-MODIFIED:20140926T193626Z
+LOCATION:552 Waverley St\, PA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DayOne Baby open house
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140925T173000Z
+DTEND:20140925T200000Z
+DTSTAMP:20140930T072729Z
+UID:relf15g6i2j2gsjrt1c41c4je4@google.com
+CREATED:20140919T072223Z
+DESCRIPTION:A nice and relaxing way to celebrate the beginning of Fall. Ple
+ ase bring a plate or refreshments to share. \n**we moved the potluck to Ang
+ e's place: 777 San Antonio Rd #25 Palo Alto please try to park only in the 
+ visitor lot \n\nNerene & Avery - we'll bring vegetables and dips and some A
+ ustralian biscuits (cookies)\, napkins and plates.\nAnge/Martin- we will br
+ ing cutlery and cups and sliced melon\nCaitlin and Leif- we will bring grap
+ es\, some sort of small crackers and juice boxes\nCheryl - we'll plan to st
+ op by quickly from 10:30-11.  And bring pretzels\nLaura- we're a maybe.\nLi
+ sa - We're in! I am making a quinoa salad. \n\nCorinne + Sarah - change of 
+ plans\, we have to pass. Sarah has school til noon and the JBF presale star
+ ts at 2pm. I hope we can join you next time! Have fun!\nJulia: we had a rou
+ gh morning and so I'm not sure we'll make it. Hope to see you soon\, rested
+  and in better spirits!\nErin - we're going to stay away and try not to spr
+ ead the cold. Have a great picnic!
+LAST-MODIFIED:20140925T180425Z
+LOCATION:777 San Antonio Rd #25 Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pot luck picnic at Ange
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20141021T160000
+DTEND;TZID=America/Los_Angeles:20141021T163000
+DTSTAMP:20140930T072729Z
+UID:C0BBC954-800C-47A8-BAA0-8D426D859FCB
+RECURRENCE-ID;TZID=America/Los_Angeles:20141021T160000
+CREATED:20140922T063613Z
+DESCRIPTION:
+LAST-MODIFIED:20140924T215242Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Dentist Sasaki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140923T160000
+DTEND;TZID=America/Los_Angeles:20140923T163000
+RRULE:FREQ=WEEKLY
+DTSTAMP:20140930T072729Z
+UID:C0BBC954-800C-47A8-BAA0-8D426D859FCB
+CREATED:20140922T063613Z
+DESCRIPTION:
+LAST-MODIFIED:20140923T220006Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:College terrace library storytime 4:00
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140923T180000Z
+DTEND:20140923T183000Z
+DTSTAMP:20140930T072729Z
+UID:1lih9qe0nlqal1hljat0mfo5ak@google.com
+CREATED:20140826T211310Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.\n\nMel
+ issa &  Rosie - we'll plan to go and stay for lunch. \nI think we will join
+ --- Laura
+LAST-MODIFIED:20140923T174508Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with sheep 11am
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140923T100000
+DTEND;TZID=America/Los_Angeles:20140923T110000
+DTSTAMP:20140930T072729Z
+UID:lh7muessa1tgmtam4a795sj76k@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20140923T100000
+CREATED:20140806T080016Z
+DESCRIPTION:Julia&Ada-we liked it so we'll try it again this week. They hav
+ e different projects and it's a fun place to get messy:)\n\nRSVP required\n
+ recurs Every Tue until 10/2/2014 under PAMP\nWhere: C is for Craft \n540 Br
+ yant St. Palo Alto\, CA 94301\nGroup:PAMP Parents Club PAMP Parents Club\n\
+ nDescription:\nThe one hour class will be conducted by one of our staff and
+  the kids will be able to paint\, color\, cut and paste a few exciting proj
+ ects that are age ability appropriate. The main ingredients in everything w
+ e do is encouraging creativity and having FUN!!!\n\nC is for Craft\, LLC is
+  a craft studio with a focus on the preschool \ncommunity—teaching and inte
+ racting with preschoolers and their caregivers. C is for Craft is a place w
+ here parents and caregivers can go with their preschool-aged children—20 mo
+ nths to 8 years old—and participate in creating old-fashioned\, handcrafted
+  projects.\n\nNO REFUNDS! Walk-ins are NOT welcome as this is a subsidized 
+ PAMP event open to PAMP Members Only.\n\nOh no! Is the RSVP list full but y
+ ou are still interested in attending? Please email kidsevents@PAMPCLUB.ORG 
+ and request to be put on the waitlist! Please include your phone number.\n\
+ nWant to attend an event for free? Sign up to be a PAMP volunteer! Email vo
+ lunteer@pampclub.org for more info.\n\nGet more info on PAMP Events:\nPAMP 
+ Calendar http://pampclub.org/site/calendar\nPAMP Facebook Page www.facebook
+ .com/pampclub
+LAST-MODIFIED:20140923T170810Z
+LOCATION:540 Bryant St. Palo Alto\, CA 94301
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crafting for kids
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140926T170000Z
+DTEND:20140926T200000Z
+DTSTAMP:20140930T072729Z
+UID:C4DE6A64-5361-4431-B26F-E7DC470CC51D
+CREATED:20140921T205430Z
+DESCRIPTION:A few of us are going to hang out and relax while the kids play
+  on the beach.  Remember to bring a blanket and your jackets\, even if it s
+ eems like a nice day! \n\nLisa (Caden and Sasha): See you there!  Call if y
+ ou can't find us! 415-699-2691. \nMartin & Ange are coming!\nNerene & Avery
+  - we will be coming too.
+LAST-MODIFIED:20140923T054205Z
+LOCATION:Naples Ave and Roosevelt Blvd\, Half Moon Bay\, CA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:10a-1p Beach Trip
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140922T170000Z
+DTEND:20140922T210000Z
+DTSTAMP:20140930T072729Z
+UID:d8uqeq8hcmmsdl62t4q5hpfgec@google.com
+CREATED:20140920T040045Z
+DESCRIPTION:Sarah and I will be at the carousel right next to the entrance 
+ around 10am (when the park opens)\n- if you run late txt me 610 931 6361\n\
+ nErin- Allison and I will join you at the carousel\n\n
+LAST-MODIFIED:20140922T160114Z
+LOCATION:Happy Hollow Park & Zoo\, 1300 Senter Rd\, San Jose\, CA\, United 
+ States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy Hollow
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140805T000000
+DTEND;TZID=America/Los_Angeles:20140805T010000
+RRULE:FREQ=WEEKLY;UNTIL=20140916T070000Z
+DTSTAMP:20140930T072729Z
+UID:D26C95DE-3042-4037-85AC-5114BA36E89C
+CREATED:20140802T213224Z
+DESCRIPTION:
+LAST-MODIFIED:20140922T063615Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:College terrace library storytime 4:00
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T170000Z
+DTEND:20140921T230000Z
+DTSTAMP:20140930T072729Z
+UID:js8m4e5574tv7efhsgc2ip47k0@google.com
+CREATED:20140915T233443Z
+DESCRIPTION:$5/ person. Under 4 free\n\nLos Altos\, CA – Community favorite
+ \, Train Days\, returns to the Los Altos History Museum for two days of tra
+ in-filled fun celebrating the joy and wonder of model railroading. Elaborat
+ e layouts\, intricate scenery and scaled renditions of prototypes and whims
+ ical engines and theme cars\, complete with steam\, lights and sound\, will
+  speed along rails to delight visitors of all ages. Explore the gauges and 
+ scales associated with model railroading as private collectors and clubs as
+  they showcase and answer questions about their American\, European and Asi
+ an layouts: \n\n Live Steamers from the Bay Area Garden Railway Society (G
+  scale) \n\n Diablo Pacific Short Line (G scale) \n\n Golden Gate Lionel 
+ Railroad Club (O scale) \n\n Private Collector: Swiss Narrow Gauge (HO sca
+ le) \n\n Peninsula NTrak and AsiaNrail (N scale) \n\n Private Collector: 
+ the Civil War's First Battle of Manassas / Bull Run (N scale) \n\nAlso on b
+ oard will be California Operation Lifesaver\, providing education on proper
+  rail safety. And gourmet food trucks will be onsite selling delectables to
+  satiate Train Days patrons.
+LAST-MODIFIED:20140921T164504Z
+LOCATION:51 S San Antonio Rd\, Los Altos\, CA 94022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Train Days at Los Altos History Museum
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140921
+DTEND;VALUE=DATE:20140922
+DTSTAMP:20140930T072729Z
+UID:8FE4E0F8-9965-4872-A00E-B46F560BA7B9
+CREATED:20140907T203200Z
+DESCRIPTION:
+LAST-MODIFIED:20140921T052911Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Newark kids day
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:59176292-E13D-4A13-9C6A-B94BA070EB39
+UID:59176292-E13D-4A13-9C6A-B94BA070EB39
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20140921T052928Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140920T170000Z
+DTEND:20140920T230000Z
+DTSTAMP:20140930T072729Z
+ORGANIZER;CN=CA moms:mailto:iqn1kd0bcii37jd489mcq2cbe4@group.calendar.googl
+ e.com
+UID:mb7cqhts47ou7nlog6jctnaenk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ng Tu;X-NUM-GUESTS=0:mailto:uppeng@gmail.com
+CREATED:20140915T233332Z
+DESCRIPTION:$5/ person. Under 4 free\n\nLos Altos\, CA – Community favorite
+ \, Train Days\, returns to the Los Altos History Museum for two days of tra
+ in-filled fun celebrating the joy and wonder of model railroading. Elaborat
+ e layouts\, intricate scenery and scaled renditions of prototypes and whims
+ ical engines and theme cars\, complete with steam\, lights and sound\, will
+  speed along rails to delight visitors of all ages. Explore the gauges and 
+ scales associated with model railroading as private collectors and clubs as
+  they showcase and answer questions about their American\, European and Asi
+ an layouts: \n\n Live Steamers from the Bay Area Garden Railway Society (G
+  scale) \n\n Diablo Pacific Short Line (G scale) \n\n Golden Gate Lionel 
+ Railroad Club (O scale) \n\n Private Collector: Swiss Narrow Gauge (HO sca
+ le) \n\n Peninsula NTrak and AsiaNrail (N scale) \n\n Private Collector: 
+ the Civil War's First Battle of Manassas / Bull Run (N scale) \n\nAlso on b
+ oard will be California Operation Lifesaver\, providing education on proper
+  rail safety. And gourmet food trucks will be onsite selling delectables to
+  satiate Train Days patrons.
+LAST-MODIFIED:20140920T071423Z
+LOCATION:51 S San Antonio Rd\, Los Altos\, CA 94022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Train Days at Los Altos History Musuem
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140918T223000Z
+DTEND:20140919T013000Z
+DTSTAMP:20140930T072729Z
+UID:ecq0beq5jqcs3e6d3ha2kqv698@google.com
+CREATED:20140915T220702Z
+DESCRIPTION:We're going to be sending good wishes to our cousins in Scotlan
+ d on Thursday (the day of their independence vote!). Rosie and I will be pl
+ aying in the backyard and having an early dinner of shepherd's pie and shor
+ tbread (and just maybe a wee dram for Mommy . . .). Please come play and st
+ ay for an early dinner at about 5:30 if you'd like. \n\nErin - Allison and 
+ I would love to join you! Thanks\, Melissa. Shall we bring something to sha
+ re?\nAnge - how fun! Martin and I would like to come. Let us know what we c
+ an bring\nNerene - Avery and I would love to join you. We'll bring some dri
+ nks. Thanks Melissa!\n\nCheryl- Camden and I will be there if baby decides 
+ to be late :). Great idea!\n\nJulia: sorry to miss the fun but I got a cold
+  and I don't want to pass anything to anybody:(  Hope to see you soon!\n\nC
+ orinne - Sarah and I would love to join! That sounds like fun! Let me know 
+ what we can contribute.\n\nLaura & Teddy: we'll bring some cuties and homem
+ ade cinnamon applesauce.\n\nJade & Leory: We'd love to come. Thanks for suc
+ h a great idea!
+LAST-MODIFIED:20140918T170153Z
+LOCATION:7 E Creek Pl\, Menlo Park\, CA 94025\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Play & Early Dinner (Scottish theme!)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140926T170000Z
+DTEND:20140927T000000Z
+DTSTAMP:20140930T072729Z
+UID:772FA8F0-3A37-4D1D-ABCE-11B6A94140C1
+CREATED:20140830T230507Z
+DESCRIPTION:12noon-9 pm ($3 admission or free pass here :\nhttps://jbfsale.
+ com/JBF/control/downloadLibFile?downloadFlag=toExecuteInsertDocDownload&mim
+ eType=&documentNo=2086067868
+LAST-MODIFIED:20140918T042124Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Just Between Friends Sale
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T233000Z
+DTEND:20140918T003000Z
+DTSTAMP:20140930T072729Z
+UID:35B76E49-E035-49E7-8AF8-D10372341C03
+CREATED:20140917T062511Z
+DESCRIPTION:Anyone want to meet for Gelato and the Palo Alto train station?
+ \n\nCheryl and Camden - we r going to skip\nNerene - Avery and I will join 
+ you.\n\nWe would love to try this out! Ange Martin\nSarah and I are in - wh
+ at's the exact location we are meeting?\n\noh ok\, and I thought it is Gela
+ taio  - just one block towards the train station... Thanks for verifying. C
+ orinne\n\nOh actually I didn't know I think it IS gelataio the new place so
+  we should meet there instead. It's the one really close to the station so 
+ I just tried to look up a name and only saw the other place.\n\nok. lol
+LAST-MODIFIED:20140917T231051Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Train station outing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T171500Z
+DTEND:20140917T174500Z
+DTSTAMP:20140930T072729Z
+UID:409B4E6A-8232-4580-B3C2-425F07878B3E
+CREATED:20140912T212931Z
+DESCRIPTION:Cheryl and Camden\nMelissa & Rosie\nCornne + Sarah\nLaura & Ted
+ dy (tentative)\nAnge/Martin did we have to pre-sign up for this? Ange\, as 
+ fas as I know\, only for the Thursday morning story time. 
+LAST-MODIFIED:20140917T144206Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T020000Z
+DTEND:20140917T023000Z
+DTSTAMP:20140930T072729Z
+UID:3828FFD4-BFA6-4F07-97B6-D40B7D325386
+CREATED:20140913T052137Z
+DESCRIPTION:
+LAST-MODIFIED:20140917T005448Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Library story time FYI 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140812T100000
+DTEND;TZID=America/Los_Angeles:20140812T110000
+RRULE:FREQ=WEEKLY;UNTIL=20140930T170000Z;WKST=SU;BYDAY=TU
+DTSTAMP:20140930T072729Z
+UID:lh7muessa1tgmtam4a795sj76k@google.com
+CREATED:20140806T080016Z
+DESCRIPTION:RSVP required\nrecurs Every Tue until 10/2/2014 under PAMP\nWhe
+ re: C is for Craft \n540 Bryant St. Palo Alto\, CA 94301\nGroup:PAMP Parent
+ s Club PAMP Parents Club\n\nDescription:\nThe one hour class will be conduc
+ ted by one of our staff and the kids will be able to paint\, color\, cut an
+ d paste a few exciting projects that are age ability appropriate. The main 
+ ingredients in everything we do is encouraging creativity and having FUN!!!
+ \n\nC is for Craft\, LLC is a craft studio with a focus on the preschool \n
+ community—teaching and interacting with preschoolers and their caregivers. 
+ C is for Craft is a place where parents and caregivers can go with their pr
+ eschool-aged children—20 months to 8 years old—and participate in creating 
+ old-fashioned\, handcrafted projects.\n\nNO REFUNDS! Walk-ins are NOT welco
+ me as this is a subsidized PAMP event open to PAMP Members Only.\n\nOh no! 
+ Is the RSVP list full but you are still interested in attending? Please ema
+ il kidsevents@PAMPCLUB.ORG and request to be put on the waitlist! Please in
+ clude your phone number.\n\nWant to attend an event for free? Sign up to be
+  a PAMP volunteer! Email volunteer@pampclub.org for more info.\n\nGet more 
+ info on PAMP Events:\nPAMP Calendar http://pampclub.org/site/calendar\nPAMP
+  Facebook Page www.facebook.com/pampclub
+LAST-MODIFIED:20140916T025252Z
+LOCATION:540 Bryant St. Palo Alto\, CA 94301
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crafting for kids
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140916T180000Z
+DTEND:20140916T183000Z
+DTSTAMP:20140930T072729Z
+UID:pkbjgbt5hahr71sb1inhcp48b8@google.com
+CREATED:20140826T211309Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.\n\nLau
+ ra & Teddy-- we have to cancel due to a late morning furniture delivery. We
+  hope to join next week.\nMelissa & Rosie - we'll plan to go but we'll have
+  to leave earlier this week (prob 11:30). \nErin - Allison and I will plan 
+ to be there at 11:00.
+LAST-MODIFIED:20140915T224928Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with chickens 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T224500Z
+DTEND:20140916T004500Z
+DTSTAMP:20140930T072729Z
+UID:82CA7722-9DAE-42A0-AE6F-B666B8ABDB92
+CREATED:20140912T213933Z
+DESCRIPTION:Anyone have a park pref this week?  We'll try to make it if bab
+ y isn't here yet. Cheryl and Camden\n\nNo RSVPs\, so we will prob check out
+  the Carters sale going on :). 
+LAST-MODIFIED:20140915T201206Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Any favorite parks to check out?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140908T111500
+DTEND;TZID=America/Los_Angeles:20140908T124500
+RRULE:FREQ=WEEKLY
+DTSTAMP:20140930T072729Z
+UID:59DC7DB3-D5D1-49A3-A034-91B9416F9A5D
+CREATED:20140901T223832Z
+DESCRIPTION:
+LAST-MODIFIED:20140915T171504Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAMP Blanket Babies Pardee Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T220000Z
+DTEND:20140915T010000Z
+DTSTAMP:20140930T072729Z
+UID:A40E6545-7D64-47FF-B957-1FB4C195EF46
+CREATED:20140912T212422Z
+DESCRIPTION:Children's moon festival.  Get info from pampclub.org
+LAST-MODIFIED:20140914T215600Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Moon festival PAMP
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:0AA3553A-CD01-4F02-BA39-42115DA0A5C8
+UID:0AA3553A-CD01-4F02-BA39-42115DA0A5C8
+ACKNOWLEDGED:20140914T215600Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140920T170000Z
+DTEND:20140920T210000Z
+DTSTAMP:20140930T072729Z
+UID:4B3AD6BA-0FF2-44E8-B6F0-6E4B14C4C081
+URL:http://www.friendsmpl.org/documents/BookSaleSep2014.pdf
+CREATED:20140912T213817Z
+DESCRIPTION:Menlo park library friends of the library book sale \n\nhttp://
+ www.friendsmpl.org/documents/BookSaleSep2014.pdf
+LAST-MODIFIED:20140914T205615Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI book sale 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140912T233000Z
+DTEND:20140913T010000Z
+DTSTAMP:20140930T072729Z
+UID:cib4ntbj0iv4nv0ss0hpqqlqsc@google.com
+CREATED:20140822T212011Z
+DESCRIPTION:it will be open play at the Junior Gym in San Mateo. Let your l
+ ittle ones play while you can learn all about JBF! Just mention that you ar
+ e there for JBF - than it's free!
+LAST-MODIFIED:20140912T223033Z
+LOCATION:Junior Gym at their new Location at 811 South B Street\, San Mateo
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Junior Gym - free open play
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T223000Z
+DTEND:20140917T233000Z
+DTSTAMP:20140930T072729Z
+UID:68DA6DB6-E2D3-41CD-8E47-C55040233DCD
+URL:http://califa.evanced.info/paloalto/lib/eventsignup.asp?ID=7756&rts=&di
+ sptype=info&ret=eventcalendar.asp&pointer=&returnToSearch=&num=0&ad=&dt=mo&
+ mo=9/1/2014&df=calendar&EventType=ALL&Lib=ALL&AgeGroup=ALL&LangType=0&Windo
+ wMode=&noheader=&lad=&pub=1&nopub=&page=&pgdisp=
+CREATED:20140912T212724Z
+DESCRIPTION:
+LAST-MODIFIED:20140912T212724Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Palo Alto children's library event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140916T160000
+DTEND;TZID=America/Los_Angeles:20140916T163000
+DTSTAMP:20140930T072729Z
+UID:D26C95DE-3042-4037-85AC-5114BA36E89C
+RECURRENCE-ID;TZID=America/Los_Angeles:20140916T000000
+CREATED:20140912T212505Z
+DESCRIPTION:
+LAST-MODIFIED:20140912T212505Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FYI College terrace library storytime 4:00
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140912T173000Z
+DTEND:20140912T200000Z
+DTSTAMP:20140930T072729Z
+UID:eo5l6e96hi0picnavvg2kcrg18@google.com
+CREATED:20140909T050030Z
+DESCRIPTION:I think there is no host for the Dragon Babies. So why not tryi
+ ng out a new park?!  We hope to see many of you - Sarah + Corinne\n\nGreat 
+ idea!  If I have the energy\, we'll be there :) Cheryl and Camden\n\nWe sho
+ uld be able to make it! Ange/Martin\n\nWe'll plan to be there\, as well. Me
+ lissa & Rosie\n\nLeif and I will be there! Caitlin
+LAST-MODIFIED:20140912T155017Z
+LOCATION:Willow Oaks Park\, Coleman Ave\, Menlo Park\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Willow Oaks Park
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150521T163000Z
+DTEND:20150521T183000Z
+DTSTAMP:20140930T072729Z
+UID:v8l0oq5247hff3m15dt175ff6o@google.com
+CREATED:20140911T040033Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T040033Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150507T163000Z
+DTEND:20150507T183000Z
+DTSTAMP:20140930T072729Z
+UID:bir6691i9nl08h9nmqde23k5us@google.com
+CREATED:20140911T040015Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T040015Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150423T163000Z
+DTEND:20150423T183000Z
+DTSTAMP:20140930T072729Z
+UID:fopbc1d5ba9odmh7v30rar45ts@google.com
+CREATED:20140911T040002Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T040002Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150409T163000Z
+DTEND:20150409T183000Z
+DTSTAMP:20140930T072729Z
+UID:6g0obku0uuiqo5a51g4lnvebu8@google.com
+CREATED:20140911T035950Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035950Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150326T163000Z
+DTEND:20150326T183000Z
+DTSTAMP:20140930T072729Z
+UID:0opdua4l0qkdgmodk4fn0v6k6k@google.com
+CREATED:20140911T035934Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035934Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150312T163000Z
+DTEND:20150312T183000Z
+DTSTAMP:20140930T072729Z
+UID:o786tgk8l1s7udo72f055hb32s@google.com
+CREATED:20140911T035921Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035921Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150226T173000Z
+DTEND:20150226T193000Z
+DTSTAMP:20140930T072729Z
+UID:d7pf78f3gkavnstv2tbdul4j9k@google.com
+CREATED:20140911T035907Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035907Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150122T173000Z
+DTEND:20150122T193000Z
+DTSTAMP:20140930T072729Z
+UID:mkt5jp7pjgd75792vup52bl2nc@google.com
+CREATED:20140911T035847Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035848Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150108T173000Z
+DTEND:20150108T193000Z
+DTSTAMP:20140930T072729Z
+UID:8h1a7hc4osk5aftsrre2t0qhtk@google.com
+CREATED:20140911T035830Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035830Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141211T173000Z
+DTEND:20141211T193000Z
+DTSTAMP:20140930T072729Z
+UID:lmglp1hvho4oskt92dka95f6is@google.com
+CREATED:20140911T035801Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035802Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141204T173000Z
+DTEND:20141204T193000Z
+DTSTAMP:20140930T072729Z
+UID:0lubvn028qnb06noabe2n0pnuo@google.com
+CREATED:20140911T035750Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035750Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play Drop & Shop
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141120T173000Z
+DTEND:20141120T193000Z
+DTSTAMP:20140930T072729Z
+UID:9t50a1cm4cpklafsgu1qug2dc4@google.com
+CREATED:20140911T035726Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035726Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141106T173000Z
+DTEND:20141106T193000Z
+DTSTAMP:20140930T072729Z
+UID:8h55c8veedhejdbi2ikdr7c87k@google.com
+CREATED:20140911T035710Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035710Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141023T163000Z
+DTEND:20141023T183000Z
+DTSTAMP:20140930T072729Z
+UID:7cot14ebmc9poc7vge9i0ak4oc@google.com
+CREATED:20140911T035649Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035650Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141009T163000Z
+DTEND:20141009T183000Z
+DTSTAMP:20140930T072729Z
+UID:kfpr8cpkroapg17m9hb81jvp28@google.com
+CREATED:20140911T034842Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035634Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140925T163000Z
+DTEND:20140925T183000Z
+DTSTAMP:20140930T072729Z
+UID:bao9cbcf96vpkdje2in6114pp8@google.com
+CREATED:20140911T035623Z
+DESCRIPTION:Hello Everyone!! The Stay N Play team is so excited to begin an
+ other year of fun and connecting\, bouncy houses and play dough\, crafts an
+ d circle time! \n\nBelow is our schedule for this coming 2014-2015 Stay N P
+ lay year:\n\nSeptember 11\, 25\nOctober 9\, 23\nNovember 6\, 20\nDecember 4
+  (Drop N Shop - No SNP)\, 11\nJanuary 8\, 22\nFebruary 12 (Date Night - No 
+ SNP)\, 26\nMarch 12\, 26\nApril 9\, 23\nMay 7\, 21\n\nhttps://www.facebook.
+ com/TrinityStayNPlay
+LAST-MODIFIED:20140911T035623Z
+LOCATION:477 N. Mathilda Ave. Sunnyvale\, Ca. 94085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trinity Stay-N-Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T173000Z
+DTEND:20140910T203000Z
+DTSTAMP:20140930T072729Z
+UID:m9khtmg4b4i2o409v6r962f95s@google.com
+CREATED:20140903T225922Z
+DESCRIPTION:If anyone is interested in joining Avery and I at the San Franc
+ isco Zoo\; we plan to arrive by 10.30am. There will be penguin feeding at 1
+ 0.30am and grizzly bear feeding at 11.30am\, but please note this could cha
+ nge on the day so refer to the notice board at the entrance. Let's meet at 
+ the giraffe enclosure\, where there happens to be a new baby giraffe\, who 
+ was born on August 26.\n\nNerene & Avery \n\nCorinne - Sarah and I are in! 
+ Thanks for organising!\nJulia: Ada loves the playground there! I will bring
+  both girls and my mom \;)\nMelissa & Rosie - we'll plan to go\, though we 
+ won't be there until closer to 11. \nErin- Allison and I will join you\nLor
+ i\, Adeline and Evan hope to make it up today!\n
+LAST-MODIFIED:20140910T171504Z
+LOCATION:2945 Sloat Blvd\, San Francisco\, CA 94132
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:San Francisco Zoo
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T171500Z
+DTEND:20140910T174500Z
+DTSTAMP:20140930T072729Z
+UID:3EACF038-A477-4F56-8DCE-89AF3057659B
+CREATED:20140905T233936Z
+DESCRIPTION:Cheryl and Camden - would be fun to hang out at Burgess or duck
+  pond afterwards.  \n\nWe will meet you at duck pond after storytime. Laura
+LAST-MODIFIED:20140910T161914Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park library storytime 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140909T180000Z
+DTEND:20140909T183000Z
+DTSTAMP:20140930T072729Z
+UID:ommpl84k71vob34dq1ut8f4jro@google.com
+CREATED:20140826T210936Z
+DESCRIPTION:Meet and learn all about a new animal friend through stories\, 
+ chores and fun. Entrance $3/adult\, under 4yrs free. Bring a picnic lunch i
+ f you want to stay longer and visit the other animals.\n\nNerene - Avery an
+ d I will be there closer to 1030am\nLaura & Teddy- we'll plan to join you. 
+ We'll go around 10:15 to play/run around before.\nMelissa & Rosie - sounds 
+ like so much fun! Will also try to get there about 10:15.\nErin - Allison a
+ nd I will be there by 11:00.
+LAST-MODIFIED:20140909T165436Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with cows 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140911T173000Z
+DTEND:20140911T190000Z
+DTSTAMP:20140930T072729Z
+UID:E738A01A-FC98-4967-BA90-E6B9F8F48875
+CREATED:20140906T060809Z
+DESCRIPTION:Our new apt (Menlo Park) has a pool. Bring towel. Note: we are 
+ not moved in yet so changing facilities are limited. I'll send address.\n\n
+ Nerene - Avery and I are in! Thanks Laura.\nErin- Allison and I would love 
+ to swim -thanks Laura!
+LAST-MODIFIED:20140908T175748Z
+LOCATION:Laura & Teddy's new pool
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pool date 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140908T233000Z
+DTEND:20140909T013000Z
+DTSTAMP:20140930T072729Z
+UID:374AB840-32E7-4837-9024-9886B80AC23E
+CREATED:20140905T234225Z
+DESCRIPTION:Cheryl and Camden (happy to check out a diff park too)\n\nWant 
+ to change it to Seale Park? :) Ange & Martin will be there \n\nSounds great
+  :). I'll switch it.
+LAST-MODIFIED:20140907T115846Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seale Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T020000Z
+DTEND:20140910T023000Z
+DTSTAMP:20140930T072729Z
+UID:D9100163-5AA5-426F-8FCF-E300F01BFFF2
+CREATED:20140906T045613Z
+DESCRIPTION:Cheryl and Camden
+LAST-MODIFIED:20140906T045657Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo park library storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140905T180000Z
+DTEND:20140905T200000Z
+DTSTAMP:20140930T072729Z
+UID:2AF7A524-97EB-4209-8377-8E53AA622D60
+CREATED:20140830T213614Z
+DESCRIPTION:I'm hosting a play date at Sharon Park in Menlo Park.  There wi
+ ll be light refreshments :)\n\nIf you have any outdoor toys\, it is a great
+  park for chalk\, balls\, frisbees\, etc.\n\nCheryl and Camden\nLaura & Ted
+ dy: we will miss this. Have fun!\nSarah and I will try to come!\nMelissa & 
+ Rosie - see you there! We'll probably be there about 10:30.
+LAST-MODIFIED:20140905T155406Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sharon Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140903T170000Z
+DTEND:20140903T200000Z
+DTSTAMP:20140930T072729Z
+UID:FD296022-A6B1-495B-948E-E0C02C58189A
+CREATED:20140829T201915Z
+DESCRIPTION:Julia: we will be hosting a morning play date in our backyard(I
+ f it's warm enough we can open the pool)\n\nCheryl and Camden - we'd love t
+ o join :)\nNerene - Avery and I will be there\nLaura & Teddy: I'll bring Cu
+ ties again :)\nLori\, Adeline and Evan plan to come\nMelissa & Rosie\nCorin
+ ne and Sarah will be there - thanks for hosting
+LAST-MODIFIED:20140903T164741Z
+LOCATION:Ada&Ellie's backyard
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Playdate
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140903T233000Z
+DTEND:20140904T003000Z
+DTSTAMP:20140930T072729Z
+UID:EA2B3DF2-03F4-48DA-A996-CDC6FD137802
+CREATED:20140830T212740Z
+DESCRIPTION:Anyone want to check out the new Gelato place in Palo Alto? Add
+ ress is 121 Lytton Ave\, Palo Alto\n\nWe can plan to meet at the Gelato pla
+ ce at 4:30 and then walk to the Caltrain station to watch the trains go by.
+   If the kids have too much energy\, we could walk to one of the near by pa
+ rks too :)\n\nCheryl and Camden\nNerene - Avery and I will be there!\nErin 
+ - Allison and I will plan to join you
+LAST-MODIFIED:20140903T163921Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:4:30 Gelato and Train
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140623T111500
+DTEND;TZID=America/Los_Angeles:20140623T124500
+RRULE:FREQ=WEEKLY;UNTIL=20140901T181500Z;BYDAY=MO
+EXDATE;TZID=America/Los_Angeles:20140901T111500
+DTSTAMP:20140930T072729Z
+UID:249B9292-EEE3-4942-B530-B95B08960574
+CREATED:20140619T045656Z
+DESCRIPTION:
+LAST-MODIFIED:20140903T062139Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAMP Blanket Babies Pardee Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140903T020000Z
+DTEND:20140903T023000Z
+DTSTAMP:20140930T072729Z
+UID:6ED2968E-2892-48F4-815C-0191D60573DE
+CREATED:20140830T213434Z
+DESCRIPTION:Menlo Park library evening storytime\n\nCheryl and Camden\nErin
+  - Allison and I hope to join you
+LAST-MODIFIED:20140902T233635Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140902T233000Z
+DTEND:20140903T011500Z
+DTSTAMP:20140930T072729Z
+UID:9845ED66-19C3-4C86-BA87-F842DACA0EB7
+CREATED:20140830T213404Z
+DESCRIPTION:Cheryl and Camden - no RSVPs\, so we may not go.  Text me if u 
+ were planning to head over and I'll let u know if we can join
+LAST-MODIFIED:20140902T215846Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mitchell Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140902T180000Z
+DTEND:20140902T183000Z
+DTSTAMP:20140930T072729Z
+UID:js849ogukjlba0cs3f572gspng@google.com
+CREATED:20140826T210654Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.\n\nNer
+ ene - Avery and I will be going. \nErin - sounds fun! We're a maybe if we c
+ an make it after our swim class.\nLaura-- We will go early to see the anima
+ ls. It's our first time there.
+LAST-MODIFIED:20140902T164523Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with goats 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140616T111500
+DTEND;TZID=America/Los_Angeles:20140616T123000
+RRULE:FREQ=WEEKLY;UNTIL=20140825T181500Z;BYDAY=MO
+EXDATE;TZID=America/Los_Angeles:20001231T160000
+EXDATE;TZID=America/Los_Angeles:20140728T111500
+DTSTAMP:20140930T072729Z
+UID:DB68C455-DED5-46F9-882F-A7C5BF38CB4E
+CREATED:20140825T135508Z
+DESCRIPTION:Cheryl
+LAST-MODIFIED:20140901T223751Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PAMP Blanket Babies Pardee Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140901T181500Z
+DTEND:20140901T193000Z
+DTSTAMP:20140930T072729Z
+UID:4AE170A8-8697-4D29-8457-6C167C80FB47/RID=431288100
+CREATED:20140901T223727Z
+DESCRIPTION:No BB this week.  Enjoy the long weekend
+LAST-MODIFIED:20140901T223727Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAMP Blanket Babies Pardee Park CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130625T100000
+DTEND;TZID=America/Los_Angeles:20130625T110000
+RRULE:FREQ=WEEKLY;UNTIL=20130806T170000Z;BYDAY=TU
+DTSTAMP:20140930T072729Z
+UID:uumtjpde7jvi2clcqq6u7pckdc@google.com
+CREATED:20130620T182330Z
+DESCRIPTION:Tuesdays\, June 11 - August 6\, 10:15 - 11:00 a.m.\nLocation: P
+ ioneer Park\nAges: babies and up\nFree musical storytimes for preschoolers\
+ nfeaturing guest performers
+LAST-MODIFIED:20140830T091257Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pioneer Park
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140829T170000Z
+DTEND:20140829T190000Z
+DTSTAMP:20140930T072729Z
+UID:0194494C-3BA1-493C-9FF9-DC450D435A85
+CREATED:20140828T041711Z
+DESCRIPTION:Laura & Teddy: we'll be there 10ish or a bit after. Will bring 
+ a big blanket & a few toys/trucks and snacks/lunch for us if we get hungry.
+ \n\nCheryl and Camden - Great idea!  We'll prob be casually late
+LAST-MODIFIED:20140829T160207Z
+LOCATION:Beach by the Ritz Carlton
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Half Moon Bay morning beach outing
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140828T230000Z
+DTEND:20140828T233000Z
+DTSTAMP:20140930T072729Z
+UID:11B75F55-720B-430F-B03E-AD82A1912E37
+CREATED:20140825T052336Z
+DESCRIPTION:Laura & Teddy: we will not make it today.\nJulia: Ada used to l
+ ove it so we hope to make it.\nNerene - depending on nap time\, we will try
+  to come\n\nCheryl - we should be able to make it :)
+LAST-MODIFIED:20140828T223854Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Musical storytime: Atherton library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140828T170000Z
+DTEND:20140828T190000Z
+DTSTAMP:20140930T072729Z
+UID:7p8lfmnntefkip9hs01o8k2lgc@google.com
+CREATED:20140825T060944Z
+DESCRIPTION:Corinne - Sarah and I will be there\nLaura & Teddy\nJulia: I ho
+ pe naps will allow to bring both girls\nErin- Allison and I will join you\n
+ Lisa: Caden\, Sasha and I will be there
+LAST-MODIFIED:20140828T141249Z
+LOCATION:Hoover Park\, 2901 Cowper St\, Palo Alto\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hoover Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140827T230000Z
+DTEND:20140828T004500Z
+DTSTAMP:20140930T072729Z
+UID:kgfpj3psv82q0rd88a8b30ekr8@google.com
+CREATED:20140821T001508Z
+DESCRIPTION:Nerene - Avery and I will be there after his nap\nJulia: I plan
+  to bring both Ada&Ellie\nErin - Allison and I hope to join you\nCheryl - w
+ e hope to join too\nCorinne - Sarah and I will be there!\nLisa - we will tr
+ y to make it w C&S too!
+LAST-MODIFIED:20140827T134730Z
+LOCATION:Corner of Santa Monica and Nash Avenue\, Menlo Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seminary Oaks Park play date 4pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140827T020000Z
+DTEND:20140827T023000Z
+DTSTAMP:20140930T072729Z
+UID:EC19A774-7DFA-465B-B771-C654F9E760FA
+CREATED:20140824T163628Z
+DESCRIPTION:
+LAST-MODIFIED:20140827T014509Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park library storytime
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141028T180000Z
+DTEND:20141028T183000Z
+DTSTAMP:20140930T072729Z
+UID:kuvaomol648f9oiu81l8dhv0c0@google.com
+CREATED:20140826T211556Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.
+LAST-MODIFIED:20140826T211556Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with sheep 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141021T180000Z
+DTEND:20141021T183000Z
+DTSTAMP:20140930T072729Z
+UID:n1i8fkcg4lifaj60hnooci4mos@google.com
+CREATED:20140826T211535Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.
+LAST-MODIFIED:20140826T211535Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with cows 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141014T180000Z
+DTEND:20141014T183000Z
+DTSTAMP:20140930T072729Z
+UID:eq00iuvm2j40tvs3vc76iv0qgk@google.com
+CREATED:20140826T211534Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.
+LAST-MODIFIED:20140826T211534Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with rabbits 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141007T180000Z
+DTEND:20141007T183000Z
+DTSTAMP:20140930T072729Z
+UID:qkv99cj9u18aosmanvbl933p88@google.com
+CREATED:20140826T211422Z
+DESCRIPTION:You will meet and learn about a new animal friend through stori
+ es\, chores and fun (1-4yrs). Entrance $3/adult\, under 4yrs free. Bring a 
+ picnic lunch if you want to stay longer and visit the other animals.
+LAST-MODIFIED:20140826T211422Z
+LOCATION:Ardenwood Historic Farm\, Fremont\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler story time with goats 11am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140826T230000Z
+DTEND:20140827T010000Z
+DTSTAMP:20140930T072729Z
+UID:FB3CACD5-5BE9-4178-BD52-8B1119B8A535
+CREATED:20140825T035452Z
+DESCRIPTION:Cheryl and Camden\nCorinne + Sarah
+LAST-MODIFIED:20140826T205142Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAJMZ and Children's library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140826T230000Z
+DTEND:20140827T010000Z
+DTSTAMP:20140930T072729Z
+UID:67A52E75-7115-49C8-9CC1-C12D8D4C30A0
+CREATED:20140824T163815Z
+DESCRIPTION:Cheryl & Camden - change of plans\, we are going to check out P
+ AJMZ & Children's library post nap\n\nJulia: Ada wants to go to the music c
+ lass through PAMP so we hope to go after in the park.\n\nWe have an appt at
+  4 so will try to go to the park beforehand\, is Teddy is up from nap in ti
+ me.
+LAST-MODIFIED:20140826T192730Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140824T013000Z
+DTEND:20140824T040000Z
+DTSTAMP:20140930T072729Z
+UID:qcb8krq16v6vuku7ln26svtc6k@google.com
+CREATED:20140822T213927Z
+DESCRIPTION:Palo Alto Fire fighters are inviting all the kids in the Commun
+ ity to attend a free Movie Night at Palo Alto Fire Station #1 (301 Alma St.
+ ) this Saturday\, August 23rd\, 6:30 pm - 9 pm.\n\nThe firefighters will be
+ :\n\n1. Showing the LEGO MOVIE\n2. Hosting a fire fighter meet and greet\n3
+ . Demonstrating their new fire truck\n4. Serving complimentary refreshments
+ \n\nPlease\, bring lawn chairs or a blanket.
+LAST-MODIFIED:20140824T011504Z
+LOCATION:301 Alma Street\, Palo Alto\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Palo Alto Fire Station 1 Lego Movie Night
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140821T180000Z
+DTEND:20140821T210000Z
+DTSTAMP:20140930T072729Z
+UID:6DB3DC92-7A39-4DB9-97AD-4EB1D887CDBB
+CREATED:20140816T172303Z
+DESCRIPTION:Toddler Treks at the California Academy of Sciences.  The class
+  requires registration ahead of time. Camden and I usually stay at CAS from
+  10:45-2:00ish.\n\nCheryl and Camden
+LAST-MODIFIED:20140821T174504Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Class at CAS
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140822T173000Z
+DTEND:20140822T181500Z
+DTSTAMP:20140930T072729Z
+UID:CF00A877-2554-40B9-9407-880C3342D053
+CREATED:20140820T092719Z
+DESCRIPTION:
+LAST-MODIFIED:20140821T055500Z
+LOCATION:Los altos library 13 s San Antonio rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Musical trains and travel
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140820T180000Z
+DTEND:20140820T190000Z
+DTSTAMP:20140930T072729Z
+UID:A5CEACEB-B5EB-44AE-8B80-DD67EA9BBA4E
+CREATED:20140818T040610Z
+DESCRIPTION:Ange & Martin\nLaura & Teddy\nCorinne + Sarah\nJulia&Ada\nWe ha
+ ve our swimming lesson tomorrow - sorry we can't make it! Melissa & Rosie\n
+ Nerene & Avery\, but closer to 11:15am
+LAST-MODIFIED:20140820T174539Z
+LOCATION:Menlo Park
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Lunch@ Mama Coco
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140819T163000Z
+DTEND:20140819T190000Z
+DTSTAMP:20140930T072729Z
+UID:jnoukiro6k0d6a22i5f5qg5sno@google.com
+CREATED:20140802T212620Z
+DESCRIPTION:Avery and I will host a park play date at Seven Seas Neighborho
+ od Park in Sunnyvale. There's a splash mat so bring a change of clothes for
+  the kids.\n\nRecommended parking is on Borregas Avenue off of E Weddell Dr
+ . Then a short 5 minute walk via the John W. Christian Greenbelt pathway to
+  the park. \n\nMeet in the enclosed infant playground. We'll provide some l
+ ight snacks. Looking forward to seeing some of you then!\n\nAnge & Martin w
+ ill be there! Fun park\nCorinne + Sarah will join - thanks for hosting!\nJu
+ lia: we hope we can make it!
+LAST-MODIFIED:20140819T033158Z
+LOCATION:Seven Seas Neighborhood Park. Corner Morse Ave and John W. Christi
+ an Greenbelt\, Sunnyvale
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Nerene hosted play date at Seven Seas Park 10am-12pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140820T101500
+DTEND;TZID=America/Los_Angeles:20140820T104500
+RRULE:FREQ=WEEKLY;UNTIL=20140820T171500Z
+DTSTAMP:20140930T072729Z
+UID:4660EC77-6A52-49BF-B536-05083256AE2F
+CREATED:20140816T172125Z
+DESCRIPTION:Cheryl and Camden
+LAST-MODIFIED:20140816T172136Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:10:15 menlo park toddler storytime (no registration)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140813T101500
+DTEND;TZID=America/Los_Angeles:20140813T104500
+DTSTAMP:20140930T072729Z
+UID:5F5E8232-7E71-4928-A109-C437C74F773C
+RECURRENCE-ID;TZID=America/Los_Angeles:20140813T110000
+CREATED:20140810T000157Z
+DESCRIPTION:Melissa & Rosie (10:15 toddler storytime)\n\nLaura & Teddy\n\nC
+ heryl and Camden - we'll be there
+LAST-MODIFIED:20140816T172126Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:10:15 menlo park toddler storytime (no registration)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140813T110000
+DTEND;TZID=America/Los_Angeles:20140813T120000
+RRULE:FREQ=WEEKLY;UNTIL=20140813T180000Z
+DTSTAMP:20140930T072729Z
+UID:5F5E8232-7E71-4928-A109-C437C74F773C
+CREATED:20140810T000157Z
+DESCRIPTION:
+LAST-MODIFIED:20140816T172126Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:10:15 menlo park toddler storytime (no registration)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140816T100000
+DTEND;TZID=America/Los_Angeles:20140816T120000
+DTSTAMP:20140930T072729Z
+UID:43243666-1CB9-49F7-BBEF-5A3F31A30C90
+RECURRENCE-ID;TZID=America/Los_Angeles:20140816T160000
+CREATED:20140615T232126Z
+DESCRIPTION: I am pleased to announce a new weekend playdate! Every other S
+ aturday\, we will be meeting at Shoup Park from *1:30PM* - *3:00PM*. Shoup 
+ is a lovely park with plenty of shady trees and separate little and big kid
+  play areas just across Foothill Expressway from downtown Los Altos. The fi
+ rst playdate will be this coming *Saturday\, May 25th*. This event is being
+  hosted by Meena and her son\, Aman. A reminder email will go out on Thursd
+ ays before each event\; please RSVP if you are planning on going.\n\nThanks
+ !\nNina
+LAST-MODIFIED:20140816T164505Z
+LOCATION:Shoup Park\, Los Altos
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Shoup Park Playdate
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140823T203000Z
+DTEND:20140823T210000Z
+DTSTAMP:20140930T072729Z
+UID:873107E8-5C65-48B5-86FD-6037BE4E531D
+CREATED:20140816T162226Z
+DESCRIPTION:The City of Los Altos has collaborated with Passerelle Investme
+ nt Company once again to bring a fun pop-up park to Downtown Los Altos for 
+ the month of August.\n\nThe Third Street Green is located on Third Street b
+ etween State Street and Plaza North (between Tour Eiffel restaurant and Red
+  Racer Hobby Shop). It will feature approximately 2\,500 square feet of syn
+ thetic turf\, Adirondack chairs and tables for both kids and adults and sha
+ de umbrellas.\n\nA nighttime dynamic lighting installation will be installe
+ d on Monday\, August 4 in the street trees overhanging the space. In additi
+ on\, the Green will play host to daily activities and special events for al
+ l to enjoy - visit the Third Street Green website and calendar at www.Third
+ StreetGreen.com.\n\nSara- we won't be able to attend because we'll be campi
+ ng but we'll try to attend on the 31st.
+LAST-MODIFIED:20140816T162226Z
+LOCATION:Third Street between state & Plaza North
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Parent & Kid Yoga @ Third Street Green Pop Up Public Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140815T170000Z
+DTEND:20140815T200000Z
+DTSTAMP:20140930T072729Z
+UID:4340B875-2DD0-413D-95C9-C98DC41F4CD9
+CREATED:20140810T000352Z
+DESCRIPTION:Cheryl - we might head down to San Jose prenap.      \n\nI'm go
+ ing to play it by ear...tired at the end of the week - Cheryl
+LAST-MODIFIED:20140815T063019Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:San Jose discovery museum?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140814T170000Z
+DTEND:20140814T200000Z
+DTSTAMP:20140930T072729Z
+UID:0CDA0648-EC37-4F28-96B8-495AF56D384F
+CREATED:20140810T172658Z
+DESCRIPTION:Laura & Teddy (will bring fruit)
+LAST-MODIFIED:20140814T160006Z
+LOCATION:Ada&Ellie's pool
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pool play date
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140705T160000
+DTEND;TZID=America/Los_Angeles:20140705T173000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=SA
+EXDATE;TZID=America/Los_Angeles:20140830T160000
+DTSTAMP:20140930T072729Z
+UID:43243666-1CB9-49F7-BBEF-5A3F31A30C90
+CREATED:20140615T232126Z
+DESCRIPTION: I am pleased to announce a new weekend playdate! Every other S
+ aturday\, we will be meeting at Shoup Park from *1:30PM* - *3:00PM*. Shoup 
+ is a lovely park with plenty of shady trees and separate little and big kid
+  play areas just across Foothill Expressway from downtown Los Altos. The fi
+ rst playdate will be this coming *Saturday\, May 25th*. This event is being
+  hosted by Meena and her son\, Aman. A reminder email will go out on Thursd
+ ays before each event\; please RSVP if you are planning on going.\n\nThanks
+ !\nNina
+LAST-MODIFIED:20140814T075617Z
+LOCATION:Shoup Park\, Los Altos
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Shoup Park Playdate
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140813T173000Z
+DTEND:20140813T180000Z
+DTSTAMP:20140930T072729Z
+UID:1CB0277B-836F-4EF2-98CC-60A167FDE192
+CREATED:20140813T084732Z
+DESCRIPTION:Lori & RJ are singers\, songwriters and top-notch performers. D
+ ecked out in colorful clothes\, their innovative style holds children and p
+ arents alike in a musical trance. The show is a variety show\, a sing-a-lon
+ g\, a hands-on\, a fun musical extravaganza. With cool props\, special micr
+ ophones\, wild wigs\, jig dolls and puppets\, pom poms and what ever else t
+ hey can create that adds fun to their show\, you’ll need a seat belt to kee
+ p from bouncing to the music.  They span the entire musical spectrum with t
+ heir songs.  They are an act that you’ll want more and more.  They bring th
+ e party to you!\nFeatures: Families\, Kids\, Open to All\nPrice: Suggested 
+ donation for admission is one new book (preferably purchased at Linden Tree
+ ) per family. The books will be donated to Reading Partners\, a local liter
+ acy program that matches students with one-on-one tutors.\n\nREMAINING SUMM
+ ER 2014 CONCERTS:\nAugust 6 – Snail People\nAugust 13 – Candy Cotton Expres
+ s (New This Year!)\n\nAll concerts will take place Wednesday mornings at 10
+ :30 in Linden Tree.\n\n- See more at: http://www.lindentreebooks.com/events
+ /1060/lori-rj-cotton-candy-express-concert/#sthash.KvGWn1sQ.dpuf
+LAST-MODIFIED:20140813T084732Z
+LOCATION:Linden tree\, Los altos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Lori & RJ Cotton Candy Express Concert 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140812T233000Z
+DTEND:20140813T013000Z
+DTSTAMP:20140930T072729Z
+UID:0EEDFAE7-85FE-4DEE-AC7C-CB212F95EF5D
+CREATED:20140809T235829Z
+DESCRIPTION:Cheryl - we'll go post nap\nAnge- should be able to make it\nEr
+ in - Allison and I will also plan to be there post nap\n\nWe are going to s
+ wing by PAJMZ first.  They close at 5 - Cheryl
+LAST-MODIFIED:20140812T230035Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mitchell Park in afternoon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140812T020000Z
+DTEND:20140812T030000Z
+DTSTAMP:20140930T072729Z
+ORGANIZER;CN=CA moms:mailto:iqn1kd0bcii37jd489mcq2cbe4@group.calendar.googl
+ e.com
+UID:D7088228-31F6-41E4-B994-3D701F7DD8B5
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ng Tu;X-NUM-GUESTS=0:mailto:uppeng@gmail.com
+CREATED:20140806T025956Z
+DESCRIPTION:
+LAST-MODIFIED:20140812T010139Z
+LOCATION:Atherton Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dad&Me puppet show
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140811T223000Z
+DTEND:20140812T000000Z
+DTSTAMP:20140930T072729Z
+UID:CBB03DD3-C863-44B7-A01F-C2C16B17E2AD
+CREATED:20140809T200912Z
+DESCRIPTION:It's Teddy's 2nd bday. We'll play for about an hour. I'll bring
+  cupcakes to celebrate for anyone who can make it.\n\nCheryl - Sorry if I a
+ ccidentally changed the time :(  We'd love to join.  I'll try to get Camden
+  to nap \nNerene - Happy Birthday Teddy! Sadly Avery and I cannot make it\,
+  but hopefully we'll see you two soon.\nJulia: can't miss it\, especially A
+ da\;)\nMelissa & Rosie - see you there!!\nAnge-bummer we can't make it but 
+ would love to see you soon to celebrate! Happy birthday!\n\nErin - Allison 
+ and I will be there! Looking forward to it!
+LAST-MODIFIED:20140811T011026Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer play date 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140806T230000Z
+DTEND:20140807T010000Z
+DTSTAMP:20140930T072729Z
+UID:49D59933-347D-4334-92D5-62FBFC2D7F97
+CREATED:20140802T213504Z
+DESCRIPTION:Cheryl - depending on when Camden wakes up from his nap\, we ho
+ pe to make a quick trip to PAJMZ before going to Mitchell park for a late p
+ ark outing.  (We might leave before 6)\n\nErin - we'd like to join you. I'l
+ l check in tomorrow for any updates on nap time... :)\n\nBac's flight is su
+ ppose to land at 4:30\, so we might just have time for the zoo from 4-4:45\
+ n\nJade - We'll go to PAJMZ if Leroy wakes up and will have to leave around
+  5:15pm the latest.\n\nLeaving park at 5.  Sorry to miss u both
+LAST-MODIFIED:20140807T025357Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mitchell Park and PAJMZ
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:4BA18551-AE05-4ECB-8EE4-82DC1042D8DB
+UID:4BA18551-AE05-4ECB-8EE4-82DC1042D8DB
+ACKNOWLEDGED:20140807T025332Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140815T230000Z
+DTEND:20140816T000000Z
+DTSTAMP:20140930T072729Z
+UID:oh6q89oe3prshj18pb60jt8r04@google.com
+CREATED:20140806T212108Z
+DESCRIPTION:RSVP required\n\nBUNNIES & THUMPERS: (18m - 2.9 years)\nBunnies
+  & Thumpers classes introduce toddlers to soccer with games \nthat allow th
+ em to run\, play as a group and kick a ball. They gain \nbasic soccer skill
+ s while building fundamentals such as balance and \ncoordination. Classes i
+ ncorporate activities that are geared toward \na toddler's unique way of le
+ arning and include parachutes\, bubbles\, \nnoodles\, cones\, lots of goal 
+ scoring and more. Classes are 50 minutes \nlong. Adult participation is req
+ uired.
+LAST-MODIFIED:20140806T212108Z
+LOCATION:SportsHouse\, 3151 Edison Way\, Redwood City\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAMP Lil Kickers: Soccer for all ages (18 months- 5 years)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140808T180000Z
+DTEND:20140808T203000Z
+DTSTAMP:20140930T072729Z
+UID:9A1DE17D-C711-43F0-AB6C-B48915DC4E8F
+CREATED:20140802T213650Z
+DESCRIPTION:Cheryl - we hope to go to PAJMZ\, have a lunch at Rinconada par
+ k before yoga at the children's library at noon.
+LAST-MODIFIED:20140806T162320Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch and Yoga at children's library palo alto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140806T173000Z
+DTEND:20140806T180000Z
+DTSTAMP:20140930T072729Z
+UID:A84E4F46-5DC3-45A0-A662-E05FF6675C31
+CREATED:20140802T213343Z
+DESCRIPTION:Cheryl - we've never been before\, but looks like a fun event. 
+  \n
+LAST-MODIFIED:20140806T141949Z
+LOCATION:265 State Street\, Los Altos\, CA 94022
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Linden tree 10:30 concert event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140806T000000Z
+DTEND:20140806T020000Z
+DTSTAMP:20140930T072729Z
+UID:406CFE5D-0D46-4CA7-92EE-C4B28E4E1522
+CREATED:20140805T235600Z
+DESCRIPTION:Julia:I am taking the girls for a late park play/walk 
+LAST-MODIFIED:20140805T235616Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140804T230000Z
+DTEND:20140805T020000Z
+DTSTAMP:20140930T072729Z
+UID:1D9AEEF6-B155-4236-8A87-1EF2B944C453
+CREATED:20140802T213131Z
+DESCRIPTION:Cheryl - Camden and I would love to host another play date.  Pl
+ ease RSVP on Monday by 3 if you plan to come :)\n\nNerene - Avery and I wil
+ l be there. Thanks for hosting Cheryl!\n\nLaura-- we hope to make it dep on
+  nap. I'll text you later today to confirm. Teddy is pretty off schedule du
+ e to travel. :)\n\nErin - we'll join you after Allison's nap too\, thanks C
+ heryl!\n\nCome anytime :). Camden would love to see all of his friends agai
+ n.  Text me at 4344099113...in case we went outside.  
+LAST-MODIFIED:20140804T223907Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Play date Camden's home
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140805T173000Z
+DTEND:20140805T180000Z
+DTSTAMP:20140930T072729Z
+UID:BAD50A19-4C3C-4BDE-9DD2-37C199A402CA
+CREATED:20140802T213302Z
+DESCRIPTION:
+LAST-MODIFIED:20140802T234847Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Redwood city downtown storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140801T170000Z
+DTEND:20140801T193000Z
+DTSTAMP:20140930T072729Z
+UID:itqn8o3qmagi70qmih50ltbmeo@google.com
+CREATED:20140721T051911Z
+DESCRIPTION:Updating this since we didn't get any takers on lunch in San Fr
+ ancisco - we'll stay closer to home! \n\nMelissa & Rosie\n
+LAST-MODIFIED:20140731T212641Z
+LOCATION:Johnson Park\, Palo Alto\, and lunch on University Ave 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Johnson Park and Lunch in Palo Alto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140730T230000Z
+DTEND:20140731T010000Z
+DTSTAMP:20140930T072729Z
+UID:8EFC1D36-189E-43A4-AB4A-9039D993A523
+CREATED:20140729T033548Z
+DESCRIPTION:Cheryl - no RSVPs\, so we will skip and go shopping instead.
+LAST-MODIFIED:20140730T221912Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140730T230000Z
+DTEND:20140731T000000Z
+DTSTAMP:20140930T072729Z
+UID:gfu23bi8q3sd94thtip2jonc08@google.com
+CREATED:20140730T194856Z
+DESCRIPTION:Katie (Hopefully Lucy's up from nap in time)
+LAST-MODIFIED:20140730T194856Z
+LOCATION:Fair Oaks Library (Middlefield near Costco in RWC)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Magical Moonshine Theatre (Puppet Show - Three Little Pigs)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140730T173000Z
+DTEND:20140730T180000Z
+DTSTAMP:20140930T072729Z
+UID:iv90l41fctkphnt0cg5otvlfq8@google.com
+CREATED:20140519T214517Z
+DESCRIPTION:
+LAST-MODIFIED:20140730T174435Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Menlo Park Library Jungle Joe event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140729T230000Z
+DTEND:20140730T003000Z
+DTSTAMP:20140930T072729Z
+UID:8og0kgg816c4bgspsmru7s8iks@google.com
+CREATED:20140729T060210Z
+DESCRIPTION:Sarah (20 months)\, Leah (4 years)\, and I will be heading to B
+ owden Park on the corner of Alma and N.California Ave in Palo Alto around 4
+ pm. Please join us if you can!
+LAST-MODIFIED:20140729T224508Z
+LOCATION:Bowden Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bowden Park playdate
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140728T230000Z
+DTEND:20140729T010000Z
+DTSTAMP:20140930T072729Z
+UID:ml001uf36b25lnmp0grkvf39no@google.com
+CREATED:20140727T064803Z
+DESCRIPTION:We'd love to host a playdate at our apartment.  Please RSVP by 
+ 3PM so we know how many people to expect.  If the kids are up for it\, we c
+ an take a stroller walk for frozen yogurt or Stanford Hills Park. 
+LAST-MODIFIED:20140728T225007Z
+LOCATION:Camden's 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Playdate at Camden's
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140724T174500Z
+DTEND:20140724T191500Z
+DTSTAMP:20140930T072729Z
+UID:n6s1t46fquc4je87olplg23j34@google.com
+CREATED:20140722T174519Z
+DESCRIPTION:If anyone is interested in catching up for a coffee or an early
+  lunch.\n\n\nNerene - Avery and I will be there\nMelissa - I'd love to chec
+ k this place out\, but we can't make it on Thursdays. Let me know if you're
+  ever headed down there on a Wed or Fri. 
+LAST-MODIFIED:20140723T202707Z
+LOCATION:Bumble Los Altos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bumble at 1045am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140722T233000Z
+DTEND:20140723T013000Z
+DTSTAMP:20140930T072729Z
+UID:j2g1hneillkf489b66tar7dvnc@google.com
+CREATED:20140720T175812Z
+DESCRIPTION:Cheryl - We hope Camden wakes up in time to meet at Heritage ar
+ ound 4:30.  We'll walk over to Heritage after the kids play at the park for
+  a bit. \n\nNerene - Avery and I will be there.\nMartin and I are coming
+LAST-MODIFIED:20140722T225014Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Heritage Park and Timothy Adams
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140724T180000Z
+DTEND:20140724T203000Z
+DTSTAMP:20140930T072729Z
+UID:ei8ju2k43o2i7tp6970ov0dosc@google.com
+CREATED:20140705T221158Z
+DESCRIPTION:Cheryl and Camden - We are going to be going to the CAS around 
+ 10:30 and staying until 1:30ish.  There is a toddler class at 11 (you must 
+ preregister for it).  Let me know if you would like to join\n\nJade & Leroy
+  - We will be there. Signed up for the toddler class as well. Cheryl\, shal
+ l we meet in front of the entrance around 10:30am?
+LAST-MODIFIED:20140722T214508Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CAS class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140722T163000Z
+DTEND:20140722T190000Z
+DTSTAMP:20140930T072729Z
+UID:31EBD85E-CFAB-413F-8142-1262FC712F9A
+CREATED:20140716T162556Z
+DESCRIPTION:Kristina & Harper-side salad\nNerene & Avery - A snack tray\nLa
+ ura: I'm sorry to miss this. We'll be in Europe. Have fun & see you in Mont
+ erey!\nElaine & Evelyn: Sorry\, we will be in NYC. Best of luck in your new
+  adventures!\nMegan and Declan - undecided yet on food but will be there!!\
+ nAnge & Martin: Watermelon and Farewell Cupcakes!\nNatalie and Ethan: fruit
+  plate\nCheryl and Camden - drinks\nLori and Evan: scones\nJulia: sorry to 
+ miss it\,I have family in town and we'll be in SF. Enjoy the new place!\nEr
+ in & Allison - veggies\nCorinne + Sarah: we are still in Switzerland - all 
+ the best for your new period of life!\nBrandi &Ella - breakfast pastries
+LAST-MODIFIED:20140722T161504Z
+LOCATION:Johnson Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Farewell Play Date & Pot Luck
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140721T233000Z
+DTEND:20140722T013000Z
+DTSTAMP:20140930T072729Z
+UID:p0mq6gtherqtviu643ajkbga10@google.com
+CREATED:20140720T175659Z
+DESCRIPTION:Cheryl and Camden - no RSVPs\, so we'll most likely stay home. 
+  Hope to see everyone soon :)
+LAST-MODIFIED:20140721T223154Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140723T173000Z
+DTEND:20140723T193000Z
+DTSTAMP:20140930T072729Z
+UID:77ap1ed58epps54o8ou247rnm8@google.com
+CREATED:20140721T222305Z
+DESCRIPTION:I will be hosting a water day playdate at my house this Wednesd
+ ay July 23 from 10:30-12:30am.  We have a pool\, a water table and an infla
+ table raft we can add a small amount of water to for the kids to splash aro
+ und in.  Be sure to bring sunscreen\, swimming suit/diaper\, and towel.  I'
+ ll have a few snack for us munch on.  Please let yourself in when you arriv
+ e.  Shoot me an email if you plan to make it so I can plan accordingly. (lo
+ ri.wendlandt@gmail.com)
+LAST-MODIFIED:20140721T222305Z
+LOCATION:1005 Robinhood Ct. Los Altos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Water Day Play date
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140721T070000Z
+DTEND:20140721T080000Z
+DTSTAMP:20140930T072729Z
+UID:6838E661-E810-45A3-9821-06DC9FB62075
+CREATED:20140721T063825Z
+DESCRIPTION:
+LAST-MODIFIED:20140721T063825Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Doula post partum.  Contact again
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140720T170000Z
+DTEND:20140720T200000Z
+DTSTAMP:20140930T072729Z
+UID:4F9BF40B-C9DB-4C43-9255-08A9091F1169
+CREATED:20140611T204152Z
+DESCRIPTION:Kristina & Harper
+LAST-MODIFIED:20140720T175205Z
+LOCATION:Mitchell Park - Redwood & Pine Grove Group Areas  600 East Meadow 
+ Drive\, Palo Alto\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family Day PAMP
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:923E89B3-45B1-463D-BD29-ADADBCA1DF82
+UID:923E89B3-45B1-463D-BD29-ADADBCA1DF82
+ACKNOWLEDGED:20140720T175157Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140719T170000Z
+DTEND:20140721T010000Z
+DTSTAMP:20140930T072729Z
+UID:nndv4aqtq7f2j71d9lt33el3eo@google.com
+CREATED:20140716T061719Z
+DESCRIPTION:10AM TO 6PM\n\nMENLO PARK CELEBRATES ITS 28TH ANNUAL MID-SUMMER
+  FESTIVAL OF THE ARTS. More info at http://marketplace.miramarevents.com/qu
+ ick-facts.html\nKristina& Harper 10-12\n
+LAST-MODIFIED:20140719T045934Z
+LOCATION:SANTA CRUZ AVENUE\, MENLO PARK\, CALIFORNIA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Connoisseurs' Marketplace
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140103T100000
+DTEND;TZID=America/Los_Angeles:20140103T103000
+RRULE:FREQ=WEEKLY
+EXDATE;TZID=America/Los_Angeles:20140221T100000
+EXDATE;TZID=America/Los_Angeles:20140516T100000
+EXDATE;TZID=America/Los_Angeles:20140523T100000
+EXDATE;TZID=America/Los_Angeles:20140530T100000
+EXDATE;TZID=America/Los_Angeles:20140606T100000
+EXDATE;TZID=America/Los_Angeles:20140613T100000
+DTSTAMP:20140930T072729Z
+UID:BA90B8A6-F3FF-47B0-A50F-92FA543D8ED0
+CREATED:20131219T203052Z
+DESCRIPTION:
+LAST-MODIFIED:20140718T164504Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mitchell park library storytime
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140717T223000Z
+DTEND:20140718T014500Z
+DTSTAMP:20140930T072729Z
+UID:CCAC109A-DD04-4B6B-B5A9-E2BAAEA5DC33
+CREATED:20140717T181047Z
+DESCRIPTION:Kristina & Harper
+LAST-MODIFIED:20140717T181048Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rinconada Pool Toddler Area
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140717T170000Z
+DTEND:20140717T190000Z
+DTSTAMP:20140930T072729Z
+UID:rjmgmc088ja5s9744bb24c9768@google.com
+CREATED:20140713T022156Z
+DESCRIPTION:Martin and I will host playdate at our place.  Light refreshmen
+ ts.\nLet us know if you can make it!\n\nNerene - Avery and I will be coming
+ . Thanks for hosting Ange!\n\nErin - Allison and I will join you\, thanks\n
+  Ange!\nKristina-sorry to miss! :(\nLaura-- sorry to miss this one. Going t
+ o France tomorrow. Next time!\n
+LAST-MODIFIED:20140716T204443Z
+LOCATION:777 San Antonio Rd #25 Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ange Hosting Playdate
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140716T223000Z
+DTEND:20140716T231500Z
+DTSTAMP:20140930T072729Z
+UID:j8g7ju4joe73ah031vgth7gc5c@google.com
+CREATED:20140713T024954Z
+DESCRIPTION:Join edu-tainer Mister Q for an afternoon of fun music.\nKristi
+ na & Harper
+LAST-MODIFIED:20140716T180153Z
+LOCATION:Children's Library\, 1276 Harriet St\, Palo Alto\, CA 94301\, Unit
+ ed States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Musician Mister Q
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140716T170000Z
+DTEND:20140716T190000Z
+DTSTAMP:20140930T072729Z
+UID:4C40EA7B-BA19-49E9-B0C6-C6090E4E68AB
+CREATED:20140715T040027Z
+DESCRIPTION:Laura & Teddy\n\nMelissa & Rosie - we have a swim lesson at 11:
+ 30\, so hopefully we can come play for a little while beforehand. 
+LAST-MODIFIED:20140716T162804Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess baby pool 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140715T223000Z
+DTEND:20140716T003000Z
+DTSTAMP:20140930T072729Z
+UID:3jgqlq4kvv23nbqq1g5v5edie8@google.com
+CREATED:20140715T202520Z
+DESCRIPTION:Note that we're on East Creek Place\, not East Creek Drive. Whe
+ n you get here\, just come through the gate to the right of the garage. Tex
+ t 412-559-5453 if you need directions. 
+LAST-MODIFIED:20140715T203229Z
+LOCATION:7 E Creek Pl\, Menlo Park\, CA 94025\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Water Table at Melissa & Rosie's House
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140716T170000Z
+DTEND:20140716T173000Z
+DTSTAMP:20140930T072729Z
+UID:29b57nas19kb8s417cpa5arcig@google.com
+CREATED:20140713T022408Z
+DESCRIPTION:
+LAST-MODIFIED:20140715T002258Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler Storytime PA Children's Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140714T220000Z
+DTEND:20140714T224500Z
+DTSTAMP:20140930T072729Z
+UID:quc4u2v7sbof9dumv38mml9o34@google.com
+CREATED:20140713T021947Z
+DESCRIPTION:
+LAST-MODIFIED:20140714T214504Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mad Science Atherton Library - 5yrs and up though
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140718T190000Z
+DTEND:20140718T200000Z
+DTSTAMP:20140930T072729Z
+UID:qdbfbhhd5rh6cink7stq6a97s0@google.com
+CREATED:20140713T022330Z
+DESCRIPTION:
+LAST-MODIFIED:20140713T024622Z
+LOCATION:1276 Harriet St\, Palo Alto\, CA 94301\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paws to Pose Yoga PA Children's Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140715T220000Z
+DTEND:20140715T230000Z
+DTSTAMP:20140930T072729Z
+UID:eq89vc1srasgld9pteg7hhq0po@google.com
+CREATED:20140713T022134Z
+DESCRIPTION:
+LAST-MODIFIED:20140713T022134Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Music & Movement PA Children's Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140715T171500Z
+DTEND:20140715T174500Z
+DTSTAMP:20140930T072729Z
+UID:3hvra8j36p33l1uh0qbb3qcjfs@google.com
+CREATED:20140713T022028Z
+DESCRIPTION:
+LAST-MODIFIED:20140713T022028Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Los Altos Toddler Storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140715T173000Z
+DTEND:20140715T181500Z
+DTSTAMP:20140930T072729Z
+UID:rjhdg0orclgqk8719rpp04rkr0@google.com
+CREATED:20140705T211125Z
+DESCRIPTION:Toddler Storytime & Craft\n\nEvent Type: Storytime\nDate: \nTue
+ sday\, 07/15/2014 at 10:30 AM \nTuesday\, 08/19/2014 at 10:30 AM \nTuesday\
+ , 09/16/2014 at 10:30 AM \nTuesday\, 10/21/2014 at 10:30 AM \nLibrary: Port
+ ola Valley\nAges: Toddlers (18-36 months)\nDescription:\n\nA craft will fol
+ low Toddler Storytime every 3rd Tuesday of the month
+LAST-MODIFIED:20140712T162349Z
+LOCATION:Portola Valley Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler storytime and craft
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140711T170000Z
+DTEND:20140711T193000Z
+DTSTAMP:20140930T072729Z
+UID:12E2AE84-0469-4CA6-AB19-D4BFE6456273
+CREATED:20140708T221144Z
+DESCRIPTION:Let me know if you need directions\, etc. Erin (913)526-5460\n\
+ nLaura & Teddy\n\nCheryl and Camden - we will most likely be late.  Can I t
+ ext u in the morning? Thanks for hosting :)\n\nNicole & Gale - we will try 
+ and make it - what is your address? Can you send it to my phone? 415-215-32
+ 07.  I should note that Gale wanted to nap yesterday around 10 a.m.\, so if
+  she wants to nap so early again today\, we won't be able to make it. But w
+ e'll try!
+LAST-MODIFIED:20140711T141359Z
+LOCATION:660 Partridge Ave Menlo Park\, CA 94025
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Play Date at Allison's house
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140711T230000Z
+DTEND:20140712T010000Z
+DTSTAMP:20140930T072729Z
+UID:edjjatag7h9sutnnjp4j8dif9g@google.com
+CREATED:20140704T233332Z
+DESCRIPTION:
+LAST-MODIFIED:20140711T062436Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peers Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140710T230000Z
+DTEND:20140711T000000Z
+DTSTAMP:20140930T072729Z
+UID:2ABDDDD4-8C87-45F6-A7B7-ED60D2568F7A
+CREATED:20140702T211434Z
+DESCRIPTION:Julia: sorry we have a last min. app so can't make it after all
+  \nLaura & Teddy\nMelissa & Rosie (though we may be late)
+LAST-MODIFIED:20140710T222528Z
+LOCATION:Atherton Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Musical Storytime 
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140711T013000Z
+DTEND:20140711T030000Z
+DTSTAMP:20140930T072729Z
+ORGANIZER;CN=CA moms:mailto:iqn1kd0bcii37jd489mcq2cbe4@group.calendar.googl
+ e.com
+UID:4e8df41ccd5llsbdj2h0qkt410@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ ita Damon;X-NUM-GUESTS=0:mailto:anita.damon@gmail.com
+CREATED:20140625T230805Z
+DESCRIPTION:Thursday\, July 10\, 6:30-8:00pm Steel Horse- The Music of Bon 
+ Jovi\nSteel Horse will transport you into the Bon Jovi experience. The musi
+ c is spot on and the vocals \nare tight with solid harmonies and thunderous
+  drums keeping the beat. A Steel Horse show \nstarts out strong and gets fa
+ ns of Bon Jovi and all other forms of rock music on their \nfeet right from
+  the get go.
+LAST-MODIFIED:20140710T200847Z
+LOCATION:Memorial Park Amphitheater\, Cupertino
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FYI Summer Concert in the park - Music of Bon Jovi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:AB19DB4C-C8E1-44B4-948F-5506E8F3E7D5
+UID:AB19DB4C-C8E1-44B4-948F-5506E8F3E7D5
+ACKNOWLEDGED:20140710T200850Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140710T171500Z
+DTEND:20140710T181500Z
+DTSTAMP:20140930T072729Z
+UID:8A0F4FEE-3FB5-4AC4-9C94-E21A9C559D0C
+CREATED:20140708T001933Z
+DESCRIPTION:Cheryl and Camden
+LAST-MODIFIED:20140710T034052Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Heritage Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140709T230000Z
+DTEND:20140710T010000Z
+DTSTAMP:20140930T072729Z
+UID:i7j0aa45qur63fpqn3t499c7vo@google.com
+CREATED:20140704T233326Z
+DESCRIPTION:Cheryl and Camden
+LAST-MODIFIED:20140709T220006Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Burgess Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140709T173000Z
+DTEND:20140709T180000Z
+DTSTAMP:20140930T072729Z
+UID:t7k3kfu3bt2i05hbj3fjvulsro@google.com
+CREATED:20140519T214443Z
+DESCRIPTION:Abby & Asmara
+LAST-MODIFIED:20140709T154117Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Wildlife Associates Menlo Park Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140708T230000Z
+DTEND:20140709T010000Z
+DTSTAMP:20140930T072729Z
+UID:4r80q116373p7emrgb2r0hf2k0@google.com
+CREATED:20140704T233310Z
+DESCRIPTION:Cheryl and Camden - we'll be late. Still napping at 3:50\nAnge 
+ Martin \nKatie\, Leah\, & Sarah\nLaura & Teddy\nKristina & Harper
+LAST-MODIFIED:20140708T231605Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hoover Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140707T230000Z
+DTEND:20140708T010000Z
+DTSTAMP:20140930T072729Z
+UID:khhkvnnlmkgegecmcf7o39cg7g@google.com
+CREATED:20140704T233419Z
+DESCRIPTION:Cheryl and Camden - No RSVPs.  Email me if you are interested i
+ n a park outing this afternoon :)
+LAST-MODIFIED:20140707T224049Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140719T013000Z
+DTEND:20140719T023000Z
+DTSTAMP:20140930T072729Z
+UID:q57q6ebqvbsg5lfhrqgcdr2j5c@google.com
+CREATED:20140703T032610Z
+DESCRIPTION:http://www.menlopark.org/Calendar.aspx?EID=248
+LAST-MODIFIED:20140705T230629Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI puppet show
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140711T000000Z
+DTEND:20140711T010000Z
+DTSTAMP:20140930T072729Z
+UID:n17834f9a1u910cg4ngp4hsq84@google.com
+CREATED:20140705T222108Z
+DESCRIPTION:FYI The Portola Valley Library will be hosting an Imagination P
+ layground Party on the Thursday evenings before the Town Concert Series thi
+ s summer. These oversized building blocks are tons of fun and there’s no li
+ mit to the possibilities. Come see what amazing structures you can create.
+LAST-MODIFIED:20140705T222108Z
+LOCATION:Portola Valley Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Imagination Playground
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140711T180000Z
+DTEND:20140711T183000Z
+DTSTAMP:20140930T072729Z
+UID:nhrpuna616ok5thgemaknil810@google.com
+CREATED:20140705T210543Z
+DESCRIPTION:Didgeridoo Down Under\n\nEvent Type: Performance\nDate: \nFrida
+ y\, 07/11/14 at 11:00 am \nLibrary: Atherton\nAges: All Ages\nDescription: 
+ Didgeridoo Down Under uses the Australian instrument to pull together lesso
+ ns about geography\, nature\, culture\, diversity and ecology. The didgerid
+ oo is a traditional instrument which has been played by Australia’s Aborigi
+ ne population for at least 1500 years. It's a very high-energy show that co
+ mbines music\, culture\, comedy\, storytelling\, 
+LAST-MODIFIED:20140705T210544Z
+LOCATION:Atherton Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Didgeridoo Down Under
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140710T013000Z
+DTEND:20140710T030000Z
+DTSTAMP:20140930T072729Z
+UID:b1agj87bnfjkhl324qaucrml30@google.com
+CREATED:20140704T233238Z
+DESCRIPTION:http://sf.funcheap.com/summer-concert-series-menlo-park-5/
+LAST-MODIFIED:20140704T233244Z
+LOCATION:Menlo Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Concert in Menlo Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140711T010000Z
+DTEND:20140711T023000Z
+DTSTAMP:20140930T072729Z
+UID:qu392ko8i4suvrk52mbdhc3eog@google.com
+CREATED:20140704T233149Z
+DESCRIPTION:http://sf.funcheap.com/event-series/sfjazz-summerfest/
+LAST-MODIFIED:20140704T233149Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Stanford Shopping Center Concerts
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140704T190000Z
+DTEND:20140705T000000Z
+DTSTAMP:20140930T072729Z
+UID:cljgpejd6h68462n61kvd0kb88@google.com
+CREATED:20140630T192120Z
+DESCRIPTION:
+LAST-MODIFIED:20140704T184625Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Chili Cookoff Palo Alto Mitchell Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140704T170000Z
+DTEND:20140704T230000Z
+DTSTAMP:20140930T072729Z
+UID:9DE7F567-0FFE-4945-A6CB-5BB7FE416961
+CREATED:20140704T162049Z
+DESCRIPTION:
+LAST-MODIFIED:20140704T162113Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ardenwood Farm old fashioned Independence Day 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140703T170000Z
+DTEND:20140703T190000Z
+DTSTAMP:20140930T072729Z
+UID:4F584D2F-E9FC-433C-9BB9-DB4CDED70D5E
+CREATED:20140702T002254Z
+DESCRIPTION:Laura & Teddy-- if no one else rsvps\, we'll skip it.
+LAST-MODIFIED:20140703T192644Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess baby pool
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140702T233000Z
+DTEND:20140703T003000Z
+DTSTAMP:20140930T072729Z
+UID:B3699D2F-F0BD-4FC9-A9FD-DF67985CDA9D
+CREATED:20140628T052700Z
+DESCRIPTION:Cheryl - we will miss today
+LAST-MODIFIED:20140702T232313Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rinconada Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140702T171500Z
+DTEND:20140702T191500Z
+DTSTAMP:20140930T072729Z
+UID:11273DE9-A7F9-49F6-87BE-B1D9486E02B1
+CREATED:20140625T211127Z
+DESCRIPTION:http://www.menlopark.org/Calendar/Home/SingleEvent?eventID=263\
+ n
+LAST-MODIFIED:20140702T170007Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI painting at menlo park library
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140702T173000Z
+DTEND:20140702T183000Z
+DTSTAMP:20140930T072729Z
+UID:0560FC81-1EBF-4A8B-B05B-EE3C0AEA0424
+CREATED:20140628T053104Z
+DESCRIPTION:Anyone want to meet at Bumble for brunch?  \n\nCheryl\nNerene -
+  Avery and I will be there\nBrandi & Ella \nLaura-- we will try.
+LAST-MODIFIED:20140702T161245Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bumble Brunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140704T173000Z
+DTEND:20140704T210000Z
+DTSTAMP:20140930T072729Z
+UID:9A44AA97-2F6D-43A4-8097-637B7D39A7B2
+CREATED:20140702T070335Z
+DESCRIPTION:Cost: FREE*\n*Bring cash for food and activities\n\n2014 Glorio
+ us 4th of July:\nLive Music\nReptile Farm\nGames\nSing-a-long\nFood & Desse
+ rts\nBounce House\nFace Painting\nValet Bike Lot
+LAST-MODIFIED:20140702T070336Z
+LOCATION:Shoup Park | 400 University Ave.\, Los Altos\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Los Altos 4th of July festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140701T230000Z
+DTEND:20140702T010000Z
+DTSTAMP:20140930T072729Z
+UID:11C47E36-5E89-430E-92BA-70096E548BC6
+CREATED:20140701T231541Z
+DESCRIPTION:Ange Martin 
+LAST-MODIFIED:20140701T231556Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peers park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140630T230000Z
+DTEND:20140701T010000Z
+DTSTAMP:20140930T072729Z
+UID:qd0np1f3k86ou6tqn5baft7n4c@google.com
+CREATED:20140630T201444Z
+DESCRIPTION:Since it is going to be 94 today\, we're going to keep cool at 
+ the pool. The baby pool closes at 6pm.\n\n\nNerene - Avery and I will be th
+ ere about 4pm. Will email if we're running late.
+LAST-MODIFIED:20140701T161614Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess pool in Menlo Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140701T170000Z
+DTEND:20140701T200000Z
+DTSTAMP:20140930T072729Z
+UID:mjas3rrtch7978v4kbe9smqoqc@google.com
+CREATED:20140620T070555Z
+DESCRIPTION:Nerene - Avery and I will be going. If you are interested in jo
+ ining us\, my cell is 650-454-4774\, if you need to reach me on the day. Le
+ t's meet at the playground.\n\nCheryl - great idea!  We'd love to join.  Me
+ et at entrance?\nAnge & Martin coming too!\n\nErin - we'll join you! Alliso
+ n and I have never been. 913-526-5460
+LAST-MODIFIED:20140701T154054Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:San Francisco Zoo 10am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140701T170000Z
+DTEND:20140701T180000Z
+DTSTAMP:20140930T072729Z
+UID:8FD3A7FD-B6CA-409E-B181-BBD10EC4B47F
+CREATED:20140628T144007Z
+DESCRIPTION:Julia-w/Ada \nKatie&Lucy\nSign up through PAMP:\nThe one hour c
+ lass will be conducted by one of our staff and the kids will be able to pai
+ nt\, color\, cut and paste a few exciting projects that are age ability app
+ ropriate. The main ingredients in everything we do is encouraging creativit
+ y and having FUN!!!
+LAST-MODIFIED:20140701T060856Z
+LOCATION:C is for Craft- PA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crafting for Kids
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140704T173000Z
+DTEND:20140705T070000Z
+DTSTAMP:20140930T072729Z
+ORGANIZER;CN=CA moms:mailto:iqn1kd0bcii37jd489mcq2cbe4@group.calendar.googl
+ e.com
+UID:l456utheor9tlfjnvgsfoijm2g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Lo
+ ri Wendlandt;X-NUM-GUESTS=0:mailto:lori.wendlandt@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ ita Damon;X-NUM-GUESTS=0:mailto:anita.damon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Lori P
+ rince;X-NUM-GUESTS=0:mailto:loeprince@gmail.com
+CREATED:20140625T230539Z
+DESCRIPTION:Friday\, July 4\, 10:30am-12:00pm OTR\nOTR performs Rock n Roll
+  and R&B dance hits from the 70’s all the way to\ntoday’s hits- older songs
+  that are already classics and new ones that will be!
+LAST-MODIFIED:20140629T002119Z
+LOCATION:Memorial Park Amphitheater\, Cupertino
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Summer Concert in the Park - Rock n Roll and R&B dance hits
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140627T230000Z
+DTEND:20140628T010000Z
+DTSTAMP:20140930T072729Z
+UID:quh1lj573vdasi6sk8jsjvi7lc@google.com
+CREATED:20140622T061040Z
+DESCRIPTION:Cheryl\nAnge & Martin\nErin & Allison -we're a maybe :)\nBrandi
+  & Ella - as long as nap goes as planned!\n\nWe can still go if anyone is i
+ nterested.  Text me 4344099113 :)
+LAST-MODIFIED:20140628T001537Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hoover Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140627T170000Z
+DTEND:20140627T193000Z
+DTSTAMP:20140930T072729Z
+UID:4f5jf9aebiud6tgcl3qt2suot0@google.com
+CREATED:20140623T054610Z
+DESCRIPTION:Please let me know if you would like to help us celebrate :)\nA
+ nge (without Martin)
+LAST-MODIFIED:20140627T225019Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Camden Birthday Party :)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:6A403B74-407C-404E-8B7F-B8E9E59AFCFC
+UID:6A403B74-407C-404E-8B7F-B8E9E59AFCFC
+ACKNOWLEDGED:20140627T224944Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140626T170000Z
+DTEND:20140626T190000Z
+DTSTAMP:20140930T072729Z
+UID:BAA1C60D-1C03-4C78-A8D6-2A4F11165930
+CREATED:20140623T173003Z
+DESCRIPTION:Laura-- I don't think we will make it.
+LAST-MODIFIED:20140626T164542Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess Baby Pool
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140626T170000Z
+DTEND:20140626T190000Z
+DTSTAMP:20140930T072729Z
+UID:E3672C3C-4FC4-4963-990A-32B1823BEB96
+CREATED:20140619T045551Z
+DESCRIPTION:Cheryl - we may be late.  Prob 15-20 mins\nAnge & Martin\nChloe
+  & Nolan\nKatie & Sarah\nSara & Anneliese
+LAST-MODIFIED:20140626T163559Z
+LOCATION:80 Willow Road\, Menlo Park\, CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunset Gardens
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140626T000000Z
+DTEND:20140626T023000Z
+DTSTAMP:20140930T072729Z
+UID:1F6F1EBF-1227-4EED-BCDF-D1BF638D7C49
+CREATED:20140619T050216Z
+DESCRIPTION:Cheryl\nNerene and Avery\nAnge & Martin
+LAST-MODIFIED:20140626T041309Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bumble Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140625T100000
+DTEND;TZID=America/Los_Angeles:20140625T103000
+DTSTAMP:20140930T072729Z
+UID:6hdlte89objt0at8dtsju62rks@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20140625T100000
+CREATED:20140610T230152Z
+DESCRIPTION:
+LAST-MODIFIED:20140624T160113Z
+LOCATION:Children's Library\, 1276 Harriet Street\, Palo Alto\, CA\, United
+  States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler Story Time 10am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140623T231500Z
+DTEND:20140624T001500Z
+DTSTAMP:20140930T072729Z
+UID:825B07C4-77F6-4690-A89A-B9FEEEBD4512
+CREATED:20140622T212037Z
+DESCRIPTION:Cheryl\nLaura-- prob be there early \nAnge - hope to make it de
+ pending on nap time\n
+LAST-MODIFIED:20140623T224333Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140624T230000Z
+DTEND:20140625T010000Z
+DTSTAMP:20140930T072729Z
+UID:62A94633-9A92-409B-8B1E-B4F94E5D6277
+CREATED:20140619T045753Z
+DESCRIPTION:Cheryl\nNerene and Avery\nAnge & Martin
+LAST-MODIFIED:20140623T194113Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heritage Park and Prolific Oven
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140625T180000Z
+DTEND:20140625T190000Z
+DTSTAMP:20140930T072729Z
+UID:55CE2CB6-D899-46E5-8D90-7F11C3FEA309
+CREATED:20140610T222129Z
+DESCRIPTION:
+LAST-MODIFIED:20140622T060738Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:11:00 gymboree free class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140620T233000Z
+DTEND:20140621T010000Z
+DTSTAMP:20140930T072729Z
+UID:bnskd5r441kaeqnh5q31984gk8@google.com
+CREATED:20140620T173450Z
+DESCRIPTION:
+LAST-MODIFIED:20140620T231601Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ange - anyone up for a park date?
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140620T000000Z
+DTEND:20140620T010000Z
+DTSTAMP:20140930T072729Z
+UID:5CFB77F1-4D35-4794-9BB9-33004EFF7CF1
+CREATED:20140612T000144Z
+DESCRIPTION:
+LAST-MODIFIED:20140619T234509Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI 5:00 portola valley library event
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130225T110000
+DTEND;TZID=America/Los_Angeles:20130225T130000
+RRULE:FREQ=WEEKLY;UNTIL=20140616T180000Z;BYDAY=MO
+EXDATE;TZID=America/Los_Angeles:20140106T110000
+EXDATE;TZID=America/Los_Angeles:20140113T110000
+DTSTAMP:20140930T072729Z
+UID:E3815CC1-E376-4064-AE64-A7AC7EE3E299
+CREATED:20140619T045656Z
+DESCRIPTION:
+LAST-MODIFIED:20140619T045656Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PAMP Blanket Babies The Parenting Place
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140619T180000Z
+DTEND:20140619T190000Z
+DTSTAMP:20140930T072729Z
+UID:1jecg2ien8tvbcoru2n4kleq48@google.com
+CREATED:20140519T215850Z
+DESCRIPTION:Cheryl Bac - We are definitely going.  \n\nCheryl - what's the 
+ class on? Can you post a link? -- Abby   \n\nSorry\, just saw your comment.
+   Glad that you (or someone else) found the info.  Are you going?\n\nMore i
+ nformation:\nToddler Treks is a hands-on program for our youngest learners\
+ , children ages 18-36 months. Children and caregivers participate together 
+ during fun group activities and exhibit tours with a different animal theme
+  each month.\n\nThis month - All About You: Learn about your amazing body a
+ s we sing and read stories. Then discover different textures with a hand-sh
+ aped craft.\n\nReservations: Space is limited. Reservations and a fee are r
+ equired: $5 per member child\; $7 per non-member child\; free to attending 
+ adults with general admission. Museum general admission is free for childre
+ n 3 and under. To reserve a place today\, buy a ticket online or over the p
+ hone at 415-379-8000.\n\nPlease note that programs within each month are id
+ entical\, so participants should register for only one date per month. Pre-
+ registered guests meet at the pendulum for check-in at 10:50am.
+LAST-MODIFIED:20140619T044423Z
+LOCATION:CAS (must preregister online)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Class at CAS (must preregister online)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140619T020000Z
+DTEND:20140619T030000Z
+DTSTAMP:20140930T072729Z
+UID:0635A76A-4B64-444A-AB11-4DABF09F516F
+CREATED:20140618T175549Z
+DESCRIPTION:
+LAST-MODIFIED:20140618T175550Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Block Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140618T173000Z
+DTEND:20140618T183000Z
+DTSTAMP:20140930T072729Z
+UID:CDC98961-EDE9-4E7E-BDCC-30D92A31A6BA
+CREATED:20140618T175232Z
+DESCRIPTION:Cheryl
+LAST-MODIFIED:20140618T175233Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park library event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140618T170000Z
+DTEND:20140618T180000Z
+DTSTAMP:20140930T072729Z
+UID:6063B82F-6A98-4934-B810-E1C59E46BF52
+CREATED:20140618T162554Z
+DESCRIPTION:Laura & Teddy
+LAST-MODIFIED:20140618T162554Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140617T220000Z
+DTEND:20140617T223000Z
+DTSTAMP:20140930T072729Z
+UID:7qpjedmdje0d2kedhufd7btkos@google.com
+CREATED:20140610T205036Z
+DESCRIPTION:Come sing\, dance\, and play instruments at this interactive mu
+ sic program. All ages.
+LAST-MODIFIED:20140617T210015Z
+LOCATION:Children's Library\, 1276 Harriet St\, Palo Alto\, CA\, United Sta
+ tes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Music and Movement
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140704T184500Z
+DTEND:20140704T213000Z
+DTSTAMP:20140930T072729Z
+UID:jntfpjs7obkvbukrtr6dtadbh0@google.com
+CREATED:20140617T162103Z
+DESCRIPTION:Fourth of July Celebration\n\nCome join the Community Services 
+ Department on Friday\, July 4th\, 2014 for the City of Menlo Park's Annual 
+ 4th of July Parade & Celebration!!!!!\n\nThe PARADE starts at 11:45am at th
+ e Well Fargo parking lot on Santa Cruz & Chestnut. Come dressed in red\, wh
+ ite\, & blue and decorate your bike or wagon to participate in this fun-fil
+ led people parade! \n\nThe CELEBRATION is at Burgess Park starting directly
+  after the parade from 12:00pm to 2:30pm. Activities will include inflatabl
+ e jump houses\, giant slides\, games\, crafts\, face painting\, rock walls\
+ , and laser tag!!! Food and drink can be purchased from one of our many com
+ munity vendors. Come enjoy live music performed by the Mustache Harbor. Spe
+ cial thanks to our event sponsor: Facebook. \n\nA $7.00 wristband is requir
+ ed for some activities and can be purchased at the parade or the event. Don
+ 't want to wait in line on the 4th of July? Then buy your wristbands in adv
+ ance by going to the Arrillaga Family Gymnasium (600 Alma Street) Mon-Fri 8
+ am-5pm. \n\nFor additional information please contact the Community Service
+ s Department at (650) 330-2220 or visit www.menlopark.org/events
+LAST-MODIFIED:20140617T162103Z
+LOCATION:Menlo Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI - City of Menlo Park's Annual 4th of July Parade & Celebration
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140617T160000Z
+DTEND:20140617T180000Z
+DTSTAMP:20140930T072729Z
+UID:sg64qlg3a8i275qnc3rb479vuk@google.com
+CREATED:20140617T150646Z
+DESCRIPTION:Ange & Martin will be at Peers Park in the morning if anyone wa
+ nts to join
+LAST-MODIFIED:20140617T150650Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peers Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140616T230000Z
+DTEND:20140617T000000Z
+DTSTAMP:20140930T072729Z
+UID:4B81693A-D620-40DE-8A2C-EB633EF8E803
+CREATED:20140614T053947Z
+DESCRIPTION:Cheryl - nap permitting\nLaura-- we'll be there\nAnge - we'll c
+ ome right after nap!\nJulia- we'll try to be there if Ellie is not too fuss
+ y:)
+LAST-MODIFIED:20140616T224505Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Holbrook Palmer 4:00
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140615T234500Z
+DTEND:20140616T041500Z
+DTSTAMP:20140930T072729Z
+UID:52A7F703-EF39-4501-B2D5-B5A1E818AF10
+CREATED:20140613T055944Z
+DESCRIPTION:Cheryl - not sure what time we plan to go...\nNerene - we plan 
+ to go after Avery's nap. Might also grab our last liquid chocolate from Mon
+ ique's
+LAST-MODIFIED:20140616T182938Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Palo Alto music festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140621T160000
+DTEND;TZID=America/Los_Angeles:20140621T173000
+DTSTAMP:20140930T072729Z
+ORGANIZER;CN=CA moms:mailto:iqn1kd0bcii37jd489mcq2cbe4@group.calendar.googl
+ e.com
+UID:083limf6kf4kk56bg342ehgtlg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ ita Damon;X-NUM-GUESTS=0:mailto:anita.damon@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20140621T153000
+CREATED:20130528T175218Z
+DESCRIPTION: I am pleased to announce a new weekend playdate! Every other S
+ aturday\, we will be meeting at Shoup Park from *1:30PM* - *3:00PM*. Shoup 
+ is a lovely park with plenty of shady trees and separate little and big kid
+  play areas just across Foothill Expressway from downtown Los Altos. The fi
+ rst playdate will be this coming *Saturday\, May 25th*. This event is being
+  hosted by Meena and her son\, Aman. A reminder email will go out on Thursd
+ ays before each event\; please RSVP if you are planning on going.\n\nThanks
+ !\nNina
+LAST-MODIFIED:20140615T232128Z
+LOCATION:Shoup Park\, Los Altos
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Shoup Park Playdate
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130817T153000
+DTEND;TZID=America/Los_Angeles:20130817T170000
+RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20140621T223000Z;BYDAY=SA
+EXDATE;TZID=America/Los_Angeles:20140510T153000
+DTSTAMP:20140930T072729Z
+UID:083limf6kf4kk56bg342ehgtlg@google.com
+CREATED:20130528T175218Z
+DESCRIPTION: I am pleased to announce a new weekend playdate! Every other S
+ aturday\, we will be meeting at Shoup Park from *1:30PM* - *3:00PM*. Shoup 
+ is a lovely park with plenty of shady trees and separate little and big kid
+  play areas just across Foothill Expressway from downtown Los Altos. The fi
+ rst playdate will be this coming *Saturday\, May 25th*. This event is being
+  hosted by Meena and her son\, Aman. A reminder email will go out on Thursd
+ ays before each event\; please RSVP if you are planning on going.\n\nThanks
+ !\nNina
+LAST-MODIFIED:20140615T232127Z
+LOCATION:Shoup Park\, Los Altos
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Shoup Park Playdate
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140524T153000
+DTEND;TZID=America/Los_Angeles:20140524T170000
+DTSTAMP:20140930T072729Z
+UID:083limf6kf4kk56bg342ehgtlg@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20140524T153000
+CREATED:20130528T175218Z
+DESCRIPTION:I am pleased to announce a new weekend playdate! Every other Sa
+ turday\, we will be meeting at Shoup Park from *1:30PM* - *3:00PM*. Shoup i
+ s a lovely park with plenty of shady trees and separate little and big kid 
+ play areas just across Foothill Expressway from downtown Los Altos. The fir
+ st playdate will be this coming *Saturday\, May 25th*. This event is being 
+ hosted by Meena and her son\, Aman. A reminder email will go out on Thursda
+ ys before each event\; please RSVP if you are planning on going.\n\nThanks!
+ \nNina
+LAST-MODIFIED:20140615T232127Z
+LOCATION:Shoup Park\, Los Altos
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FYI Shoup Park Playdate
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140613T233000Z
+DTEND:20140614T003000Z
+DTSTAMP:20140930T072729Z
+UID:9f5ram5dtrtavsmvadkero9b58@google.com
+CREATED:20140613T190716Z
+DESCRIPTION:Rosie and I are planning to take a jog and stop at Heritage Par
+ k for a little playground fun. Join us if you can!
+LAST-MODIFIED:20140613T190716Z
+LOCATION:Heritage Park\, Homer Avenue\, Palo Alto\, CA\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heritage Park Playtime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140613T171500Z
+DTEND:20140613T181500Z
+DTSTAMP:20140930T072729Z
+UID:09AFB6BD-21C3-4736-9699-2524817A9583
+CREATED:20140612T200939Z
+DESCRIPTION:Father's Day card making at Cheeky Monkey\, 640 Santa Cruz Ave 
+ Menlo Park. There will be a craft table set up to make cards\, decorate gif
+ t tins\, and create “Daddy Coupons” he will love to redeem!\n\nWe plan to g
+ o at 10:40 and then grab some sweets afterwards\n\nCheryl\nNerene - we'll b
+ e there by 1040am.\nJulia-Hoping to take Ada\nLaura-- hoping to take Theodo
+ re
+LAST-MODIFIED:20140613T164639Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cheeky Monkey
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:8A94BE38-F765-4094-B244-68C116CDBAF7
+UID:8A94BE38-F765-4094-B244-68C116CDBAF7
+ACKNOWLEDGED:20140613T164637Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130225T110000
+DTEND;TZID=America/Los_Angeles:20130225T130000
+RRULE:FREQ=WEEKLY;UNTIL=20140609T180000Z;BYDAY=MO
+EXDATE;TZID=America/Los_Angeles:20140519T110000
+DTSTAMP:20140930T072729Z
+UID:4ejsm26se0anklqbf0u9mtjir4@google.com
+CREATED:20140613T064841Z
+DESCRIPTION:
+LAST-MODIFIED:20140613T064841Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PAMP Blanket Babies The Parenting Place
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140612T180000Z
+DTEND:20140612T190000Z
+DTSTAMP:20140930T072729Z
+UID:4CD6B9E2-F52E-4B5E-BDDA-3FDBCB27F115
+CREATED:20140612T042958Z
+DESCRIPTION:Julia- I am planning on taking Ada\n(Palo Alto Animal Services\
+ , 3281 E Bayshore Rd\, Palo Alto\, CA 94303 (In the grassy area in front of
+  Animal Services))\n
+LAST-MODIFIED:20140612T174504Z
+LOCATION:Palo Alto Animal Services 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pop up story time
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140612T170000Z
+DTEND:20140612T190000Z
+DTSTAMP:20140930T072729Z
+UID:F493704D-00C7-4411-BA4D-69F55811ACE9
+CREATED:20140610T162112Z
+DESCRIPTION:Laura & Teddy-- We will try to be there at 10.\nMelissa & Rosie
+  - we'll plan on being there\, too. 
+LAST-MODIFIED:20140611T213353Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess Baby Pool
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140611T170000Z
+DTEND:20140611T180000Z
+DTSTAMP:20140930T072729Z
+UID:1900ECC8-90E9-417C-A57F-B8EDF2A461D9
+CREATED:20140608T041018Z
+DESCRIPTION:Cheryl - we plan to go.  \nNerene - we'll be there closer to 11
+ am\n\nWe can also be closer to 11 since no other RSVPs
+LAST-MODIFIED:20140611T033145Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heritage Park and Moniques
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140618T100000
+DTEND;TZID=America/Los_Angeles:20140618T103000
+RRULE:FREQ=WEEKLY;UNTIL=20140625T170000Z;WKST=SU;BYDAY=WE
+DTSTAMP:20140930T072729Z
+UID:6hdlte89objt0at8dtsju62rks@google.com
+CREATED:20140610T230152Z
+DESCRIPTION:
+LAST-MODIFIED:20140610T230153Z
+LOCATION:Children's Library\, 1276 Harriet Street\, Palo Alto\, CA\, United
+  States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler Story Time 10am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140611T100000
+DTEND;TZID=America/Los_Angeles:20140611T103000
+RRULE:FREQ=WEEKLY;UNTIL=20140618T165959Z;WKST=SU;BYDAY=WE
+DTSTAMP:20140930T072729Z
+UID:5ed65je3l36d449te939so4ve4@google.com
+CREATED:20140610T204405Z
+DESCRIPTION:Nerene - Avery and I will be going
+LAST-MODIFIED:20140610T230151Z
+LOCATION:Children's Library\, 1276 Harriet Street\, Palo Alto\, CA\, United
+  States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler Story Time 10am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140612T170000Z
+DTEND:20140612T190000Z
+DTSTAMP:20140930T072729Z
+UID:5l3q7se399j513k1sd6peulps8@google.com
+CREATED:20140610T042410Z
+DESCRIPTION:Martin and I can host a playdate at our place in the morning\, 
+ feel free to bring swimming stuff in case it's hot enough to hit the pool. 
+ There is a visitor lot to the right when you first enter the Greenhouse com
+ plex\, try to park in a spot marked Visitor\, otherwise the other spots in 
+ that lot marked resident should be all right for the morning.\n\nWe'd love 
+ to join you\, thanks for hosting! Erin & Allison
+LAST-MODIFIED:20140610T210437Z
+LOCATION:777 San Antonio Rd #25 Palo Alto 94303
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ange host playdate
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140611T190000Z
+DTEND:20140611T220000Z
+DTSTAMP:20140930T072729Z
+UID:aech8hinv9i23b2gka1nm7mflo@google.com
+CREATED:20140606T183729Z
+DESCRIPTION:https://sanmateocountyfair.com June 7-15\n\nWednesday\, June 11
+  – Free Fair Admission (12pm-3pm)\n$10 for parking \n\nChloe & Nolan\, 650-
+ 200-6438
+LAST-MODIFIED:20140610T162542Z
+LOCATION:San Mateo Event Center 1346 Saratoga Dr\, San Mateo\, CA 94403
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:San Mateo County Fair-Free Fair Admission
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140608T230000Z
+DTEND:20140609T000000Z
+DTSTAMP:20140930T072729Z
+UID:j0pe3b4gi901k26jcnq2kbdkng@google.com
+CREATED:20140608T051901Z
+DESCRIPTION:Cheryl - you need to register ahead of time.  We are going to c
+ heck it out
+LAST-MODIFIED:20140609T013458Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blossom Birth babysitting class
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:22740F38-F0E8-4246-9294-03A2CA3DCCE0
+UID:22740F38-F0E8-4246-9294-03A2CA3DCCE0
+ACKNOWLEDGED:20140609T013402Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140608T220000Z
+DTEND:20140609T000000Z
+DTSTAMP:20140930T072729Z
+UID:hr0ml0t8kjp6ukgejfnrv517h8@google.com
+CREATED:20140604T032753Z
+DESCRIPTION:Sign up at http://www.alareg.com/_OpenHouse\n\nComplimentary Re
+ freshments and Live Bluegrass Music by the Steep Ravine Band\n \nBring your
+  family to our Open House for an afternoon of fun: \nBring your swimsuits a
+ nd enjoy our pristine pools\nGrab a racquet and hit a few balls\nTake a tou
+ r of our fitness center\n
+LAST-MODIFIED:20140608T214505Z
+LOCATION:3249 Alpine Road Portola Valley\, CA 94028
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI- Ladera Oaks Annual Open House
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140611T003000Z
+DTEND:20140611T020000Z
+DTSTAMP:20140930T072729Z
+UID:B1BDAFA8-6176-40C0-8970-A8A5960CDDA7
+CREATED:20140608T051602Z
+DESCRIPTION:Cheryl - I am going to check out the prenatal yoga class.  deta
+ ils on Blossom Birth's website.
+LAST-MODIFIED:20140608T051703Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blossom Birth prenatal yoga class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140606T230000Z
+DTEND:20140607T010000Z
+DTSTAMP:20140930T072729Z
+UID:s9pfs2t2ut1ij53vftl5kg1c0c@google.com
+CREATED:20140601T005347Z
+DESCRIPTION:Cheryl - We plan to come...nap permitting\nNerene - we'll be th
+ ere post Avery's nap\nBrandi- will head there after nap. :)\nJade - will jo
+ in Moniques after Leroy's nap. 
+LAST-MODIFIED:20140606T230246Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Moniques and Heritage
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140522T120000
+DTEND;TZID=America/Los_Angeles:20140522T150000
+DTSTAMP:20140930T072729Z
+UID:6cvh41vbog2ccmka4k6ecg6v44@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20140522T120000
+CREATED:20130619T180748Z
+DESCRIPTION:Hosted by Nina Sutaria of PAMP subgroup - North Los Altos\nPort
+ land Ave & Miramonte Ave\, Los Altos\, CA 94024
+LAST-MODIFIED:20140605T184512Z
+LOCATION:Heritage Oaks Park
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FYI Playdate Heritage Oaks Park
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130620T120000
+DTEND;TZID=America/Los_Angeles:20130620T150000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+EXDATE;TZID=America/Los_Angeles:20130919T120000
+EXDATE;TZID=America/Los_Angeles:20131121T120000
+EXDATE;TZID=America/Los_Angeles:20140116T120000
+EXDATE;TZID=America/Los_Angeles:20140123T120000
+EXDATE;TZID=America/Los_Angeles:20140320T120000
+EXDATE;TZID=America/Los_Angeles:20140508T120000
+EXDATE;TZID=America/Los_Angeles:20140515T120000
+DTSTAMP:20140930T072729Z
+UID:6cvh41vbog2ccmka4k6ecg6v44@google.com
+CREATED:20130619T180748Z
+DESCRIPTION:Hosted by Nina Sutaria of PAMP subgroup - North Los Altos\nPort
+ land Ave & Miramonte Ave\, Los Altos\, CA 94024
+LAST-MODIFIED:20140605T184512Z
+LOCATION:Heritage Oaks Park
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Playdate Heritage Oaks Park
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140604T223000Z
+DTEND:20140604T230000Z
+DTSTAMP:20140930T072729Z
+UID:rd97rl34q791pudlf5bmcsqilg@google.com
+CREATED:20140519T214805Z
+DESCRIPTION:It says Preschool to grade 5\, but also that it should entertai
+ n all ages...\n\nLeif and Caitlin will try to be there.
+LAST-MODIFIED:20140604T185204Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Busy Bee Dogs Childrens Library Cubberley Community Center
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140605T173000Z
+DTEND:20140605T203000Z
+DTSTAMP:20140930T072729Z
+UID:nd1pg3c70nheh0b2tocr48i5fc@google.com
+CREATED:20140601T005246Z
+DESCRIPTION:We'd love to host a play date at our apartment.  Depending on t
+ he number of people\, we can use the pool\, walk to frozen yogurt\, etc.  P
+ lease RSVP by Wed noon so I know how many people to expect.\n\nNerene - we 
+ plan to come\, but won't be there until 11am\nAnge & Martin are coming\, th
+ anks for hosting!
+LAST-MODIFIED:20140604T171928Z
+LOCATION:Camden's Place
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Morning Playdate at Camden's Place
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140604T183000Z
+DTEND:20140604T203000Z
+DTSTAMP:20140930T072729Z
+UID:46C95CAA-C9FF-4C38-A236-0F63103E997F
+CREATED:20140602T225816Z
+DESCRIPTION:I have a dr appointment at 10\, but we hope to hang out in down
+ town menlo park around 11:30...cheeky monkey\, library\, duck pond\, burges
+ s\, etc.  would be fun to grab lunch too :)\n\nMartin and Ange will be join
+ ing\n\nTaruna and sahana will try to join as well! Where are we meeting?
+LAST-MODIFIED:20140604T150226Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Lunch and Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140605T170000Z
+DTEND:20140605T190000Z
+DTSTAMP:20140930T072729Z
+UID:nbvgd0fqo4jvnq6g5k92ursftk@google.com
+CREATED:20140602T222119Z
+DESCRIPTION:Melissa & Rosie\nLaura-- we will miss this week because I have 
+ an appt. See you next week!
+LAST-MODIFIED:20140602T223158Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess Baby Pool
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140602T183000Z
+DTEND:20140602T210000Z
+DTSTAMP:20140930T072729Z
+UID:n71v4hmm1me97bsb8nqok0tor4@google.com
+CREATED:20140601T004457Z
+DESCRIPTION:Cheryl - We plan to go and have lunch\nChloe & Nolan
+LAST-MODIFIED:20140602T181504Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Stanford Shopping Center and Lunch
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140530T230000Z
+DTEND:20140531T010000Z
+DTSTAMP:20140930T072729Z
+UID:5B42CCCF-4697-4D02-8EC9-E7C178727784
+CREATED:20140526T025308Z
+DESCRIPTION:Cheryl - we'll probably be 4:45\nBrandi- we will see you there!
+ \nAnge - we'll be there on the earlier side and need to leave around 5:15
+LAST-MODIFIED:20140530T200435Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Heritage park and moniques 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140607T180000Z
+DTEND:20140607T210000Z
+DTSTAMP:20140930T072729Z
+UID:9h9k0pn3sqcfehru74qk2c8r64@google.com
+CREATED:20140530T040555Z
+DESCRIPTION:Update on our Splash Into Summer Program on Sat\, June 7 from 1
+ 1 am-2 pm:\n\nFree Performances by:\n11 am- Piccolo Puppet Players (puppet 
+ show)\n12 noon- Coventry and Kaluza (comedy/clown act)\n1 pm -- Surfing Mag
+ ician (magic show with a surfboard)\n\nFood Truck Party Including:\nSoulnes
+ e (Soul/Asian)\nMoBowl (Rice plates)\nCluck it Up (wings and fries)\nTwiste
+ d Chill (ice cream)\n\nFREE Child IDs by Mass Mutual Financial Advisors\nTa
+ bles from PAMP Parents Club\nPool Party and Games*\n\n*Pool entrance fee is
+  $5 Adult\, $4 Youth\, and $2 Infant otherwise everything else outside the 
+ pool is free (with the exception of the food trucks).
+LAST-MODIFIED:20140530T040705Z
+LOCATION:Rinconada Park/Pool\, 777 Embarcadero Road in Palo Alto. 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Splash into Summer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140522T110000
+DTEND;TZID=America/Los_Angeles:20140522T113000
+DTSTAMP:20140930T072729Z
+UID:39BAFE2A-1984-4070-B2BC-B73AF202D45A
+RECURRENCE-ID;TZID=America/Los_Angeles:20140522T110000
+CREATED:20140519T203829Z
+DESCRIPTION:Sign up through PAMP $10\nKristina & Harper
+LAST-MODIFIED:20140529T174506Z
+LOCATION:501 laurel street\, Menlo park\, ca
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Toddler Swim (PAMP) Burgess Pool
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140522T110000
+DTEND;TZID=America/Los_Angeles:20140522T113000
+RRULE:FREQ=WEEKLY;UNTIL=20140602T065959Z
+DTSTAMP:20140930T072729Z
+UID:39BAFE2A-1984-4070-B2BC-B73AF202D45A
+CREATED:20140519T203829Z
+DESCRIPTION:Sign up through PAMP $10
+LAST-MODIFIED:20140529T174505Z
+LOCATION:501 laurel street\, Menlo park\, ca
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Toddler Swim (PAMP) Burgess Pool
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140529T170000Z
+DTEND:20140529T190000Z
+DTSTAMP:20140930T072729Z
+UID:28B2EA53-BF6A-4403-B824-EEE52088E649
+CREATED:20140526T004510Z
+DESCRIPTION:-Laura-- we'll be there.\n-Kristin- I'll be there too\n-Erin- w
+ e'll plan to be there at 11:00\n-Katie
+LAST-MODIFIED:20140529T164507Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess Baby Pool
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140529T170000Z
+DTEND:20140529T190000Z
+DTSTAMP:20140930T072729Z
+UID:C3BC204F-B2FA-46D7-B38A-B1A856BED4E2
+CREATED:20140526T025138Z
+DESCRIPTION:Cheryl - might be late\n\nMelissa - the gardens are closed this
+  week due to prep for Celebration Weekend. :(\n\nThanks Melissa!  I changed
+  the location to PAJMZ.  Other suggestions are welcome :)\n\nAnge and Marti
+ n will be at pajmz\n\nChloe & Nolan will try to make it\n\nCorinne + Sarah 
+ will be there (maybe a bit later...)\n
+LAST-MODIFIED:20140529T164506Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PAJMZ
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140528T233000Z
+DTEND:20140529T003000Z
+DTSTAMP:20140930T072729Z
+UID:qojfsgii3b4e3buhsmcnttmrmo@google.com
+CREATED:20140528T152430Z
+DESCRIPTION:Lori\, Nerene\nAnge Martin will come for park but leave by 6pm
+LAST-MODIFIED:20140528T231506Z
+LOCATION:Burgess Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Burgess Park (time approximate)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140528T230000Z
+DTEND:20140528T233000Z
+DTSTAMP:20140930T072729Z
+UID:98bfev3pddb95uv2rs727tej1k@google.com
+CREATED:20140526T025146Z
+DESCRIPTION:Cheryl Bac - Camden will most likely sleep through it...but we 
+ will try to go
+LAST-MODIFIED:20140528T062411Z
+LOCATION:Portola Valley Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Circus at Portola Valley Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140528T170000Z
+DTEND:20140528T190000Z
+DTSTAMP:20140930T072729Z
+UID:l1dg7vvv4avfk6r14nfil25qhg@google.com
+CREATED:20140528T042435Z
+DESCRIPTION:Corinne - anybody interested in going to Bol Park in PA? Just a
+  little walk down the bike path and we can visite roosters and some donkeys
+ ...\nAnswer me back here or txt me 610 931 63 61 by 9am latest. If I don't 
+ here from anybody by that time\, we might change our plans - I have still a
+  lot to do for our upcoming trip... :-)\n\nLaura-- we may join you. I'll te
+ xt you.
+LAST-MODIFIED:20140528T054102Z
+LOCATION:https://www.google.ch/maps/search/nob+park\,+palo+alto/@37.4102098
+ \,-122.1405213\,17z?hl=de
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bol Park + visiting roosters and donkeys
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140527T230000Z
+DTEND:20140528T003000Z
+DTSTAMP:20140930T072729Z
+UID:bnujadd2dnekridl6h5k1tgdg0@google.com
+CREATED:20140526T021233Z
+DESCRIPTION:An idea for anyone who is interested in having their kids craft
+  outside the house\, whether with side walk chalk\, paints etc then. There 
+ are a variety of surfaces to work with or play structures for them to enjoy
+ .\n\nCheryl - we plan to come \nLaura-- us\, too.\nNerene - Avery and I wil
+ l attend and we'll bring sidewalk chalk
+LAST-MODIFIED:20140527T150953Z
+LOCATION:Jack W. Lyle Park Soccer Field\, Fremont Street\, Menlo Park\, CA\
+ , United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Park and craft date
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20131030T100000
+DTEND;TZID=America/Los_Angeles:20131030T110000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20140528T065959Z
+DTSTAMP:20140930T072729Z
+UID:8vd2vp0t79vh5nlc7s8btle7dc@google.com
+CREATED:20140523T221642Z
+DESCRIPTION:Jade - Leroy and I will be there!
+LAST-MODIFIED:20140527T033807Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Woodside Storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140528T020000Z
+DTEND:20140528T023000Z
+DTSTAMP:20140930T072729Z
+UID:DA6FF1E7-A35F-4DAD-91EF-B9339C53A462
+CREATED:20140526T025141Z
+DESCRIPTION:
+LAST-MODIFIED:20140526T034248Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Menlo Park Library Storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140527T170000Z
+DTEND:20140527T193000Z
+DTSTAMP:20140930T072729Z
+UID:q5urjun0omcm0f4vnei0bheqd8@google.com
+CREATED:20140524T204608Z
+DESCRIPTION:Corinne - Sarah and I\, as well as Erin and Allison will meet a
+ t 10am at the carousel. My cell is 610 931 6361 in case you like to join an
+ d are running late...
+LAST-MODIFIED:20140524T204608Z
+LOCATION:San José\, Kalifornien\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy Hollow
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140523T230000Z
+DTEND:20140524T010000Z
+DTSTAMP:20140930T072729Z
+UID:0BF32918-301C-454D-A92F-ACCD1DB53FFF
+CREATED:20140522T053328Z
+DESCRIPTION:Cheryl Bac - We'll probably be there closer to 5-ish \nNerene -
+  we'll be there\nLaura-- we'll try to make it\nAbby (and Asmara) - we'll co
+ me around 445-5 too.  
+LAST-MODIFIED:20140523T223726Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Moniques and Heritage Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140521T223000Z
+DTEND:20140521T230000Z
+DTSTAMP:20140930T072729Z
+UID:ftertudig0v1r8ue7cc7ikd6p0@google.com
+CREATED:20140517T215213Z
+DESCRIPTION:Cheryl Bac (we'll try to make it...but usually Camden is nappin
+ g at 3:30)\nNerene - we'll try to make it if Avery is up.\nCorinne -  same 
+ here. Hope we can make it!\nNatalie M - Same with us too!\nKristina- If H w
+ akes in time\nLisa - hoping to make it too \nJanice - will try to make it a
+ nd hope to meet you guys. \nJulia- Mike will be there with Ada.\nAbby and A
+ smara\n
+LAST-MODIFIED:20140522T165757Z
+LOCATION:Room H1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Bubble Lady Cubberley Community Center
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140522T170000Z
+DTEND:20140522T190000Z
+DTSTAMP:20140930T072729Z
+UID:678385E9-3F52-4521-B79A-0CF8F7822AF5
+CREATED:20140522T051858Z
+DESCRIPTION:Open from 10am-12pm during weekday mornings.\n\n--will be there
+  at 10. Laura & Teddy\nKristina & H @10 if warm enough!
+LAST-MODIFIED:20140522T143811Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Burgess Baby Pool
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140528T223000Z
+DTEND:20140528T233000Z
+DTSTAMP:20140930T072729Z
+UID:hdfqkfcjajov77ipecni642mcs@google.com
+CREATED:20140521T211919Z
+DESCRIPTION:What do you get when you combine an afternoon of crafts with ca
+ rtoons? Craftertoons! \n\nJoin us at Children's Library for a casual\, drop
+ -in program featuring Pixar Shorts on the big screen\, simple coloring and 
+ activity pages\, and healthy snacks. \n\nEveryone is welcome\, and registra
+ tion is not required. We hope to see you there.
+LAST-MODIFIED:20140521T211919Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PA Children's Library Craftertoons
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140521T170000Z
+DTEND:20140521T183000Z
+DTSTAMP:20140930T072729Z
+UID:261CD892-A55E-4793-84D3-772EE5DD3468
+CREATED:20140521T163209Z
+DESCRIPTION:10-10:30 0-18 mos\, 11-11:30 toddler songs and story time. \nKr
+ istina & Harper 
+LAST-MODIFIED:20140521T163209Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Woodside story time 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140522T170000Z
+DTEND:20140522T210000Z
+DTSTAMP:20140930T072729Z
+UID:E88B8FC7-9B8D-404A-ACDF-27DC2BA2EB3C
+CREATED:20140521T160807Z
+DESCRIPTION:Lisa (Caden and Sasha): I'll be there w my little ones and a fe
+ w friends from preschool.  Meet at the carousel at 10a or text 415-699-2691
+  if you are running late.  Hope to see you! 
+LAST-MODIFIED:20140521T160807Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy hollow zoo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140520T220000Z
+DTEND:20140520T223000Z
+DTSTAMP:20140930T072729Z
+UID:f5q7h2tndl71us81vt4sig0uj8@google.com
+CREATED:20140514T221411Z
+DESCRIPTION:Nerene - if Avery is awake\, we'll go.
+LAST-MODIFIED:20140520T183718Z
+LOCATION:http://califa.evanced.info/paloalto/lib/eventsignup.asp?ID=6979&rt
+ s=&disptype=info&ret=eventcalendar.asp&pointer=&returnToSearch=&num=0&ad=&d
+ t=mo&mo=6/1/2014&df=calendar&EventType=ALL&Lib=ALL&AgeGroup=ALL&LangType=0&
+ WindowMode=&noheader=&lad=&pub=1&nopub=&page=&pgdisp=
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3p Music Childrens Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140521T110000
+DTEND;TZID=America/Los_Angeles:20140521T113000
+RRULE:FREQ=WEEKLY;UNTIL=20140626T065959Z
+EXDATE;TZID=America/Los_Angeles:20140521T110000
+DTSTAMP:20140930T072729Z
+UID:42EB975D-5EB4-48A1-A58F-8AC18573BC1C
+CREATED:20140519T210541Z
+DESCRIPTION:Storytime with songs and music. No sessions in July. 
+LAST-MODIFIED:20140520T040012Z
+LOCATION:Woodside Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler Story time
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140521T100000
+DTEND;TZID=America/Los_Angeles:20140521T103000
+RRULE:FREQ=WEEKLY;UNTIL=20140626T065959Z
+EXDATE;TZID=America/Los_Angeles:20140521T100000
+DTSTAMP:20140930T072729Z
+UID:909D2521-10DD-4B87-8212-38022809CB03
+CREATED:20140519T210111Z
+DESCRIPTION:
+LAST-MODIFIED:20140520T040003Z
+LOCATION:Woodside Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Baby storytime 0-18 mos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140611T230000Z
+DTEND:20140611T233000Z
+DTSTAMP:20140930T072729Z
+UID:roe8rml6gkntasn4u3l8plqbjs@google.com
+CREATED:20140519T215725Z
+DESCRIPTION:Cheryl Bac - We plan to go if Camden is awake
+LAST-MODIFIED:20140519T215725Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Portola Valley Library Theater Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140410T110000
+DTEND;TZID=America/Los_Angeles:20140410T113000
+RRULE:FREQ=WEEKLY;UNTIL=20140508T180000Z
+DTSTAMP:20140930T072729Z
+UID:E784AD02-0FE8-485B-9B17-C52ED86F9CEE
+CREATED:20140519T203831Z
+DESCRIPTION:
+LAST-MODIFIED:20140519T210702Z
+LOCATION:501 laurel street\, Menlo park\, ca
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Swim PAMP
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140515T180000Z
+DTEND:20140515T183000Z
+DTSTAMP:20140930T072729Z
+UID:E5AB4CF3-0E0E-4A94-A8E3-956C0919BC65
+CREATED:20140519T210701Z
+DESCRIPTION:
+LAST-MODIFIED:20140519T210701Z
+LOCATION:501 laurel street\, Menlo park\, ca
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Swim PAMP
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140518T170000Z
+DTEND:20140519T000000Z
+DTSTAMP:20140930T072729Z
+UID:DBCC2461-F101-4103-A0AB-98072FD3B563
+CREATED:20140518T183110Z
+DESCRIPTION:Lucas and I are going from 3:15-5. (Jenna)\n\n
+LAST-MODIFIED:20140518T183110Z
+LOCATION:Mountain View Downtown
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Italian Festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140518T180000Z
+DTEND:20140518T220000Z
+DTSTAMP:20140930T072729Z
+UID:lvcngnqs4v609gog65b2stpe3o@google.com
+CREATED:20140517T215705Z
+DESCRIPTION:May 18 11-3pm Bing Children's Fair (Free admission\, everyone w
+ elcome)\nGames\, Entertainment\, Food and Activities for kids age 2-8\nAt t
+ he Bing Nursery School at Stanford\n\nKeely-Berkeley\, brynn and I will pro
+ bably check it out around 11
+LAST-MODIFIED:20140518T155153Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI BING Nursery Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140518T220000Z
+DTEND:20140519T000000Z
+DTSTAMP:20140930T072729Z
+UID:4n1icd3iq43ohssiv99nr36298@google.com
+CREATED:20140518T061256Z
+DESCRIPTION:We were there today for a Birthday party - and I LOVED the play
+ yard. They start Preschool at the age of 3\, but maybe somebody is interest
+ ed in touring it already... It's a co-op. Not sure if we will make though -
+  nap issues!
+LAST-MODIFIED:20140518T061256Z
+LOCATION:2328 Louis Road\, Palo Alto\, Kalifornien\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI - Parents Nursery School - Open House
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140524T180000Z
+DTEND:20140524T200000Z
+DTSTAMP:20140930T072729Z
+UID:8e3aqpo51cqlif43jchqonjcnk@google.com
+CREATED:20140517T215827Z
+DESCRIPTION:May 24 11-1pm at Stanford Shopping Center\, Simon Kidgits Club 
+ Super Duper Lil Chefs\, Courtyard near American Girl\nSounds like a culinar
+ y event for little kids
+LAST-MODIFIED:20140517T215827Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI Stanford Kid Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140311T113000
+DTEND;TZID=America/Los_Angeles:20140311T120000
+DTSTAMP:20140930T072729Z
+UID:3E063989-1126-4D54-8506-B0F391103BB6
+RECURRENCE-ID;TZID=America/Los_Angeles:20140311T103000
+CREATED:20131219T201243Z
+DESCRIPTION:
+LAST-MODIFIED:20140509T051058Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Storytime downtown library redwood city
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140304T103000
+DTEND;TZID=America/Los_Angeles:20140304T110000
+DTSTAMP:20140930T072729Z
+UID:3E063989-1126-4D54-8506-B0F391103BB6
+RECURRENCE-ID;TZID=America/Los_Angeles:20140304T103000
+CREATED:20131219T201243Z
+DESCRIPTION:
+LAST-MODIFIED:20140509T051058Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Storytime downtown library redwood city
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140107T103000
+DTEND;TZID=America/Los_Angeles:20140107T110000
+RRULE:FREQ=WEEKLY;UNTIL=20140429T173000Z
+EXDATE;TZID=America/Los_Angeles:20140225T103000
+DTSTAMP:20140930T072729Z
+UID:3E063989-1126-4D54-8506-B0F391103BB6
+CREATED:20131219T201243Z
+DESCRIPTION:
+LAST-MODIFIED:20140509T051058Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Storytime downtown library redwood city
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140107T113000
+DTEND;TZID=America/Los_Angeles:20140107T120000
+RRULE:FREQ=WEEKLY;UNTIL=20140429T183000Z
+DTSTAMP:20140930T072729Z
+UID:BC410E42-EC66-4AE3-916E-8E29B69700EB
+CREATED:20131219T201254Z
+DESCRIPTION:
+LAST-MODIFIED:20140509T051047Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:11:30 downtown redwood city library storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140107T150000
+DTEND;TZID=America/Los_Angeles:20140107T153000
+RRULE:FREQ=WEEKLY;UNTIL=20140429T220000Z
+DTSTAMP:20140930T072729Z
+UID:2ED281AE-A74C-422B-93F6-40F257F60587
+CREATED:20131219T201351Z
+DESCRIPTION:
+LAST-MODIFIED:20140509T051034Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:3:00 daffy Dave's stories Schaberg library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140102T113000
+DTEND;TZID=America/Los_Angeles:20140102T120000
+RRULE:FREQ=WEEKLY;UNTIL=20140508T183000Z
+EXDATE;TZID=America/Los_Angeles:20140116T113000
+EXDATE;TZID=America/Los_Angeles:20140508T113000
+DTSTAMP:20140930T072729Z
+UID:6187C4E1-7CC3-498D-9620-812543AB8175
+CREATED:20131219T201234Z
+DESCRIPTION:
+LAST-MODIFIED:20140507T042038Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:11:30 toddler stories redwood shores library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140211T190000
+DTEND;TZID=America/Los_Angeles:20140211T193000
+DTSTAMP:20140930T072729Z
+UID:241DE983-A039-4D41-8472-9E0E386A47E0
+RECURRENCE-ID;TZID=America/Los_Angeles:20140211T190000
+CREATED:20131219T202843Z
+DESCRIPTION:portrait drawing meetup
+LAST-MODIFIED:20140507T041733Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:squat and gobble meetup filmore sf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140107T190000
+DTEND;TZID=America/Los_Angeles:20140107T193000
+RRULE:FREQ=WEEKLY;UNTIL=20140507T020000Z
+EXDATE;TZID=America/Los_Angeles:20140304T190000
+DTSTAMP:20140930T072729Z
+UID:241DE983-A039-4D41-8472-9E0E386A47E0
+CREATED:20131219T202843Z
+DESCRIPTION:
+LAST-MODIFIED:20140507T041733Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family storytime menlo park library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140503T170000Z
+DTEND:20140503T180000Z
+DTSTAMP:20140930T072729Z
+UID:F3249ADE-3F6B-44D4-9E42-036109D62729
+CREATED:20140501T170707Z
+DESCRIPTION:WHAM! Splat! KaPOW! Celebrate Free Comic Book Day at the Librar
+ y! We'll have FREE comics for children & teens to enjoy. Drop in during our
+  regular hours & pick up your free comic from a selection of comics. Don’t 
+ like the freebees? Check out a book from our graphic novel selection. This 
+ event is made possible by Coastside Comics\, while supplies last.\n\nBring 
+ family and friends to browse. Learn more about Free Comic Book Day.
+LAST-MODIFIED:20140501T170707Z
+LOCATION:Atherton library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Free comic book day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140426T170000Z
+DTEND:20140426T200000Z
+DTSTAMP:20140930T072729Z
+UID:5jbbmm33khketnclqfc9s07p74@google.com
+CREATED:20140425T035141Z
+DESCRIPTION:https://ccsc.stanford.edu/playfest/
+LAST-MODIFIED:20140425T035141Z
+LOCATION:685 Pampas Lane | Stanford CA 94305
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Playfest 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140415T220000Z
+DTEND:20140415T223000Z
+DTSTAMP:20140930T072729Z
+UID:9DF12C51-86C1-4C8A-AD20-FF4C762867B4
+CREATED:20140408T185327Z
+DESCRIPTION: Come sing\, dance\, and play instruments at an interactive mus
+ ic program.\n
+LAST-MODIFIED:20140408T185400Z
+LOCATION:PA children's library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Music&Movement
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140122T100000
+DTEND;TZID=America/Los_Angeles:20140122T113000
+EXDATE;TZID=America/Los_Angeles:20140122T100000
+EXDATE;TZID=America/Los_Angeles:20140219T100000
+RRULE:FREQ=WEEKLY;UNTIL=20140402T170000Z
+DTSTAMP:20140930T072729Z
+UID:792CCF76-17EF-40EF-8461-3A3D6986D757
+CREATED:20131219T202713Z
+DESCRIPTION:
+LAST-MODIFIED:20140403T133710Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Woodside library storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140329T170000Z
+DTEND:20140329T220000Z
+DTSTAMP:20140930T072729Z
+UID:D2F1AD66-0EE8-48EA-B8F8-2079866CE627
+CREATED:20140329T150045Z
+DESCRIPTION:http://www.filoli.org/spring-fling/
+LAST-MODIFIED:20140329T150046Z
+LOCATION:Filoli
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spring Fling
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140107T111500
+DTEND;TZID=America/Los_Angeles:20140107T114500
+RRULE:FREQ=WEEKLY;UNTIL=20140107T191500Z
+DTSTAMP:20140930T072729Z
+UID:F4E54878-8585-4360-B489-7E71234F5CE1
+CREATED:20131219T200808Z
+DESCRIPTION:
+LAST-MODIFIED:20140114T202857Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Baby bounce and rhyme time 11:15 Atherton library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20140114T113000
+DTEND;TZID=America/Los_Angeles:20140114T120000
+RRULE:FREQ=WEEKLY;UNTIL=20140128T235959Z
+DTSTAMP:20140930T072729Z
+UID:46973A0D-B111-440B-8796-D711355E51F4
+CREATED:20140114T202856Z
+DESCRIPTION:
+LAST-MODIFIED:20140114T202856Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Baby bounce and rhyme time 11:15 Atherton library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140208T023000Z
+DTEND:20140208T033000Z
+DTSTAMP:20140930T072729Z
+UID:C24D21FB-C09B-46AE-8202-5411186C8E34
+CREATED:20131219T211232Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T211232Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo park library puppet show
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140118T191500Z
+DTEND:20140118T194500Z
+DTSTAMP:20140930T072729Z
+UID:E433A274-EF11-4B4A-B66A-14031669621C
+CREATED:20131219T200819Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T203743Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Woodside library puppet show 11:15
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140121T230000Z
+DTEND:20140121T233000Z
+DTSTAMP:20140930T072729Z
+UID:33A4C7CC-D1E3-42E1-8870-4DA3C40127DD
+CREATED:20131219T203321Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T203321Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Children's library palo alto music
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140114T183000Z
+DTEND:20140114T190000Z
+DTSTAMP:20140930T072729Z
+UID:A4C47D00-BBE0-4D2B-B4D2-DE98C06434AE
+CREATED:20131219T202416Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T202416Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler storytime Atherton library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140107T183000Z
+DTEND:20140107T193000Z
+DTSTAMP:20140930T072729Z
+UID:4C76AB4D-F722-4059-8B94-0954A50FA296
+CREATED:20131219T202207Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T202207Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toddler dance party Atherton library 10:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140211T000000Z
+DTEND:20140211T003000Z
+DTSTAMP:20140930T072729Z
+UID:354BD4EB-A471-4012-983B-9F84662C1226
+CREATED:20131219T200835Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T200835Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Daffy Dave atherton library 4:00
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140114T000000Z
+DTEND:20140114T003000Z
+DTSTAMP:20140930T072729Z
+UID:49A063F3-2CCE-4A94-B722-D2FC84F763C6
+CREATED:20131219T200754Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T200754Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy Birds 4:00 atherton library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131221T190000Z
+DTEND:20131221T193000Z
+DTSTAMP:20140930T072729Z
+UID:FE3B996C-FFF4-4BC9-9515-629DC5CC3B9B
+CREATED:20131219T200731Z
+DESCRIPTION:
+LAST-MODIFIED:20131219T200731Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy Birds
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131211T200000Z
+DTEND:20131212T050000Z
+DTSTAMP:20140930T072729Z
+UID:76nb204oqkpukvk967fd59r1eo@google.com
+CREATED:20131211T045606Z
+DESCRIPTION:http://www.christmascreche.org/
+LAST-MODIFIED:20131211T045606Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Creche exhibit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131213T190000Z
+DTEND:20131213T233000Z
+DTSTAMP:20140930T072729Z
+UID:klqrpta7fqn6ksipcigmqq55ag@google.com
+CREATED:20131130T221956Z
+DESCRIPTION:
+LAST-MODIFIED:20131202T221308Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Museum of American Heritage Annual LEGO Holiday Extravaganza 2013
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131206T153000Z
+DTEND:20131206T163000Z
+DTSTAMP:20140930T072729Z
+UID:td34cbntnuvv8scsg86bc61e24@google.com
+CREATED:20131130T223630Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223630Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keplers author event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131219T213000Z
+DTEND:20131219T223000Z
+DTSTAMP:20140930T072729Z
+UID:qrs6fi1mvfmu9h531unjjogruk@google.com
+CREATED:20131130T223525Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223525Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:shaberg storytime library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131212T213000Z
+DTEND:20131212T223000Z
+DTSTAMP:20140930T072729Z
+UID:1tu55g12rhnff6s6n4mu9iumls@google.com
+CREATED:20131130T223516Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223516Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:shaberg storytime library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131205T213000Z
+DTEND:20131205T223000Z
+DTSTAMP:20140930T072729Z
+UID:h9006qbj8f5e1cc57sanur55dg@google.com
+CREATED:20131130T223506Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223506Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:shaberg storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131217T230000Z
+DTEND:20131218T000000Z
+DTSTAMP:20140930T072729Z
+UID:tpe895nmo3o5dnudiu784ltn4o@google.com
+CREATED:20131130T223431Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223431Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shaberg lbrary storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131210T230000Z
+DTEND:20131211T000000Z
+DTSTAMP:20140930T072729Z
+UID:mn70dieq9r1d3f6o5atleuaqfg@google.com
+CREATED:20131130T223403Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223403Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shaberg lbrary storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131203T230000Z
+DTEND:20131204T000000Z
+DTSTAMP:20140930T072729Z
+UID:vvl70uj9i7i51ogmrmh5frdkl8@google.com
+CREATED:20131130T223344Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T223344Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shaberg lbrary storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131217T000000Z
+DTEND:20131217T010000Z
+DTSTAMP:20140930T072729Z
+UID:j9iuo3fph16q2nomuihs9s6ccs@google.com
+CREATED:20131130T222726Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T222726Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Author: Randi Zuckerberg Local author Randi Zuckerberg will read he
+ r picturebook\, "Dot." which celebrates the unplugged life of play for chil
+ dren. Free. Linden Tree Books\, 265 State St.\, Los Altos.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131208T183000Z
+DTEND:20131208T193000Z
+DTSTAMP:20140930T072729Z
+UID:jkkp65968mkg0c6fghmq9p1sf0@google.com
+CREATED:20131130T222529Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T222529Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keplers Storytime: http://www.keplers.com/event/max-ruby-story-time
+ -rosemary-wells
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131207T190000Z
+DTEND:20131207T210000Z
+DTSTAMP:20140930T072729Z
+UID:i9sv4fhg2mc1d8gpgam7nclqqk@google.com
+CREATED:20131130T222413Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T222413Z
+LOCATION:Los Altos will host Families SFMOMA for a story time and art-makin
+ g event for families. 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Linden Tree Book: Families SFMOMA Event Linden Tree Books in Los Al
+ tos will host Families SFMOMA for a story time and art-making event for fam
+ ilies. Free. Linden Tree Books\, 265 State St.\, Los Altos.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131219T030000Z
+DTEND:20131219T033000Z
+DTSTAMP:20140930T072729Z
+UID:voctk9o3iafq7et3jk5b1k3794@google.com
+CREATED:20131130T222221Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T222221Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Belmont Library: Holiday Songs & Stories 2013
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131212T000000Z
+DTEND:20131212T010000Z
+DTSTAMP:20140930T072729Z
+UID:6i7i5a7sj1a008chlffqdji5jg@google.com
+CREATED:20131130T221827Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T221827Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy Birds Fair Oaks Branch Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131210T013000Z
+DTEND:20131210T020000Z
+DTSTAMP:20140930T072729Z
+UID:ac1sdiq6bd3rp5jr5vu1678mvg@google.com
+CREATED:20131130T221723Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T221723Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Santa: Mountain View Tree Lighting Celebration 2013
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131205T193000Z
+DTEND:20131205T200000Z
+DTSTAMP:20140930T072729Z
+UID:khq13jcs3ku4b3hksjq9bik304@google.com
+CREATED:20131130T221458Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T221458Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Redwood Shoes Storytime 0-18 mo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131217T233000Z
+DTEND:20131218T013000Z
+DTSTAMP:20140930T072729Z
+UID:itnr29v33nndr4q6v6titndj58@google.com
+CREATED:20131130T221317Z
+DESCRIPTION:
+LAST-MODIFIED:20131130T221317Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Santa: Schaberg Branch Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131112T180000Z
+DTEND:20131112T183000Z
+DTSTAMP:20140930T072729Z
+UID:q5cv019e7u3mqmkjlet92ngmek@google.com
+CREATED:20131109T025208Z
+DESCRIPTION:MOMMY & ME FREE KID’S CLUB: GIVE THANKS\n\nOn November 12\, fro
+ m 10am-12pm\, give back to your community by bringing a canned food item to
+  donate to Second Harvest Food Bank\, plus meet the harvest scarecrow for s
+ tory time plus join San Jose Public Library for Music and Movement\, Perfor
+ mance by Andy Z and much more!\n\nMommy & Me on The Row is a morning of ent
+ ertainment\, interactive games\, crafts and educational activities designed
+  for parents and their pre-school aged children. Families will enjoy arts a
+ nd crafts\, face painting\, music\, balloon art\, story time\, and much mor
+ e.
+LAST-MODIFIED:20131112T021418Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: Andy Z at Santana Row
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131210T180000Z
+DTEND:20131210T200000Z
+DTSTAMP:20140930T072729Z
+UID:irbugj8v4lv57gech5jmctn96g@google.com
+CREATED:20131109T073714Z
+DESCRIPTION:SHOP\nDINE\nLIVE\nEVENTS\nMAP\nCONCIERGE\nSearch\nMOMMY & ME FR
+ EE KID’S CLUB: CELEBRATE THE SEASON\n\nOn December 10\, from 10am-12pm\, ge
+ t into the holiday spirit with a special appearance from Mrs. Claus. Bring 
+ a new or gently used coat to donate to One Warm Coat.\n\nMommy & Me on The 
+ Row is a morning of entertainment with Andy Z\, interactive games\, crafts 
+ and educational activities designed for parents and their pre-school aged c
+ hildren. Families will enjoy arts and crafts\, face painting\, music\, ball
+ oon art\, story time\, and much more
+LAST-MODIFIED:20131109T073714Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Santa Row - see description below
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131202T020000Z
+DTEND:20131202T043000Z
+DTSTAMP:20140930T072729Z
+UID:a4gd3fvh5a2c9rn89f9oerbpu8@google.com
+CREATED:20131109T025841Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025841Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: > Los Altos Festival of Lights Parade > Downtown Los Altos > S
+ tate and Main > Los Altos\, CA 94022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131130T000000Z
+DTEND:20131130T020000Z
+DTSTAMP:20140930T072729Z
+UID:a4v8shgbu7g3kld5ji695he0e0@google.com
+CREATED:20131109T025811Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025811Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: http://www.ncry.org/content.aspx?page_id=87&club_id=541047&ite
+ m_id=299453
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131123T203000Z
+DTEND:20131123T210000Z
+DTSTAMP:20140930T072729Z
+UID:a0orubv95468pkbu126kpu1p0g@google.com
+CREATED:20131109T025545Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025545Z
+LOCATION:Ross plaza\, San Jose CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: Westgate Mall Santa's Arrival Event in Ross plaza\, San Jose C
+ A
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131120T180000Z
+DTEND:20131120T183000Z
+DTSTAMP:20140930T072729Z
+UID:l8vgvqsnko54eqvvv6sabcbg0k@google.com
+CREATED:20131109T025524Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025524Z
+LOCATION:Oakridge Mall\, San Jose CA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: Westfield Family Fun Days at Oakridge Mall\, San Jose CA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131117T230000Z
+DTEND:20131117T233000Z
+DTSTAMP:20140930T072729Z
+UID:tt1p6rqvcg1vu6mmcef3iat5g0@google.com
+CREATED:20131109T025359Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025359Z
+LOCATION:Ashkenaz in Berkeley CA Two full sets of music & fun!
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: Andy Z & The Andyland Band at Ashkenaz in Berkeley CA Two full
+  sets of music & fun!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131117T193000Z
+DTEND:20131117T200000Z
+DTSTAMP:20140930T072729Z
+UID:ff3nre87m03q8mdnktspdk81ag@google.com
+CREATED:20131109T025342Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025342Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: Congregation Beth Jacob Chanukah Festival Redwood City CA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131113T180000Z
+DTEND:20131113T183000Z
+DTSTAMP:20140930T072729Z
+UID:2j9t8vksecr6ofs1d60v7t8sao@google.com
+CREATED:20131109T025242Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025255Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FYI: Andy Z at Westgate Mall
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131110T180000Z
+DTEND:20131110T190000Z
+DTSTAMP:20140930T072729Z
+UID:i0j02i1sfigcusu956e267r1ro@google.com
+CREATED:20131109T025109Z
+DESCRIPTION:
+LAST-MODIFIED:20131109T025109Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Andy Z: Nov 12\, Tuesday\, 10am Santana Row Mommy & Me Event in Par
+ k Valencia\, San Jose CA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131005T150000Z
+DTEND:20131005T210000Z
+DTSTAMP:20140930T072729Z
+UID:aulqnj5e79tn20glr4rqcite78@google.com
+CREATED:20131004T212307Z
+DESCRIPTION:Los Altos Parent Preschool\nRummage & Bake Sale\nSaturday\, Oct
+ ober 5th\nAt the Covington Elementary School Parking Lot\n201 Covington Rd.
+  Los Altos\, 8am to 2pm\n
+LAST-MODIFIED:20131004T212307Z
+LOCATION:Covington Elementary School\, 201 Covington Rd. Los Altos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rummage Sale
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131012T170000Z
+DTEND:20131013T000000Z
+DTSTAMP:20140930T072729Z
+UID:ld6nj98jhvskrucvej10ujv0qs@google.com
+CREATED:20130926T163057Z
+DESCRIPTION:St. Raymond Pumpkin Festival\n\nFri.\, Oct. 11th from 3:30 - 7p
+ m\nSat.\, Oct. 12th from 10am - 5pm\n\nPony rides\, climbing wall\, pumpkin
+ s\, bungee trampoline\,\nface painting\, games\, bounce houses\, food and m
+ ore!\n\nOpen to the public. Free Admission.\n1100 Santa Cruz Ave. in Menlo 
+ Park
+LAST-MODIFIED:20130926T163057Z
+LOCATION:1100 santa cruz ave menlo park ca
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:St Raymond's pumpkin festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131011T223000Z
+DTEND:20131012T020000Z
+DTSTAMP:20140930T072729Z
+UID:aevvtjb0fomo42u8b0lf0br6kg@google.com
+CREATED:20130926T163056Z
+DESCRIPTION:St. Raymond Pumpkin Festival\n\nFri.\, Oct. 11th from 3:30 - 7p
+ m\nSat.\, Oct. 12th from 10am - 5pm\n\nPony rides\, climbing wall\, pumpkin
+ s\, bungee trampoline\,\nface painting\, games\, bounce houses\, food and m
+ ore!\n\nOpen to the public. Free Admission.\n1100 Santa Cruz Ave. in Menlo 
+ Park
+LAST-MODIFIED:20130926T163056Z
+LOCATION:1100 santa cruz ave menlo park ca
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:St Raymond's pumpkin festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130929T160000Z
+DTEND:20130929T170000Z
+DTSTAMP:20140930T072729Z
+UID:midjhheia61jr3tb7158s4suho@google.com
+CREATED:20130925T170924Z
+DESCRIPTION:http://www.calacademy.org/events/
+LAST-MODIFIED:20130925T171025Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:California Academy of Sciences FREE ADMISSION TODAY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131010T180000Z
+DTEND:20131010T190000Z
+DTSTAMP:20140930T072729Z
+UID:43fdji2oe8qnh6dufihkloj51s@google.com
+CREATED:20130911T053235Z
+DESCRIPTION:We are taking our storytime on the road to California Pizza Kit
+ chen. Pop Up Storytimes will be held the 2nd Thursday of every month at 11 
+ am rotating among different locations in Palo Alto. Next one is in October 
+ at Pottery Barn for Kids in Stanford Mall.
+LAST-MODIFIED:20130911T053235Z
+LOCATION:Pottery Barn Kids in Stanford Mall
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Story time - Pop Up Story time around PA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130912T180000Z
+DTEND:20130912T190000Z
+DTSTAMP:20140930T072729Z
+UID:bnc7rpaoghs4220ir5v3j1udnc@google.com
+CREATED:20130911T053056Z
+DESCRIPTION:Pop-up Storytime\, we'll be having a storytime at CPK. \n\nThur
+ sday\, September 12\nCalifornia Pizza Kitchen\, 531 Cowper st\n11 a.m. - to
+ ddlers and preschoolers
+LAST-MODIFIED:20130911T053056Z
+LOCATION:California Pizza Kitchen\, 531 Cowper Street\, Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Story time - Pop Up Story Time around PA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130925T180000Z
+DTEND:20130925T220000Z
+DTSTAMP:20140930T072729Z
+UID:cpk0uni3tlq79qm51mhn4f7l9g@google.com
+CREATED:20130828T213835Z
+DESCRIPTION:It is that time of the year so why don't we take our little one
+ s to enjoy a pumpkin patch\, maybe even pick a pumpkin or two or simply enj
+ oy some rides or the petting zoo.\n\nFall Pumpkins & Halloween\nEvery fall\
+ , September through Halloween\, Lemos Farm hosts a great Halloween on the F
+ arm pumpkin patch and our famous Scare Zone.\n\nBring your kids down to the
+  Farm where you can stroll through the pumpkin patches and pick your perfec
+ t pumpkin. Take the Ghost Train Ride or a Hay Ride in October and visit our
+  Haunted House.\n\nPrices\n\nDay Passes (unlimited rides)\nKids (14 mos. ol
+ d and up to 70 lbs)$15.00\nAdults$5.00\n\nSingle Ticket Prices\nPony Ride$5
+ .00\nPlaytown$5.00\nTrain Ride$3.00\nHay Ride$3.00\nHaunted House (Sept./Oc
+ t. only)$3.00\nPetting Zoo$1.00\n\nAll activities above are included in the
+  Day Pass\nAll activities below are not included in the Day Pass\n\nCoin Op
+ erated Activities\nDig Zone$2.00\nWagon Ride50¢
+LAST-MODIFIED:20130908T062855Z
+LOCATION:12320 San Mateo Road (Hwy 92) ~ Half Moon Bay CA 94019
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lemos Farm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130904T200000Z
+DTEND:20130904T223000Z
+DTSTAMP:20140930T072729Z
+UID:779ii3fmekd99nbm7vlilrg47g@google.com
+CREATED:20130830T223210Z
+DESCRIPTION:
+LAST-MODIFIED:20130830T223211Z
+LOCATION:Palo Alto Junior Museum and Zoo
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meet at Palo Alto Junior Museum and Zoo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130831T173000Z
+DTEND:20130831T183000Z
+DTSTAMP:20140930T072729Z
+UID:2hcmmtitrrnm6eegl35sta279o@google.com
+CREATED:20130820T160243Z
+DESCRIPTION:What: A 60-minute Special Event Master Class\, exclusively for 
+ PAMP members! Class will be a sample of the three XERCISE LAB programs: (1)
+  BURN LAB\, cardio interval program\; (2) BUILD LAB\, body-weight training 
+ program\; and (3) RESTORE LAB\, an athletic stretching program. Each attend
+ ee will receive a complimentary Xercise Lab towel.-------------------------
+ -----------------What: [Aug MNO] Get back in shape @Xercise Lab in PA Who: 
+ PAMP Parents Club When: Sat Aug 31\, 2013\, 10:30-11:30 am PDT Where: Xerci
+ se Lab's Palo Alto Studio 855 El Camino Real #105\, Town & Country Village\
+ , Palo Alto\, CA
+LAST-MODIFIED:20130824T211029Z
+LOCATION:Xercise Lab
+SEQUENCE:1
+STATUS:TENTATIVE
+SUMMARY:MNO
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130914T220000Z
+DTEND:20130915T010000Z
+DTSTAMP:20140930T072729Z
+UID:1hn6hnntfkf30vpmpjq44dvdq0@google.com
+CREATED:20130824T051623Z
+DESCRIPTION:
+LAST-MODIFIED:20130824T051629Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAMP half moon festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130915T180000Z
+DTEND:20130915T200000Z
+DTSTAMP:20140930T072729Z
+UID:mjgs86ubb75v5klgi65vg5n5n4@google.com
+CREATED:20130823T012315Z
+DESCRIPTION:
+LAST-MODIFIED:20130823T012315Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bubble palooza at Palo Alto museum and zoo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130830T171500Z
+DTEND:20130830T181500Z
+DTSTAMP:20140930T072729Z
+UID:4fnjg8445642kqqijmi35p2go8@google.com
+CREATED:20130823T011658Z
+DESCRIPTION:
+LAST-MODIFIED:20130823T011659Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Library storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130904T223000Z
+DTEND:20130904T230000Z
+DTSTAMP:20140930T072729Z
+UID:s6s2vo0rd2idalalc79htdf568@google.com
+CREATED:20130823T011140Z
+DESCRIPTION:
+LAST-MODIFIED:20130823T011429Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3:30 Charles the Clown at Palo Alto Children's Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130808T213000Z
+DTEND:20130808T223000Z
+DTSTAMP:20140930T072729Z
+UID:qrav2c6dbmnnjteqe8lc1540h4@google.com
+CREATED:20130807T230652Z
+DESCRIPTION:
+LAST-MODIFIED:20130807T230700Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Deer Hollow Hike at 2:30.  Leaves from Picnic area
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130809T210000Z
+DTEND:20130810T000000Z
+DTSTAMP:20140930T072729Z
+UID:k359sf0ogfrua66fker35b4pns@google.com
+CREATED:20130807T230552Z
+DESCRIPTION:
+LAST-MODIFIED:20130807T230552Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Serra Park\, Sunnyvale. Picnic
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130807T200000Z
+DTEND:20130807T210000Z
+DTSTAMP:20140930T072729Z
+UID:A4BEB118-369A-4FDE-A19F-A4D5C97FEDFF
+CREATED:20130726T164412Z
+DESCRIPTION:
+LAST-MODIFIED:20130807T192607Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:1:00 peers park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130722T153000
+DTEND;TZID=America/Los_Angeles:20130722T163000
+DTSTAMP:20140930T072729Z
+UID:cciblh92rp41jntboh6ulnf4us@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20130722T153000
+CREATED:20130426T035936Z
+DESCRIPTION:
+LAST-MODIFIED:20130801T052543Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Day One Palo Alto Storytime Free 9-24 month old
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130429T153000
+DTEND;TZID=America/Los_Angeles:20130429T163000
+RRULE:FREQ=WEEKLY;UNTIL=20130729T223000Z;BYDAY=MO
+EXDATE;TZID=America/Los_Angeles:20130429T153000
+DTSTAMP:20140930T072729Z
+UID:cciblh92rp41jntboh6ulnf4us@google.com
+CREATED:20130426T035936Z
+DESCRIPTION:
+LAST-MODIFIED:20130801T052543Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Day One Palo Alto Storytime Free 9-24 month old
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130525T133000
+DTEND;TZID=America/Los_Angeles:20130525T150000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=SA;UNTIL=20130525T065959Z
+DTSTAMP:20140930T072729Z
+UID:jjclsusr6l4q4m9ug6em7se5bk@google.com
+CREATED:20130528T175218Z
+DESCRIPTION: I am pleased to announce a new weekend playdate! Every other S
+ aturday\, we will be meeting at Shoup Park from *1:30PM* - *3:00PM*. Shoup 
+ is a lovely park with plenty of shady trees and separate little and big kid
+  play areas just across Foothill Expressway from downtown Los Altos. The fi
+ rst playdate will be this coming *Saturday\, May 25th*. This event is being
+  hosted by Meena and her son\, Aman. A reminder email will go out on Thursd
+ ays before each event\; please RSVP if you are planning on going.\n\nThanks
+ !\nNina
+LAST-MODIFIED:20130801T040406Z
+LOCATION:Shoup Park\, Los Altos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shoup Park Playdate
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130519T100000
+DTEND;TZID=America/Los_Angeles:20130519T110000
+RRULE:FREQ=WEEKLY;UNTIL=20130714T170000Z;BYDAY=SU
+DTSTAMP:20140930T072729Z
+UID:7tnci85ak2makclammhi027gns@google.com
+CREATED:20130508T160445Z
+DESCRIPTION:Almost every Sunday\, they host a cooking demo.  It's free and 
+ you get to taste the food.  Camden and I try to make it every week...but so
+ metimes we are too sleepy.
+LAST-MODIFIED:20130718T222425Z
+LOCATION:Stanford Shopping Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:William Sonoma Free Demo classes 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130626T180000Z
+DTEND:20130626T190000Z
+DTSTAMP:20140930T072729Z
+UID:5vs5o28dctc1pgj40005r8ngas@google.com
+CREATED:20130622T000314Z
+DESCRIPTION:
+LAST-MODIFIED:20130622T000314Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MV Library Spanish/English storytime
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130702T110000
+DTEND;TZID=America/Los_Angeles:20130702T120000
+RRULE:FREQ=WEEKLY;UNTIL=20130730T180000Z;BYDAY=TU
+DTSTAMP:20140930T072729Z
+UID:ulfbbrli2hk5feft41607mcch0@google.com
+CREATED:20130620T182806Z
+DESCRIPTION:\n\n17\n7:00 PM Taste of Honey - Author Marie Simmons\n\n18\n6:
+ 00 PM Hands-On Letterpress\n7:00 PM Science and Math Discussion Group\n\n19
+ \n2:00 PM Computer Basics at Your Own Pace\n7:00 PM The Wide\, Wide World o
+ f Amateur Radios\n7:00 PM Monthly Book Group\n\n20\n\n21\n11:00 AM ESL Conv
+ ersation Group\n\n22\n11:00 AM Family Storytime\n3:00 PM The Typewriter in 
+ the 21st Century: Film Screening\n23\n\n24\n\n25\n6:30 PM Lawyers in the Li
+ brary\n\n26\n7:00 PM Magical Moonshine Theatre\n\n27\n3:00 PM Teen Cupcake 
+ Decorating\n\n28\n11:00 AM ESL Conversation Group\n\n29\n11:00 AM Family St
+ orytime\n3:00 PM You Can Jam - Reading Is So Delicious Series\n30\n\n01 Jul
+ \n3:00 PM Teen Monday Crafts\n\n2\n11:00 AM Morning Music for All Ages\n2:0
+ 0 PM Make a Solar Print Grades 1-5\n\n3\n2:00 PM Computer Basics at Your Ow
+ n Pace\n2:00 PM The Surfing Magician\n\n4\n\n5\n\n6\n11:00 AM Family Storyt
+ ime\n \nCity of Sunnyvale\nNormal City Hours of Operation are\n8 a.m. until
+  5 p.m.\n(408) 730-7500\n\n    Sunnyvale City Hall\n    456 W. Olive Ave.\n
+     Sunnyvale\, CA 94086\n    TDD (408) 730-7501\n    Map and Directions \n
+     City of Sunnyvale Logo\n\n \nCan't Find It?\n \n\n    Or check out the 
+ SITE MAP!\n\nStay In Touch\n\n    Contact Us\n    Follow us on Twitter\n   
+  Like us on Facebook\n    +1 us on Google\n\n \nFrequently-Used Links\n\n  
+   Jobs with the City\n    Garbage and Recycling\n    Downtown Development\n
+     Economic Development\n    Register for Classes and Activities\n\nAbout 
+ the City\n\n    Welcome to Sunnyvale\n    City Charter and Policies\n    Ci
+ ty Council\n    New Resident Guide\n\n \nAbout the Web Site\n\nThe City of 
+ Sunnyvale Web Site\nis maintained by the Sunnyvale Communications Office an
+ d\nthe Department of Information Technology.\n\nQuestions? Contact Us.\nThe
+  Fine Print\n\n    Privacy Policy\n    Terms of Use\n\n    © 2012 City of S
+ unnyvale\n\n \nMorning Music for All Ages\n7/2/2013 11:00 AM - 11:30 AM\nSu
+ nnyvale Public Library\, 665 W. Olive Ave. (map)\nFree tickets are required
+  to attend this program. Tickets will be given out at the Children's Desk b
+ eginning on the Thursday preceding each event. These programs are for all a
+ ges
+LAST-MODIFIED:20130620T182806Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunnyvale Music
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130626T173000Z
+DTEND:20130626T183000Z
+DTSTAMP:20140930T072729Z
+UID:5sfpavgbfjhltc2l5tet04r4rc@google.com
+CREATED:20130620T182200Z
+DESCRIPTION:The jungle safari takes place at the Menlo Park Library on Wedn
+ esday\, June 26\, as the docents from Wild Things\, Inc. introduce some of 
+ their favorite animal friends. From the creepy-crawlies of the rainforest f
+ loor\, to the far reaches of the canopy\, we’ll come face-to-face with some
+  of the wonderful wildlife that calls the Amazon their home! This free fami
+ ly event is sponsored by the Friends of the Menlo Park Library\, and is jus
+ t one of a whole series of special programs taking place during this year’s
+  Summer Reading Program at the Menlo Park Library.
+LAST-MODIFIED:20130620T182200Z
+LOCATION:the Menlo Park Library 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Library Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130619T223000Z
+DTEND:20130619T233000Z
+DTSTAMP:20140930T072729Z
+UID:egodqgr9uq22vks448rl9vv42o@google.com
+CREATED:20130617T202323Z
+DESCRIPTION:Event Type: Childrens Program\nAge Group(s): All Ages\nDate: 6/
+ 19/2013\nStart Time: 3:30 PM\nDescription:\n Bring the whole family to enjo
+ y Peter's kid friendly music!\nLibrary: Children's Library\nLocation: Child
+ ren's Library\, 1276 Harriet St.
+LAST-MODIFIED:20130619T074324Z
+LOCATION:Children's Library\, 1276 Harriet Street\, Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Musician Peter Apel 3.30pm
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130619T173000Z
+DTEND:20130619T183000Z
+DTSTAMP:20140930T072729Z
+UID:8umdsjti379cv5r3pq5ghojcn8@google.com
+CREATED:20130606T194104Z
+DESCRIPTION:
+LAST-MODIFIED:20130618T022452Z
+LOCATION:MOVED to Council Chambers
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:*NEW LOCATION* Randel McGee and Groark the Dragon Puppet Show. Plea
+ se join us at the Menlo Park Library for stories\, music\, and plenty of la
+ ughs. Bring a blanket and join us under the oak trees for the show!
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130619T183000
+DTEND;TZID=America/Los_Angeles:20130619T200000
+RRULE:FREQ=WEEKLY;UNTIL=20130815T013000Z;BYDAY=WE
+DTSTAMP:20140930T072729Z
+UID:q35qiqh5gupi0jj35o4rhus1mc@google.com
+CREATED:20130617T204701Z
+DESCRIPTION:http://www.menlopark.org/departments/com/2013ConcertSeriesAd.jp
+ g
+LAST-MODIFIED:20130617T204701Z
+LOCATION:Fremont Park at University and Santa Cruz Avenue\, Menlo Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park Summer Concert Series 6.30-8pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130620T000000Z
+DTEND:20130620T040000Z
+DTSTAMP:20140930T072729Z
+UID:dvd82321r25t71kdfqd3h4hbks@google.com
+CREATED:20130617T204455Z
+DESCRIPTION:Kids activities\, family fun\, and local business showcase
+LAST-MODIFIED:20130617T204455Z
+LOCATION:Downtown Menlo Park (Santa Cruz Avenue Menlo Park)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Menlo Park downtown block party 5-9pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130724T223000Z
+DTEND:20130724T233000Z
+DTSTAMP:20140930T072729Z
+UID:qtp2aotiq68s03bnt4p71ctm34@google.com
+CREATED:20130617T203236Z
+DESCRIPTION:Event Type: Childrens Program\nAge Group(s): All Ages\nDate: 7/
+ 24/2013\nStart Time: 3:30 PM\nEnd Time: 4:30 PM\nDescription:\n The Wildlif
+ e Associates will bring all kinds of exotic animals for children and their 
+ families to observe.\nLocation: Cubberley Community Center\, Room H-1\nLibr
+ ary: Offsite (see description for details)
+LAST-MODIFIED:20130617T203236Z
+LOCATION:Cubberley Community Center\, Room H-1 (4000 Middlefield Rd  Palo A
+ lto)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wildlife Associates
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130717T223000Z
+DTEND:20130717T231500Z
+DTSTAMP:20140930T072729Z
+UID:8l9f927235ivvc8sj0ms2qjfa0@google.com
+CREATED:20130617T202818Z
+DESCRIPTION:Event Type: Childrens Program\nAge Group(s): All Ages\nDate: 7/
+ 17/2013\nStart Time: 3:30 PM\nEnd Time: 4:15 PM\nDescription:\n Andy Z is a
+  children's performer and singer/songwriter who combines music\, movement\,
+  storytelling and character puppets to create an experience that keeps kids
+  engaged and adults entertained.\nLibrary: College Terrace Library\nLocatio
+ n: College Terrace Library\, 2300 Wellesley St.
+LAST-MODIFIED:20130617T202818Z
+LOCATION:College Terrace Library\, 2300 Wellesley Street Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Music with Andy Z 3.30pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130710T223000Z
+DTEND:20130710T233000Z
+DTSTAMP:20140930T072729Z
+UID:5d2sjf859icjetqkpiea3t64dg@google.com
+CREATED:20130617T202726Z
+DESCRIPTION:Event Type: Childrens Program\nAge Group(s): All Ages\nDate: 7/
+ 10/2013\nStart Time: 3:30 PM\nDescription:\n Watch Thomas Truman John perfo
+ rm amazing magic!\nLibrary: College Terrace Library\nLocation: Children's L
+ ibrary\, 1276 Harriet St.
+LAST-MODIFIED:20130617T202726Z
+LOCATION:Children's Library\, 1276 Harriet Street Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Magic with Thomas Truman John 3.30pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130703T223000Z
+DTEND:20130703T233000Z
+DTSTAMP:20140930T072729Z
+UID:5k0p9v1s29lq9j97e9nelmubd4@google.com
+CREATED:20130617T202639Z
+DESCRIPTION:\nEvent Type: Childrens Program\nAge Group(s): All Ages\nDate: 
+ 7/3/2013\nStart Time: 3:30 PM\nDescription:\n Jungle Joe entertains with a 
+ hilarious puppet and ventriloquist act for all ages!\nLibrary: Children's L
+ ibrary\nLocation: Children's Library\, 1276 Harriet St.\n
+LAST-MODIFIED:20130617T202639Z
+LOCATION:Children's Library\, 1276 Harriet Street Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:California Puppets "Jungle Joe" 3.30pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130626T223000Z
+DTEND:20130626T233000Z
+DTSTAMP:20140930T072729Z
+UID:gk9p62ik46jg888nqjdnfktqjc@google.com
+CREATED:20130617T202427Z
+DESCRIPTION:Event Type: Childrens Program\nAge Group(s): All Ages\nDate: 6/
+ 26/2013\nStart Time: 3:30 PM\nDescription:\n Watch as Keith dazzles the cro
+ wd with his amazing juggling tricks.\nLibrary: College Terrace Library\nLoc
+ ation: College Terrace Library\, 2300 Wellesley St.
+LAST-MODIFIED:20130617T202427Z
+LOCATION:College Terrace Library\, 2300 Wellesley Street\, Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Juggler Keith Eveslage 3.30pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130614T210000Z
+DTEND:20130614T220000Z
+DTSTAMP:20140930T072729Z
+UID:en0d6aqru4llsahkkh08q3sue8@google.com
+CREATED:20130614T190917Z
+DESCRIPTION:
+LAST-MODIFIED:20130614T190929Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:2:00 Palo Alto Children's Museum and Zoo (park afterwards)?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130626T100000
+DTEND;TZID=America/Los_Angeles:20130626T110000
+RRULE:FREQ=WEEKLY;UNTIL=20130710T170000Z;BYDAY=WE
+DTSTAMP:20140930T072729Z
+UID:8mlesb58fn7nuvvnhbm3por178@google.com
+CREATED:20130614T055503Z
+DESCRIPTION:Jackie found a cool event to check out: http://events.sccl.org/
+ evanced/lib/print.asp?ID=32765&LangType=0
+LAST-MODIFIED:20130614T055503Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cupertino Baby Dance Jam
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130516T110000
+DTEND;TZID=America/Los_Angeles:20130516T123000
+RRULE:FREQ=WEEKLY;UNTIL=20130606T180000Z
+DTSTAMP:20140930T072729Z
+UID:B8E1B18C-3D99-43C4-B969-75FDB3296FA3
+CREATED:20130515T224404Z
+DESCRIPTION:
+LAST-MODIFIED:20130613T141450Z
+LOCATION:Crepe Cafe Menlo Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blanket Babies
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130612T223000Z
+DTEND:20130612T233000Z
+DTSTAMP:20140930T072729Z
+UID:hftq73g7per7brog92ebtfs2rk@google.com
+CREATED:20130611T013127Z
+DESCRIPTION:
+LAST-MODIFIED:20130611T042137Z
+LOCATION:Cubberley Community Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Magician Phil Ackerly
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130720T163000Z
+DTEND:20130720T173000Z
+DTSTAMP:20140930T072729Z
+UID:vf00pvl9nffhmh4hjcpdbnqbs0@google.com
+CREATED:20130610T210417Z
+DESCRIPTION:Further information can be found at http://www.bigtent.com/home
+ /calendar/event/78560955
+LAST-MODIFIED:20130610T210417Z
+LOCATION:Assembly area at Main Parking Lot\, Hidden Villa  26870 Moody Rd. 
+ Los Altos Hills\, CA 94022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAMP Young Family Farm time @Hidden Villa (age 0-5)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130710T213000Z
+DTEND:20130711T000000Z
+DTSTAMP:20140930T072729Z
+UID:bfa936vul0bcuia00t1n9clodc@google.com
+CREATED:20130610T204819Z
+DESCRIPTION:
+LAST-MODIFIED:20130610T204819Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Camden's Birthday Party :)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130611T180000Z
+DTEND:20130611T200000Z
+DTSTAMP:20140930T072729Z
+UID:3p9ra1e0tl7fvr3dqjuqosggc8@google.com
+CREATED:20130610T203655Z
+DESCRIPTION:If you want an excuse to have somewhere for your little one to 
+ play while enjoying a meal\, snack\, drink or just to relax.
+LAST-MODIFIED:20130610T203655Z
+LOCATION:145 1st St  Los Altos\, California 94022
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bumble 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130605T223000Z
+DTEND:20130606T000000Z
+DTSTAMP:20140930T072729Z
+UID:i26j5kjt1lm74aca7eju3ofjpg@google.com
+CREATED:20130603T213959Z
+DESCRIPTION:
+LAST-MODIFIED:20130603T213959Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wacky Palo Alto Children's Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130614T013000Z
+DTEND:20130614T023000Z
+DTSTAMP:20140930T072729Z
+UID:ptvn8ckl1n1913oct42vnj1ju4@google.com
+CREATED:20130603T041531Z
+DESCRIPTION:http://www.losaltosrecreation.org/summer-concerts.html
+LAST-MODIFIED:20130603T041632Z
+LOCATION:Hillview Soccer Field\, Los Altos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Michael Jackson Tribute Band at Hillview Soccer Field\, Los Altos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130717T101500
+DTEND;TZID=America/Los_Angeles:20130717T111500
+RRULE:FREQ=WEEKLY;UNTIL=20130828T171500Z;BYDAY=WE
+DTSTAMP:20140930T072729Z
+UID:avbv0ih7li8t25fk2i3vc4tsr8@google.com
+CREATED:20130529T163721Z
+DESCRIPTION:Registration in person is required starting June 26th at the Ch
+ ildren's Reference Desk
+LAST-MODIFIED:20130529T163748Z
+LOCATION:Cupertino Community Hall next door to the library
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Baby Storytime 0-24 months
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130531T114500
+DTEND;TZID=America/Los_Angeles:20130531T124500
+RRULE:FREQ=WEEKLY;UNTIL=20130628T184500Z;INTERVAL=2;BYDAY=FR
+DTSTAMP:20140930T072729Z
+UID:6dh6fst547bgkn5bn62ob5fkdo@google.com
+CREATED:20130529T162927Z
+DESCRIPTION:Encouraging the development of social skills\, this program is 
+ geared toward\nthe exploration of movement. Our first time walkers are elat
+ ed as they are\nintroduced to a vast array of fantastic and stimulating exp
+ eriences.\n\nNO REFUNDS! Walk-ins are NOT welcome as this is a subsidized P
+ AMP event open to PAMP Members Only.\n\nOh no! Is the RSVP list full but yo
+ u are still interested in attending? Please email KIDSEVENTS@PAMPCLUB.ORG a
+ nd request to be put on the waitlist! Please include your phone number.\n\n
+ Want to attend an event for free? Sign up to be a PAMP volunteer! Email vol
+ unteer@pampclub.org for more info.\n\nGet more info on PAMP Events:\nPAMP C
+ alendar http://pampclub.org/site/calendar\nPAMP Facebook Page www.facebook.
+ com/pampclub \nPAMP Small Events FAQ http://pampclub.org/site/calendar/smal
+ l-events-faq/
+LAST-MODIFIED:20130529T162944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:My Gym Tykes/Waddlers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130529T223000Z
+DTEND:20130529T233000Z
+DTSTAMP:20140930T072729Z
+UID:gm36it94llfseks1g33lnl4u44@google.com
+CREATED:20130528T200319Z
+DESCRIPTION:
+LAST-MODIFIED:20130528T200319Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heritage Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130529T233000Z
+DTEND:20130530T003000Z
+DTSTAMP:20140930T072729Z
+UID:t53psj66akgh2ifv911gclhegk@google.com
+CREATED:20130528T173811Z
+DESCRIPTION:Stroller Walk to Downtown Los Altos (Peet's\, Linden Tree)\nWed
+ nesday May 29\, 2013\n4:30 pm - 5:30 pm\n(GMT+00:00)\nLocation: Meet at Jar
+ din and Morton in Mountain View\n\nNotes:\nMap to meeting point: http://goo
+ .gl/maps/CkGw2\n\nPeet's\, Linden Tree Bookstore\, or both\, depending on w
+ hat people want to do (I'm up for both :) )\n\nIf you are running late\, te
+ xt or call Nina at 310.971.3232 and we will wait for you.\n
+LAST-MODIFIED:20130528T173834Z
+LOCATION:Meet at Jardin and Morton in Mountain View
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stroller Walk to Downtown Los Atlos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130522T223000Z
+DTEND:20130523T000000Z
+DTSTAMP:20140930T072729Z
+UID:upqmk6vfhrl98nqkvvm1dmpcv8@google.com
+CREATED:20130521T005008Z
+DESCRIPTION:
+LAST-MODIFIED:20130521T064815Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peers Park Playgroup
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130529T223000Z
+DTEND:20130529T231500Z
+DTSTAMP:20140930T072729Z
+UID:mu5nmg9k1jdnsj93hnq6daaq18@google.com
+CREATED:20130521T050620Z
+DESCRIPTION:Description:\n Fitness is Fun! Join Jerome Flowers and move\, d
+ ance\, stretch\, and enjoy the music! Come prepared to get fit!
+LAST-MODIFIED:20130521T050620Z
+LOCATION:Los Altos Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jazzercise with Jerome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130517T110000
+DTEND;TZID=America/Los_Angeles:20130517T120000
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=FR
+DTSTAMP:20140930T072729Z
+UID:ua9iijvl4gmii0gldq0gfbmses@google.com
+CREATED:20130515T165011Z
+DESCRIPTION:Thanks for the suggestion Jackie.  I just posted it for you.
+LAST-MODIFIED:20130515T165058Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Campbell library baby sign
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130515T223000Z
+DTEND:20130516T000000Z
+DTSTAMP:20140930T072729Z
+UID:j784lg4q3783v0p9hlb7amrrh8@google.com
+CREATED:20130515T165042Z
+DESCRIPTION:Thanks for the suggestion Jackie.  I just posted it for you
+LAST-MODIFIED:20130515T165042Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Los Altos Rattle and Dance
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130515T223000Z
+DTEND:20130516T000000Z
+DTSTAMP:20140930T072729Z
+UID:5gq496n62fgs3gv0fdh880aq2s@google.com
+CREATED:20130509T160129Z
+DESCRIPTION:
+LAST-MODIFIED:20130509T160129Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Busy Bee Dogs Collage Terrace Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130514T180000Z
+DTEND:20130514T190000Z
+DTSTAMP:20140930T072729Z
+UID:2or6adqpd2nluj2lfuosmgr5ng@google.com
+CREATED:20130509T021801Z
+DESCRIPTION:
+LAST-MODIFIED:20130509T021801Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Palo Alto Middlefield Library Story Time
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130507T151500
+DTEND;TZID=America/Los_Angeles:20130507T160000
+RRULE:FREQ=WEEKLY;UNTIL=20130528T221500Z;BYDAY=TU
+DTSTAMP:20140930T072729Z
+UID:q45qikheaaftno1ok7b9686u7s@google.com
+CREATED:20130506T205958Z
+DESCRIPTION:You need to RSVP by 12.15pm on the day of the class. $9.25 for 
+ first child. $5.50 for second child\n\nhttp://www.bigtent.com/home/calendar
+ /event/76975746
+LAST-MODIFIED:20130506T205958Z
+LOCATION:Unity Palo Alto - Fireside Room  3391 Middlefield Road\, Palo Alto
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Music4Families Music Together Class Palo Alto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130508T220000Z
+DTEND:20130508T230000Z
+DTSTAMP:20140930T072729Z
+UID:j152j4026t52m1bcokgcr492jg@google.com
+CREATED:20130506T204743Z
+LAST-MODIFIED:20130506T204744Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peers Park
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130502T180000Z
+DTEND:20130502T193000Z
+DTSTAMP:20140930T072729Z
+UID:97545C8E-489C-43B2-9426-3327B9FE5B56
+CREATED:20130501T184529Z
+DESCRIPTION:
+LAST-MODIFIED:20130501T184529Z
+LOCATION:Crepe Cafe Menlo Park
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Blanket Babies
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130501T220000Z
+DTEND:20130502T000000Z
+DTSTAMP:20140930T072729Z
+UID:g2qqh9j2qp4i1i42bdo14maauo@google.com
+CREATED:20130501T063155Z
+DESCRIPTION:
+LAST-MODIFIED:20130501T063155Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mitchell Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20130501T050000
+DTEND;TZID=America/Los_Angeles:20130501T073000
+RRULE:FREQ=WEEKLY;UNTIL=20130504T120000Z;BYDAY=WE,TH,FR,SA
+EXDATE;TZID=America/Los_Angeles:20130504T050000
+EXDATE;TZID=America/Los_Angeles:20130503T050000
+EXDATE;TZID=America/Los_Angeles:20130502T050000
+EXDATE;TZID=America/Los_Angeles:20130501T050000
+DTSTAMP:20140930T072729Z
+UID:bvrdn5nebskbaoupjpa9p18g3g@google.com
+CREATED:20130501T062956Z
+DESCRIPTION:Please do not delete events on the CA Moms Calendar.  If you de
+ lete an event\, it is deleted from everyone's calendar.  \n\nIf you do not 
+ wish to be added to the calendar anymore\, I can take you off of the list. 
+  Thanks!
+LAST-MODIFIED:20130501T063130Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Please do not delete events on CA Moms Calendar
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
