@@ -7,6 +7,7 @@ root 'events#index'
 resources :events
 post 'events/attend_event' => 'events#attend_event'
 post 'events/add_comment' => 'events#add_comment'
+get 'groups' => 'groups#index'
 
 #get 'event' => 'event#index'
 

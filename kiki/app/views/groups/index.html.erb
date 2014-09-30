@@ -1,0 +1,19 @@
+<div data-role="page" data-theme="a" id="eventlist">
+
+	<div data-role="header">
+		<h1>Groups</h1>
+   		<%= link_to 'Add group', new_event_path,
+   			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
+   			:'data-transition' => 'slide' %>
+	</div>
+
+	<div data-role="main" class="ui-content">
+		<% @groups.each do |group| %>	
+			<ul>
+				<%= group.name %> -- <%= group.description %>
+			</ul>
+		<% end %>
+	</div>  
+
+</div> 
+
