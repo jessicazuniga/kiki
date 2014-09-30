@@ -39,14 +39,14 @@ class Event < ActiveRecord::Base
     #     Event.where("time >= '#{start_time.to_s(:db)}' and time <= '#{end_time.to_s(:db)}'").order(:time)
     # end
 
-    def self.getNextEventsAndAttendence(time, num_days, user_id = nil)
+    def self.getNextEventsAndAttendence(time, num_days, user_id = nil, group_id)
 
         start_time = time.beginning_of_day
         end_time = (time + num_days.days).end_of_day
 
         if user_id.nil?
 
-            Event.where("time >= '#{start_time.to_s(:db)}' and time <= '#{end_time.to_s(:db)}'").order(:time)
+            Event.where("time >= '#{start_time.to_s(:db)}' and time <= '#{end_time.to_s(:db)}' and group_id = '#{group_id}'").order(:time)
 
         else
 
@@ -56,11 +56,11 @@ class Event < ActiveRecord::Base
                   LEFT OUTER JOIN
                   (select * from attendances t where t.user_id = ?) a
                   ON e.id = a.event_id
-                  WHERE e.time >= ? and e.time <= ?
+                  WHERE e.time >= ? and e.time <= ? and group_id
                   ORDER BY e.time
                   """
     
-            Event.find_by_sql [ sql, user_id, start_time.to_s(:db), end_time.to_s(:db) ]
+            Event.find_by_sql [ sql, user_id, start_time.to_s(:db), end_time.to_s(:db), group_id ]
 
         end
     
