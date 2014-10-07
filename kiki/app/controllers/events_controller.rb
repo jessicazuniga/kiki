@@ -70,9 +70,13 @@ class EventsController < ApplicationController
 
 
   def new
-    @event = Event.new
-	  respond_to do |format|
+    if user_signed_in?
+      @event = Event.new
+      respond_to do |format|
         format.html { render :layout => !request.xhr? }
+      end
+    else
+      redirect_to new_user_session_path
     end
   end
    
