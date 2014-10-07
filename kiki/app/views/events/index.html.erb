@@ -2,7 +2,7 @@
 <div data-role="page" data-theme="a" id="eventlist">
 
 	<div data-role="header">
-		<h1><%= app_title %><%= fa_icon('ellipsis-v') %><%= @selected_group.name%></h1>
+		<h1><%= @selected_group.nil? ? app_title : @selected_group.name %></h1>
 		<% if user_signed_in? %>
 			<%= link_to "Logout", destroy_user_session_path, method: :delete, # :'data-ajax' => 'false',
 	   			:class => 'ui-btn ui-btn-left ui-corner-all ui-shadow',
@@ -11,7 +11,7 @@
 	   		<%= link_to 'Login', new_user_session_path,
 	   			:class => 'ui-btn ui-btn-left ui-corner-all ui-shadow',
 	   			:'data-transition' => 'slide' %>
-<% end %>
+		<% end %>
    		<%= link_to 'New', new_event_path,
    			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
    			:'data-transition' => 'slide' %>
@@ -26,7 +26,7 @@
 		<h4><%= event_time.strftime("%A") %> &mdash; <%= event_time.strftime("%B %-d") %></h4>
 		<ul data-role="listview">
 
-			<% @week_events.each do |event| %>
+			<% if (!@week_events.nil?) then @week_events.each do |event| %>
 
 				<% new_event_time = event.time %>
 				<% if event_time.to_date != new_event_time.to_date %>
@@ -42,11 +42,16 @@
 		    		<%= link_to raw('<div class="event-time">') + event.time.strftime("%-I:%M") + event.time.strftime("%P").first + raw('</div>') + event.name + raw('&nbsp;&nbsp;') + (event.has_attribute?(:response) && event.response ? fa_icon('star') : ''),
 		    			event_path(event), :'data-transition' => 'slide' %>
 		    	</li>
-			<% end %>
+			<% end end %>
 		</ul>
 		</div>
 
-	</div>  
+		<%= link_to "See activites for a different group", groups_path, :'data-role' => 'button' %>
+
+	</div>
+
+	<%= render "shared/footer" %>
+
 
 </div> 
 

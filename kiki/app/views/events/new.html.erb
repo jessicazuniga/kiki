@@ -34,6 +34,7 @@
 			<%= e.text_field :place %>
 			<%= e.label :description, 'Description:' %>
 			<%= e.text_area :description %>
+			<%= e.hidden_field :group_id, :value => session[:current_group_id] %>
 
 
 			<%= e.submit 'Add activity' %>
@@ -41,5 +42,7 @@
 		<% end %>
 
 	</div>
+
+	<%= render "shared/footer" %>
 
 </div>  

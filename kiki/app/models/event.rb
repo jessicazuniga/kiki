@@ -56,7 +56,8 @@ class Event < ActiveRecord::Base
                   LEFT OUTER JOIN
                   (select * from attendances t where t.user_id = ?) a
                   ON e.id = a.event_id
-                  WHERE e.time >= ? and e.time <= ? and group_id
+                  WHERE e.time >= ? and e.time <= ?
+                    and e.group_id = ?
                   ORDER BY e.time
                   """
     

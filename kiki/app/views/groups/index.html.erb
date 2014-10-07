@@ -1,19 +1,38 @@
-<div data-role="page" data-theme="a" id="eventlist">
+<div data-role="page" data-theme="a" id="grouplist">
 
 	<div data-role="header">
-		<h1>Groups</h1>
-   		<%= link_to 'Add group', new_event_path,
-   			:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow ui-icon-plus ui-btn-icon-left',
-   			:'data-transition' => 'slide' %>
+		<h1>Kukuto</h1>
+		<% if user_signed_in? %>
+			<%= link_to "Logout", destroy_user_session_path, method: :delete, # :'data-ajax' => 'false',
+	   			:class => 'ui-btn ui-btn-left ui-corner-all ui-shadow',
+	   			:'data-transition' => 'none' %>
+		<% else %>
+	   		<%= link_to 'Login', new_user_session_path,
+	   			:class => 'ui-btn ui-btn-left ui-corner-all ui-shadow',
+	   			:'data-transition' => 'slide' %>
+	   		<%= link_to 'Sign up', new_user_registration_path,
+   				:class => 'ui-btn ui-btn-right ui-corner-all ui-shadow',
+   				:'data-transition' => 'slide' %>
+		<% end %>
 	</div>
 
 	<div data-role="main" class="ui-content">
-		<% @groups.each do |group| %>	
-			<ul>
-				<%= group.name %> -- <%= group.description %>
-			</ul>
-		<% end %>
+
+		<ul data-role="listview" data-inset="true">
+			<% @groups.each do |group| %>	
+			    <li>
+			    	<%= link_to events_path(:group_id => group.id)  do %>
+			        	<!--%= image_tag 'sample-group-logo.jpg' %-->
+				    	<h2><%= group.name %></h2>
+				    	<p><%= group.description %></p>
+				    <% end %>
+			    </li>
+			<% end %>
+		</ul>
+
 	</div>  
+
+	<%= render "shared/footer" %>
 
 </div> 
 

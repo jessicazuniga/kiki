@@ -4,11 +4,16 @@ class EventsController < ApplicationController
   #before_action :authenticate_user!, :except => [:index, :show]
 
   def index
-  	@now = Time.now
-    selected_group_id = 3
-    @selected_group = Group.where(id: selected_group_id).first()
-  	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, selected_group_id)
 
+    if params.has_key?(:group_id)
+      session[:current_group_id] = params[:group_id]
+    end
+
+    @now = Time.now
+    if session.has_key?(:current_group_id)
+      @selected_group = Group.where(id: session[:current_group_id]).first()
+    	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, session[:current_group_id])
+    end
 
 	  respond_to do |format|
       format.html { render :layout => !request.xhr? }
@@ -85,7 +90,7 @@ class EventsController < ApplicationController
    
   private
     def event_params
-      params.require(:event).permit(:name, :time_only, :date_only, :place, :description)
+      params.require(:event).permit(:name, :time_only, :date_only, :place, :description, :group_id)
     end
 
   private
