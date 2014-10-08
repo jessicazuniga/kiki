@@ -7,6 +7,21 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="format-detection" content="telephone=no">
 
+  <!-- For iPhone 4 with high-resolution Retina display: -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/apple-touch-icon-114x114-precomposed.png">
+  <!-- For first-generation iPad: -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/apple-touch-icon-72x72-precomposed.png">
+  <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+  <link rel="apple-touch-icon-precomposed" href="/assets/apple-touch-icon-precomposed.png">
+  
+  <!-- STARTUP IMAGES -->
+  <!-- startup image for web apps - iPad - landscape (748x1024) -->
+  <link rel="apple-touch-startup-image" href="/assets/apple-touch-startup-ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" />
+  <!-- startup image for web apps - iPad - portrait (768x1004) -->
+  <link rel="apple-touch-startup-image" href="/assets/apple-touch-startup-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
+  <!-- startup image for web apps (320x460) -->
+  <link rel="apple-touch-startup-image" href="/assets/apple-touch-startup-iphone.png" media="screen and (max-device-width: 320px)" />
+
 
   <%= stylesheet_link_tag    'application', media: 'all' %> <!-- , 'data-turbolinks-track' => true %-->
   <%= javascript_include_tag 'application' %> <!--, 'data-turbolinks-track' => true %-->

@@ -1,14 +1,21 @@
 Rails.application.routes.draw do
 
   devise_for :users
-#  get 'home/index'
 
-root 'events#index'
-resources :events
-post 'events/attend_event' => 'events#attend_event'
-post 'events/add_comment' => 'events#add_comment'
-get 'groups' => 'groups#index'
+  resources :events
+  post 'events/attend_event' => 'events#attend_event'
+  post 'events/add_comment' => 'events#add_comment'
+  post 'events/change_group' => 'events#change_group'
+  get 'groups' => 'groups#index'
 
+
+  authenticated :user do
+    root 'events#index', as: :authenticated_root
+  end
+  
+  root 'groups#index'
+  
+  
 #get 'event' => 'event#index'
 
   # The priority is based upon order of creation: first created -> highest priority.

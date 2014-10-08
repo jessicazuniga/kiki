@@ -91,6 +91,13 @@ class EventsController < ApplicationController
     end
 
   end
+
+  def change_group
+    
+    session[:current_group_id] = nil
+    redirect_to :controller => 'groups', :action => 'index'
+
+  end
    
   private
     def event_params

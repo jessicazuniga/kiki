@@ -7,9 +7,9 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 #Create sample groups data
-Group.create(name: 'CA Moms demo', description: 'group of mothers who like to get together in the peninsula')
-Group.create(name: 'School Class', description: 'class group')
-Group.create(name: 'CA Moms', description: 'group of mothers who like to get together in the peninsula')
+Group.create(name: 'Kukuto test #1', description: 'Mothers\' group – Test')
+Group.create(name: 'Kukuto test #2', description: 'School class group – Test')
+Group.create(name: 'CA Moms', description: 'Group of mothers who like to get together in the peninsula')
 
 
 #Create sample events data
