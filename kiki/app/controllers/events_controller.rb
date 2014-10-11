@@ -6,13 +6,13 @@ class EventsController < ApplicationController
   def index
 
     if params.has_key?(:group_id)
-      session[:current_group_id] = params[:group_id]
+      cookies.permanent[:current_group_id] = params[:group_id]
     end
 
     @now = Time.now
-    if session.has_key?(:current_group_id)
-      @selected_group = Group.where(id: session[:current_group_id]).first()
-    	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, session[:current_group_id])
+    if cookies.has_key?(:current_group_id) && !cookies[:current_group_id].nil?
+      @selected_group = Group.where(id: cookies[:current_group_id]).first()
+    	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, cookies[:current_group_id])
     end
 
 	  respond_to do |format|
@@ -94,7 +94,7 @@ class EventsController < ApplicationController
 
   def change_group
     
-    session[:current_group_id] = nil
+    cookies.delete :current_group_id
     redirect_to :controller => 'groups', :action => 'index'
 
   end
