@@ -9,9 +9,9 @@ Rails.application.routes.draw do
   get 'groups' => 'groups#index'
 
 
-  authenticated :user do
-    root 'events#index', as: :authenticated_root
-  end
+#  authenticated :user do
+#    root 'events#index', as: :authenticated_root
+#  end
   
   root 'groups#index'
   
