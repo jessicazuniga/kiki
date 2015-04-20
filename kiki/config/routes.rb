@@ -13,7 +13,8 @@ Rails.application.routes.draw do
 #    root 'events#index', as: :authenticated_root
 #  end
   
-  root 'groups#index'
+#  root 'groups#index'
+  root 'events#index'
   
   
 #get 'event' => 'event#index'

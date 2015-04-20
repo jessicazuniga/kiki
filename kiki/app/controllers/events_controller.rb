@@ -5,15 +5,19 @@ class EventsController < ApplicationController
 
   def index
 
-    if params.has_key?(:group_id)
-      cookies.permanent[:current_group_id] = params[:group_id]
-    end
+#    if params.has_key?(:group_id)
+#      cookies.permanent[:current_group_id] = params[:group_id]
+#    end
+#
+#    @now = Time.now
+#    if cookies.has_key?(:current_group_id) && !cookies[:current_group_id].nil?
+#      @selected_group = Group.where(id: cookies[:current_group_id]).first()
+#    	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, cookies[:current_group_id])
+#    end
 
     @now = Time.now
-    if cookies.has_key?(:current_group_id) && !cookies[:current_group_id].nil?
-      @selected_group = Group.where(id: cookies[:current_group_id]).first()
-    	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, cookies[:current_group_id])
-    end
+    @selected_group = Group.where(id: 1).first()
+    @week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, 1)
 
 	  respond_to do |format|
       format.html { render :layout => !request.xhr? }
