@@ -28,7 +28,7 @@ class Event < ActiveRecord::Base
     end
     
     def store_datetime
-      self.time = DateTime.parse("#{@date_only} #{@time_only}") if @date_only.present? and @time_only.present? 
+      self.time = ActiveSupport::TimeZone[Kiki::Application.config.time_zone].parse("#{@date_only} #{@time_only}") if @date_only.present? and @time_only.present? 
     end
 
 
