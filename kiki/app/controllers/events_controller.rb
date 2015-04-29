@@ -14,7 +14,7 @@ class EventsController < ApplicationController
     @now = Time.now
     if cookies.has_key?(:current_group_id) && !cookies[:current_group_id].nil?
       @selected_group = Group.where(id: cookies[:current_group_id]).first()
-    	@week_events = Event.getNextEventsAndAttendence(@now, 14, current_user, cookies[:current_group_id])
+    	@week_events = Event.getNextEventsAndAttendence(@now, 21, current_user, cookies[:current_group_id])
     end
 
 	  respond_to do |format|
