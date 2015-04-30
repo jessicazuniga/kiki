@@ -1,4 +1,4 @@
-<div data-role="page" data-theme="a" id="newevent">
+<div data-role="page" data-theme="a" id="editevent">
 
 	<div data-role="header">
 		<%= link_to 'Cancel', '', :'data-rel' => 'back',
@@ -37,7 +37,7 @@
 			<%= e.hidden_field :group_id, :value => cookies[:current_group_id] %>
 
 
-			<%= e.submit 'Add activity' %>
+			<%= e.submit 'Update activity' %>
 
 		<% end %>
 

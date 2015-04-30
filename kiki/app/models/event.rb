@@ -10,11 +10,11 @@ class Event < ActiveRecord::Base
     before_validation :store_datetime
 
     def date_only
-      time.strftime("%d/%m/%Y") if time.present?
+      time.strftime("%Y-%m-%d") if time.present?
     end 
     
     def time_only
-      time.strftime("%I:%M%p") if time.present?
+      time.strftime("%H:%M:%S") if time.present?
     end
     
     def date_only=(dd)

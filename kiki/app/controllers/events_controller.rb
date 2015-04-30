@@ -81,7 +81,8 @@ class EventsController < ApplicationController
       redirect_to new_user_session_path
     end
   end
-   
+
+
   def create
 
     @event = Event.new(event_params)
@@ -93,6 +94,34 @@ class EventsController < ApplicationController
     end
 
   end
+
+
+  def edit
+    if user_signed_in?
+      event_id = params[:id]
+      @event = Event.find(event_id)
+      respond_to do |format|
+        format.html { render :layout => !request.xhr? }
+      end
+    else
+      redirect_to new_user_session_path
+    end
+  end
+   
+
+  def update
+
+    @event = Event.find(params[:id])
+
+    if @event.update(event_params)
+      redirect_to @event
+    else
+      render 'edit', :layout => !request.xhr?
+    end
+
+  end
+
+
 
   def change_group
     
