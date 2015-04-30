@@ -65,7 +65,7 @@
 			<div id="participants" class="ui-body-d ui-content">
 				<ul data-role="listview">
 					<% @participants.each do |participant| %>
-						<li><%= User.find(participant.user_id).name %>, <%= User.find(participant.user_id).email %></li>
+						<li><%= User.find(participant.user_id).name %></li>
 					<% end %>
 				</ul>
 			</div>
