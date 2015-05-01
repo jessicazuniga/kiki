@@ -87,6 +87,21 @@ woopra.track();
   ga('create', 'UA-62307933-1', 'auto');
   ga('send', 'pageview');
 
+  $(function () {
+      $(document).on('pageshow', function (event, ui) {
+          try {
+              if (location.pathname) {
+                  ga('send', 'pageview', location.pathname + location.search + location.hash);
+              }
+              else {
+                  ga('send', 'pageview');
+              }
+          }
+          catch (error) {
+          }
+      });
+  });
+
 </script>
 
 </body>
