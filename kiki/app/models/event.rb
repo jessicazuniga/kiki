@@ -32,6 +32,24 @@ class Event < ActiveRecord::Base
     end
 
 
+    def to_ics
+      ics = Icalendar::Event.new
+      ics.dtstart = self.time.strftime("%Y%m%dT%H%M%S")
+      ics.dtend = self.end_time.strftime("%Y%m%dT%H%M%S") if self.has_attribute?(:end_time)
+      ics.summary = self.name
+      ics.description = self.description
+      ics.location = self.place
+      ics.ip_class = "PUBLIC"
+      ics.created = self.created_at
+      ics.last_modified = self.updated_at
+      ics.uid = ics.url = "http://www.kukuto.com/events/#{self.id}"
+#      ics.add_comment("Provided by kukuto.com")
+      ics
+    end
+
+
+
+
     # def self.getNextEvents(time, num_days)
     #     start_time = time.beginning_of_day
     #     end_time = (time + num_days.days).end_of_day
