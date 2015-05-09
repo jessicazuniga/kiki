@@ -8,8 +8,12 @@
 	}
 	.ui-controlgroup-controls {
 		width: 100%;
-		.ui-btn {
+		.ui-btn-yesno {
 			width: calc(50% - 3.5em - 2px);
+		}
+		.ui-btn-share {
+			width: calc(50% - 2.0em - 2px);
+			font-size: 0.92em;
 		}
 	}
 }

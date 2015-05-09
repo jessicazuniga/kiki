@@ -15,12 +15,6 @@
 
 		<div class="ui-body ui-body-b ui-corner-all">
 			<h3><%= @event.name %>
-			  <%= link_to fa_icon('calendar'), event_path(@event) + '.ics', :'data-ajax' => 'false' %>
-			  <%= link_to fa_icon('envelope'), 'mailto:?subject=Check%20out%20' + @event.name +
-			  '&body=%0AHi%2C%0A%0AI%20thought%20you%20might%20be%20interested%20in%20this%20local%20event%3A%20http%3A//www.kukuto.com' + event_path(@event) + '%0A%0A' + @event.name +
-			  		'%0ATime:%20' + @event.time.strftime("%A, %b %-d at %-I:%M") + @event.time.strftime("%P").first +
-			  		'%0ALocation:%20' + @event.place + '%0A%0AFor more details see http://kukuto.com' + event_path(@event) +'%0A',
-			  		:'data-ajax' => 'false' %>
 			  <!--%= link_to "blah", {:controller => 'events', :action => :show, :format => :ics, :protocol=>"http://", :host=>"192.168.1.103:3000"}, :'data-ajax' => 'false' %-->
    			</h3>
 			<p>
@@ -28,24 +22,41 @@
 			  <%= fa_icon('map-marker') %> <%= @event.place %>
 			</p>
 		</div>
+
+			<div  data-role="controlgroup" data-type="horizontal">	
+		   	<%= link_to fa_icon('calendar') + ' Add to calendar', event_path(@event) + '.ics', :'data-ajax' => 'false',
+		   		:class => 'ui-btn ui-corner-all ui-btn-share', :'data-role' => 'button' %>
+	
+		   	<%= link_to fa_icon('envelope') + ' Invite a friend', 'mailto:?subject=Check%20out%20' + @event.name +
+				'&body=%0AHi%2C%0A%0AI%20thought%20you%20might%20be%20interested%20in%20this%20local%20event%3A%20http%3A//www.kukuto.com' +
+				event_path(@event) + '%0A%0A' + @event.name +
+				'%0ATime:%20' + @event.time.strftime("%A, %b %-d at %-I:%M") + @event.time.strftime("%P").first +
+				'%0ALocation:%20' + @event.place + '%0A%0AFor more details see http://kukuto.com' + event_path(@event) +'%0A',
+				:'data-ajax' => 'false', :class => 'ui-btn ui-corner-all ui-btn-share', :'data-role' => 'button'  %>
+			</div>
+
+		<div class="ui-body ui-body-a ui-corner-all">
+			<p><%= @event.description.force_encoding("utf-8") %></p>
+		</div>
+
 		<div class="ui-body">
 			<span>Are you going?</span>
 
 			<% if user_signed_in? %>
 				<div data-role="controlgroup" data-type="horizontal">
 					<% if (!@attending.nil? and @attending) %>
-						<a class="ui-btn ui-corner-all ui-icon-check ui-btn-icon-left ui-btn-active">Yes</a>
+						<a class="ui-btn ui-corner-all ui-btn-yesno ui-icon-check ui-btn-icon-left ui-btn-active">Yes</a>
 					<% else %>
 						<%= link_to "Yes",
 							{:controller => "events", :action => "attend_event", :user_id => current_user.id, :event_id => @event.id, :rsvp => true},
-							method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-icon-check ui-btn-icon-left" %>
+							method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-btn-yesno ui-icon-check ui-btn-icon-left" %>
 					<% end %>
 					<% if (!@attending.nil? and !@attending) %>
-						<a class="ui-btn ui-corner-all ui-icon-delete ui-btn-icon-left ui-btn-active">No</a>
+						<a class="ui-btn ui-corner-all ui-btn-yesno ui-icon-delete ui-btn-icon-left ui-btn-active">No</a>
 					<% else %>
 						<%= link_to "No",
 							{:controller => "events", :action => "attend_event", :user_id => current_user.id, :event_id => @event.id, :rsvp => false},
-							method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-icon-delete ui-btn-icon-left" %>
+							method: :post, :remote => true, :class => "ui-btn ui-corner-all ui-btn-yesno ui-icon-delete ui-btn-icon-left" %>
 					<% end %>
 				</div>
 			<% else %>
@@ -56,9 +67,6 @@
 
 		</div>
 	
-		<div class="ui-body ui-body-a ui-corner-all">
-			<p><%= @event.description.force_encoding("utf-8") %></p>
-		</div>
 
 
 		<p></p>
