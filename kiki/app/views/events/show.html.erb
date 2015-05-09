@@ -19,7 +19,7 @@
    			</h3>
 			<p>
 			  <%= fa_icon('clock-o') %> <%= @event.time.strftime("%A, %b %-d – %-I:%M") + @event.time.strftime("%P").first %><br/>
-			  <%= fa_icon('map-marker') %> <%= @event.place %>
+			  <%= fa_icon('map-marker') %> <%= link_to @event.place, 'https://maps.google.com?q=' + URI.encode(@event.place) %>
 			</p>
 		</div>
 
